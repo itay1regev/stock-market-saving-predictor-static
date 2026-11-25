@@ -1,0 +1,218 @@
+{
+  "key": "m3",
+  "label": "Money Supply M3",
+  "category": "Money",
+  "source": "FRED",
+  "points": [
+    {
+      "year": 1982,
+      "value": 192039039.0,
+      "display_value": "₪0.2B"
+    },
+    {
+      "year": 1983,
+      "value": 645752474.0,
+      "display_value": "₪0.6B"
+    },
+    {
+      "year": 1984,
+      "value": 3863371970.0,
+      "display_value": "₪3.9B"
+    },
+    {
+      "year": 1985,
+      "value": 10807227250.0,
+      "display_value": "₪10.8B"
+    },
+    {
+      "year": 1986,
+      "value": 12944070600.0,
+      "display_value": "₪12.9B"
+    },
+    {
+      "year": 1987,
+      "value": 16757572779.999998,
+      "display_value": "₪16.8B"
+    },
+    {
+      "year": 1988,
+      "value": 18456666480.0,
+      "display_value": "₪18.5B"
+    },
+    {
+      "year": 1989,
+      "value": 24129311090.0,
+      "display_value": "₪24.1B"
+    },
+    {
+      "year": 1990,
+      "value": 31414072080.0,
+      "display_value": "₪31.4B"
+    },
+    {
+      "year": 1991,
+      "value": 45430743930.0,
+      "display_value": "₪45.4B"
+    },
+    {
+      "year": 1992,
+      "value": 59735269531.25,
+      "display_value": "₪59.7B"
+    },
+    {
+      "year": 1993,
+      "value": 77289406250.0,
+      "display_value": "₪77.3B"
+    },
+    {
+      "year": 1994,
+      "value": 96361031250.0,
+      "display_value": "₪96.4B"
+    },
+    {
+      "year": 1995,
+      "value": 117877273437.5,
+      "display_value": "₪117.9B"
+    },
+    {
+      "year": 1996,
+      "value": 149321671875.0,
+      "display_value": "₪149.3B"
+    },
+    {
+      "year": 1997,
+      "value": 180606031250.0,
+      "display_value": "₪180.6B"
+    },
+    {
+      "year": 1998,
+      "value": 211129203125.0,
+      "display_value": "₪211.1B"
+    },
+    {
+      "year": 1999,
+      "value": 248402296875.0,
+      "display_value": "₪248.4B"
+    },
+    {
+      "year": 2000,
+      "value": 291039562500.0,
+      "display_value": "₪291.0B"
+    },
+    {
+      "year": 2001,
+      "value": 328793125000.0,
+      "display_value": "₪328.8B"
+    },
+    {
+      "year": 2002,
+      "value": 344861093750.0,
+      "display_value": "₪344.9B"
+    },
+    {
+      "year": 2003,
+      "value": 364595031250.0,
+      "display_value": "₪364.6B"
+    },
+    {
+      "year": 2004,
+      "value": 400668750000.0,
+      "display_value": "₪400.7B"
+    },
+    {
+      "year": 2005,
+      "value": 433473406250.0,
+      "display_value": "₪433.5B"
+    },
+    {
+      "year": 2006,
+      "value": 484927593750.0,
+      "display_value": "₪484.9B"
+    },
+    {
+      "year": 2007,
+      "value": 520917250000.0,
+      "display_value": "₪520.9B"
+    },
+    {
+      "year": 2008,
+      "value": 587351875000.0,
+      "display_value": "₪587.4B"
+    },
+    {
+      "year": 2009,
+      "value": 620617375000.0,
+      "display_value": "₪620.6B"
+    },
+    {
+      "year": 2010,
+      "value": 638972125000.0,
+      "display_value": "₪639.0B"
+    },
+    {
+      "year": 2011,
+      "value": 713881750000.0,
+      "display_value": "₪713.9B"
+    },
+    {
+      "year": 2012,
+      "value": 758376875000.0,
+      "display_value": "₪758.4B"
+    },
+    {
+      "year": 2013,
+      "value": 824148937500.0,
+      "display_value": "₪824.1B"
+    },
+    {
+      "year": 2014,
+      "value": 924454312500.0,
+      "display_value": "₪924.5B"
+    },
+    {
+      "year": 2015,
+      "value": 964377687500.0,
+      "display_value": "₪964.4B"
+    },
+    {
+      "year": 2016,
+      "value": 1021132250000.0,
+      "display_value": "₪1,021.1B"
+    },
+    {
+      "year": 2017,
+      "value": 1075110375000.0,
+      "display_value": "₪1,075.1B"
+    },
+    {
+      "year": 2018,
+      "value": 1121560625000.0,
+      "display_value": "₪1,121.6B"
+    },
+    {
+      "year": 2019,
+      "value": 1207954000000.0,
+      "display_value": "₪1,208.0B"
+    },
+    {
+      "year": 2020,
+      "value": 1476606250000.0,
+      "display_value": "₪1,476.6B"
+    },
+    {
+      "year": 2021,
+      "value": 1704185750000.0,
+      "display_value": "₪1,704.2B"
+    },
+    {
+      "year": 2022,
+      "value": 1816455000000.0,
+      "display_value": "₪1,816.5B"
+    },
+    {
+      "year": 2023,
+      "value": 1817384000000.0,
+      "display_value": "₪1,817.4B"
+    }
+  ]
+}

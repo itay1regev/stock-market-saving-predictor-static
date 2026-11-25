@@ -1,0 +1,183 @@
+{
+  "key": "interest_rate",
+  "label": "Interbank Interest Rate",
+  "category": "Money",
+  "source": "FRED",
+  "points": [
+    {
+      "year": 1992,
+      "value": 10.195,
+      "display_value": "10.20%"
+    },
+    {
+      "year": 1993,
+      "value": 9.826296296,
+      "display_value": "9.83%"
+    },
+    {
+      "year": 1994,
+      "value": 17.03230769,
+      "display_value": "17.03%"
+    },
+    {
+      "year": 1995,
+      "value": 15.27,
+      "display_value": "15.27%"
+    },
+    {
+      "year": 1996,
+      "value": 16.47,
+      "display_value": "16.47%"
+    },
+    {
+      "year": 1997,
+      "value": 14.62,
+      "display_value": "14.62%"
+    },
+    {
+      "year": 1998,
+      "value": 14.55,
+      "display_value": "14.55%"
+    },
+    {
+      "year": 1999,
+      "value": 11.96,
+      "display_value": "11.96%"
+    },
+    {
+      "year": 2000,
+      "value": 8.66,
+      "display_value": "8.66%"
+    },
+    {
+      "year": 2001,
+      "value": 5.95,
+      "display_value": "5.95%"
+    },
+    {
+      "year": 2002,
+      "value": 9.64,
+      "display_value": "9.64%"
+    },
+    {
+      "year": 2003,
+      "value": 5.42,
+      "display_value": "5.42%"
+    },
+    {
+      "year": 2004,
+      "value": 4.08,
+      "display_value": "4.08%"
+    },
+    {
+      "year": 2005,
+      "value": 4.6,
+      "display_value": "4.60%"
+    },
+    {
+      "year": 2006,
+      "value": 4.93548387096774,
+      "display_value": "4.94%"
+    },
+    {
+      "year": 2007,
+      "value": 4.04032258064516,
+      "display_value": "4.04%"
+    },
+    {
+      "year": 2008,
+      "value": 2.5,
+      "display_value": "2.50%"
+    },
+    {
+      "year": 2009,
+      "value": 1.00806451612903,
+      "display_value": "1.01%"
+    },
+    {
+      "year": 2010,
+      "value": 2.0,
+      "display_value": "2.00%"
+    },
+    {
+      "year": 2011,
+      "value": 2.75,
+      "display_value": "2.75%"
+    },
+    {
+      "year": 2012,
+      "value": 1.95967741935484,
+      "display_value": "1.96%"
+    },
+    {
+      "year": 2013,
+      "value": 1.0,
+      "display_value": "1.00%"
+    },
+    {
+      "year": 2014,
+      "value": 0.25,
+      "display_value": "0.25%"
+    },
+    {
+      "year": 2015,
+      "value": 0.1,
+      "display_value": "0.10%"
+    },
+    {
+      "year": 2016,
+      "value": 0.1,
+      "display_value": "0.10%"
+    },
+    {
+      "year": 2017,
+      "value": 0.1,
+      "display_value": "0.10%"
+    },
+    {
+      "year": 2018,
+      "value": 0.25,
+      "display_value": "0.25%"
+    },
+    {
+      "year": 2019,
+      "value": 0.25,
+      "display_value": "0.25%"
+    },
+    {
+      "year": 2020,
+      "value": 0.1,
+      "display_value": "0.10%"
+    },
+    {
+      "year": 2021,
+      "value": 0.1,
+      "display_value": "0.10%"
+    },
+    {
+      "year": 2022,
+      "value": 3.25,
+      "display_value": "3.25%"
+    },
+    {
+      "year": 2023,
+      "value": 4.75,
+      "display_value": "4.75%"
+    },
+    {
+      "year": 2024,
+      "value": 4.5,
+      "display_value": "4.50%"
+    },
+    {
+      "year": 2025,
+      "value": 4.25,
+      "display_value": "4.25%"
+    },
+    {
+      "year": 2026,
+      "value": 3.25,
+      "display_value": "3.25%"
+    }
+  ]
+}

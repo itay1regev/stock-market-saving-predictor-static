@@ -1,0 +1,383 @@
+{
+  "key": "consumer_sentiment",
+  "label": "Consumer Sentiment",
+  "category": "Consumer",
+  "source": "FRED",
+  "points": [
+    {
+      "year": 1952,
+      "value": 86.2,
+      "display_value": "86.2 pts"
+    },
+    {
+      "year": 1953,
+      "value": 80.7,
+      "display_value": "80.7 pts"
+    },
+    {
+      "year": 1954,
+      "value": 87.0,
+      "display_value": "87.0 pts"
+    },
+    {
+      "year": 1955,
+      "value": 99.7,
+      "display_value": "99.7 pts"
+    },
+    {
+      "year": 1956,
+      "value": 100.2,
+      "display_value": "100.2 pts"
+    },
+    {
+      "year": 1957,
+      "value": 83.7,
+      "display_value": "83.7 pts"
+    },
+    {
+      "year": 1958,
+      "value": 90.8,
+      "display_value": "90.8 pts"
+    },
+    {
+      "year": 1959,
+      "value": 93.8,
+      "display_value": "93.8 pts"
+    },
+    {
+      "year": 1960,
+      "value": 90.1,
+      "display_value": "90.1 pts"
+    },
+    {
+      "year": 1961,
+      "value": 93.0,
+      "display_value": "93.0 pts"
+    },
+    {
+      "year": 1962,
+      "value": 95.0,
+      "display_value": "95.0 pts"
+    },
+    {
+      "year": 1963,
+      "value": 94.4,
+      "display_value": "94.4 pts"
+    },
+    {
+      "year": 1964,
+      "value": 99.9,
+      "display_value": "99.9 pts"
+    },
+    {
+      "year": 1965,
+      "value": 102.9,
+      "display_value": "102.9 pts"
+    },
+    {
+      "year": 1966,
+      "value": 88.3,
+      "display_value": "88.3 pts"
+    },
+    {
+      "year": 1967,
+      "value": 92.9,
+      "display_value": "92.9 pts"
+    },
+    {
+      "year": 1968,
+      "value": 91.7,
+      "display_value": "91.7 pts"
+    },
+    {
+      "year": 1969,
+      "value": 79.7,
+      "display_value": "79.7 pts"
+    },
+    {
+      "year": 1970,
+      "value": 72.4,
+      "display_value": "72.4 pts"
+    },
+    {
+      "year": 1971,
+      "value": 82.0,
+      "display_value": "82.0 pts"
+    },
+    {
+      "year": 1972,
+      "value": 90.7,
+      "display_value": "90.7 pts"
+    },
+    {
+      "year": 1973,
+      "value": 76.5,
+      "display_value": "76.5 pts"
+    },
+    {
+      "year": 1974,
+      "value": 59.5,
+      "display_value": "59.5 pts"
+    },
+    {
+      "year": 1975,
+      "value": 75.6,
+      "display_value": "75.6 pts"
+    },
+    {
+      "year": 1976,
+      "value": 87.0,
+      "display_value": "87.0 pts"
+    },
+    {
+      "year": 1977,
+      "value": 84.4,
+      "display_value": "84.4 pts"
+    },
+    {
+      "year": 1978,
+      "value": 66.1,
+      "display_value": "66.1 pts"
+    },
+    {
+      "year": 1979,
+      "value": 61.0,
+      "display_value": "61.0 pts"
+    },
+    {
+      "year": 1980,
+      "value": 64.5,
+      "display_value": "64.5 pts"
+    },
+    {
+      "year": 1981,
+      "value": 64.3,
+      "display_value": "64.3 pts"
+    },
+    {
+      "year": 1982,
+      "value": 71.9,
+      "display_value": "71.9 pts"
+    },
+    {
+      "year": 1983,
+      "value": 94.2,
+      "display_value": "94.2 pts"
+    },
+    {
+      "year": 1984,
+      "value": 92.9,
+      "display_value": "92.9 pts"
+    },
+    {
+      "year": 1985,
+      "value": 93.9,
+      "display_value": "93.9 pts"
+    },
+    {
+      "year": 1986,
+      "value": 89.1,
+      "display_value": "89.1 pts"
+    },
+    {
+      "year": 1987,
+      "value": 86.8,
+      "display_value": "86.8 pts"
+    },
+    {
+      "year": 1988,
+      "value": 91.9,
+      "display_value": "91.9 pts"
+    },
+    {
+      "year": 1989,
+      "value": 90.5,
+      "display_value": "90.5 pts"
+    },
+    {
+      "year": 1990,
+      "value": 65.5,
+      "display_value": "65.5 pts"
+    },
+    {
+      "year": 1991,
+      "value": 68.2,
+      "display_value": "68.2 pts"
+    },
+    {
+      "year": 1992,
+      "value": 91.0,
+      "display_value": "91.0 pts"
+    },
+    {
+      "year": 1993,
+      "value": 88.2,
+      "display_value": "88.2 pts"
+    },
+    {
+      "year": 1994,
+      "value": 95.1,
+      "display_value": "95.1 pts"
+    },
+    {
+      "year": 1995,
+      "value": 91.0,
+      "display_value": "91.0 pts"
+    },
+    {
+      "year": 1996,
+      "value": 96.9,
+      "display_value": "96.9 pts"
+    },
+    {
+      "year": 1997,
+      "value": 102.1,
+      "display_value": "102.1 pts"
+    },
+    {
+      "year": 1998,
+      "value": 100.5,
+      "display_value": "100.5 pts"
+    },
+    {
+      "year": 1999,
+      "value": 105.4,
+      "display_value": "105.4 pts"
+    },
+    {
+      "year": 2000,
+      "value": 98.4,
+      "display_value": "98.4 pts"
+    },
+    {
+      "year": 2001,
+      "value": 88.8,
+      "display_value": "88.8 pts"
+    },
+    {
+      "year": 2002,
+      "value": 86.7,
+      "display_value": "86.7 pts"
+    },
+    {
+      "year": 2003,
+      "value": 92.6,
+      "display_value": "92.6 pts"
+    },
+    {
+      "year": 2004,
+      "value": 97.1,
+      "display_value": "97.1 pts"
+    },
+    {
+      "year": 2005,
+      "value": 91.5,
+      "display_value": "91.5 pts"
+    },
+    {
+      "year": 2006,
+      "value": 91.7,
+      "display_value": "91.7 pts"
+    },
+    {
+      "year": 2007,
+      "value": 75.5,
+      "display_value": "75.5 pts"
+    },
+    {
+      "year": 2008,
+      "value": 60.1,
+      "display_value": "60.1 pts"
+    },
+    {
+      "year": 2009,
+      "value": 72.5,
+      "display_value": "72.5 pts"
+    },
+    {
+      "year": 2010,
+      "value": 74.5,
+      "display_value": "74.5 pts"
+    },
+    {
+      "year": 2011,
+      "value": 69.9,
+      "display_value": "69.9 pts"
+    },
+    {
+      "year": 2012,
+      "value": 72.9,
+      "display_value": "72.9 pts"
+    },
+    {
+      "year": 2013,
+      "value": 82.5,
+      "display_value": "82.5 pts"
+    },
+    {
+      "year": 2014,
+      "value": 93.6,
+      "display_value": "93.6 pts"
+    },
+    {
+      "year": 2015,
+      "value": 92.6,
+      "display_value": "92.6 pts"
+    },
+    {
+      "year": 2016,
+      "value": 98.2,
+      "display_value": "98.2 pts"
+    },
+    {
+      "year": 2017,
+      "value": 95.9,
+      "display_value": "95.9 pts"
+    },
+    {
+      "year": 2018,
+      "value": 98.3,
+      "display_value": "98.3 pts"
+    },
+    {
+      "year": 2019,
+      "value": 99.3,
+      "display_value": "99.3 pts"
+    },
+    {
+      "year": 2020,
+      "value": 80.7,
+      "display_value": "80.7 pts"
+    },
+    {
+      "year": 2021,
+      "value": 70.6,
+      "display_value": "70.6 pts"
+    },
+    {
+      "year": 2022,
+      "value": 59.8,
+      "display_value": "59.8 pts"
+    },
+    {
+      "year": 2023,
+      "value": 69.7,
+      "display_value": "69.7 pts"
+    },
+    {
+      "year": 2024,
+      "value": 74.0,
+      "display_value": "74.0 pts"
+    },
+    {
+      "year": 2025,
+      "value": 52.9,
+      "display_value": "52.9 pts"
+    },
+    {
+      "year": 2026,
+      "value": 48.0,
+      "display_value": "48.0 pts"
+    }
+  ]
+}

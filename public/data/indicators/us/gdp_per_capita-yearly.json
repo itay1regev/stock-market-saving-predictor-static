@@ -1,0 +1,408 @@
+{
+  "key": "gdp_per_capita",
+  "label": "GDP per Capita",
+  "category": "GDP",
+  "source": "FRED",
+  "points": [
+    {
+      "year": 1947,
+      "value": 1790.0,
+      "display_value": "$1,790"
+    },
+    {
+      "year": 1948,
+      "value": 1899.0,
+      "display_value": "$1,899"
+    },
+    {
+      "year": 1949,
+      "value": 1802.0,
+      "display_value": "$1,802"
+    },
+    {
+      "year": 1950,
+      "value": 2096.0,
+      "display_value": "$2,096"
+    },
+    {
+      "year": 1951,
+      "value": 2293.0,
+      "display_value": "$2,293"
+    },
+    {
+      "year": 1952,
+      "value": 2410.0,
+      "display_value": "$2,410"
+    },
+    {
+      "year": 1953,
+      "value": 2403.0,
+      "display_value": "$2,403"
+    },
+    {
+      "year": 1954,
+      "value": 2445.0,
+      "display_value": "$2,445"
+    },
+    {
+      "year": 1955,
+      "value": 2626.0,
+      "display_value": "$2,626"
+    },
+    {
+      "year": 1956,
+      "value": 2718.0,
+      "display_value": "$2,718"
+    },
+    {
+      "year": 1957,
+      "value": 2754.0,
+      "display_value": "$2,754"
+    },
+    {
+      "year": 1958,
+      "value": 2850.0,
+      "display_value": "$2,850"
+    },
+    {
+      "year": 1959,
+      "value": 2965.0,
+      "display_value": "$2,965"
+    },
+    {
+      "year": 1960,
+      "value": 2968.0,
+      "display_value": "$2,968"
+    },
+    {
+      "year": 1961,
+      "value": 3140.0,
+      "display_value": "$3,140"
+    },
+    {
+      "year": 1962,
+      "value": 3262.0,
+      "display_value": "$3,262"
+    },
+    {
+      "year": 1963,
+      "value": 3435.0,
+      "display_value": "$3,435"
+    },
+    {
+      "year": 1964,
+      "value": 3614.0,
+      "display_value": "$3,614"
+    },
+    {
+      "year": 1965,
+      "value": 3953.0,
+      "display_value": "$3,953"
+    },
+    {
+      "year": 1966,
+      "value": 4220.0,
+      "display_value": "$4,220"
+    },
+    {
+      "year": 1967,
+      "value": 4417.0,
+      "display_value": "$4,417"
+    },
+    {
+      "year": 1968,
+      "value": 4803.0,
+      "display_value": "$4,803"
+    },
+    {
+      "year": 1969,
+      "value": 5099.0,
+      "display_value": "$5,099"
+    },
+    {
+      "year": 1970,
+      "value": 5281.0,
+      "display_value": "$5,281"
+    },
+    {
+      "year": 1971,
+      "value": 5705.0,
+      "display_value": "$5,705"
+    },
+    {
+      "year": 1972,
+      "value": 6306.0,
+      "display_value": "$6,306"
+    },
+    {
+      "year": 1973,
+      "value": 6940.0,
+      "display_value": "$6,940"
+    },
+    {
+      "year": 1974,
+      "value": 7451.0,
+      "display_value": "$7,451"
+    },
+    {
+      "year": 1975,
+      "value": 8125.0,
+      "display_value": "$8,125"
+    },
+    {
+      "year": 1976,
+      "value": 8836.0,
+      "display_value": "$8,836"
+    },
+    {
+      "year": 1977,
+      "value": 9784.0,
+      "display_value": "$9,784"
+    },
+    {
+      "year": 1978,
+      "value": 11078.0,
+      "display_value": "$11,078"
+    },
+    {
+      "year": 1979,
+      "value": 12046.0,
+      "display_value": "$12,046"
+    },
+    {
+      "year": 1980,
+      "value": 13055.0,
+      "display_value": "$13,055"
+    },
+    {
+      "year": 1981,
+      "value": 14209.0,
+      "display_value": "$14,209"
+    },
+    {
+      "year": 1982,
+      "value": 14599.0,
+      "display_value": "$14,599"
+    },
+    {
+      "year": 1983,
+      "value": 16137.0,
+      "display_value": "$16,137"
+    },
+    {
+      "year": 1984,
+      "value": 17487.0,
+      "display_value": "$17,487"
+    },
+    {
+      "year": 1985,
+      "value": 18564.0,
+      "display_value": "$18,564"
+    },
+    {
+      "year": 1986,
+      "value": 19283.0,
+      "display_value": "$19,283"
+    },
+    {
+      "year": 1987,
+      "value": 20548.0,
+      "display_value": "$20,548"
+    },
+    {
+      "year": 1988,
+      "value": 21952.0,
+      "display_value": "$21,952"
+    },
+    {
+      "year": 1989,
+      "value": 23139.0,
+      "display_value": "$23,139"
+    },
+    {
+      "year": 1990,
+      "value": 23877.0,
+      "display_value": "$23,877"
+    },
+    {
+      "year": 1991,
+      "value": 24583.0,
+      "display_value": "$24,583"
+    },
+    {
+      "year": 1992,
+      "value": 25867.0,
+      "display_value": "$25,867"
+    },
+    {
+      "year": 1993,
+      "value": 26816.0,
+      "display_value": "$26,816"
+    },
+    {
+      "year": 1994,
+      "value": 28167.0,
+      "display_value": "$28,167"
+    },
+    {
+      "year": 1995,
+      "value": 29022.0,
+      "display_value": "$29,022"
+    },
+    {
+      "year": 1996,
+      "value": 30480.0,
+      "display_value": "$30,480"
+    },
+    {
+      "year": 1997,
+      "value": 31964.0,
+      "display_value": "$31,964"
+    },
+    {
+      "year": 1998,
+      "value": 33504.0,
+      "display_value": "$33,504"
+    },
+    {
+      "year": 1999,
+      "value": 35283.0,
+      "display_value": "$35,283"
+    },
+    {
+      "year": 2000,
+      "value": 36808.0,
+      "display_value": "$36,808"
+    },
+    {
+      "year": 2001,
+      "value": 37234.0,
+      "display_value": "$37,234"
+    },
+    {
+      "year": 2002,
+      "value": 38274.0,
+      "display_value": "$38,274"
+    },
+    {
+      "year": 2003,
+      "value": 40362.0,
+      "display_value": "$40,362"
+    },
+    {
+      "year": 2004,
+      "value": 42561.0,
+      "display_value": "$42,561"
+    },
+    {
+      "year": 2005,
+      "value": 44850.0,
+      "display_value": "$44,850"
+    },
+    {
+      "year": 2006,
+      "value": 46807.0,
+      "display_value": "$46,807"
+    },
+    {
+      "year": 2007,
+      "value": 48592.0,
+      "display_value": "$48,592"
+    },
+    {
+      "year": 2008,
+      "value": 47799.0,
+      "display_value": "$47,799"
+    },
+    {
+      "year": 2009,
+      "value": 47525.0,
+      "display_value": "$47,525"
+    },
+    {
+      "year": 2010,
+      "value": 49256.0,
+      "display_value": "$49,256"
+    },
+    {
+      "year": 2011,
+      "value": 50573.0,
+      "display_value": "$50,573"
+    },
+    {
+      "year": 2012,
+      "value": 52015.0,
+      "display_value": "$52,015"
+    },
+    {
+      "year": 2013,
+      "value": 54051.0,
+      "display_value": "$54,051"
+    },
+    {
+      "year": 2014,
+      "value": 55869.0,
+      "display_value": "$55,869"
+    },
+    {
+      "year": 2015,
+      "value": 57055.0,
+      "display_value": "$57,055"
+    },
+    {
+      "year": 2016,
+      "value": 58636.0,
+      "display_value": "$58,636"
+    },
+    {
+      "year": 2017,
+      "value": 61146.0,
+      "display_value": "$61,146"
+    },
+    {
+      "year": 2018,
+      "value": 63479.0,
+      "display_value": "$63,479"
+    },
+    {
+      "year": 2019,
+      "value": 66222.0,
+      "display_value": "$66,222"
+    },
+    {
+      "year": 2020,
+      "value": 66505.0,
+      "display_value": "$66,505"
+    },
+    {
+      "year": 2021,
+      "value": 74521.0,
+      "display_value": "$74,521"
+    },
+    {
+      "year": 2022,
+      "value": 79839.0,
+      "display_value": "$79,839"
+    },
+    {
+      "year": 2023,
+      "value": 84142.0,
+      "display_value": "$84,142"
+    },
+    {
+      "year": 2024,
+      "value": 87769.0,
+      "display_value": "$87,769"
+    },
+    {
+      "year": 2025,
+      "value": 91879.0,
+      "display_value": "$91,879"
+    },
+    {
+      "year": 2026,
+      "value": 96237.0,
+      "display_value": "$96,237"
+    }
+  ]
+}

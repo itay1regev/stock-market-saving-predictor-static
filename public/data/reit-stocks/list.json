@@ -1,0 +1,34 @@
+{
+  "stocks": [
+    {
+      "security_id": "1109644",
+      "name": "סלע נדלן",
+      "industry": "נדל\"ן מניב בישראל",
+      "weight_pct": 0.2041,
+      "pe": 9.16,
+      "pb": 0.73,
+      "roe_pct": 7.97,
+      "bizportal_url": "https://www.bizportal.co.il/realestates/quote/generalview/1109644",
+      "display_weight_pct": "0.20%",
+      "display_pe": "9.16",
+      "display_pb": "0.73",
+      "display_roe_pct": "7.97%",
+      "is_saved": false
+    },
+    {
+      "security_id": "1098920",
+      "name": "ריט 1",
+      "industry": "נדל\"ן מניב בישראל",
+      "weight_pct": 0.4283,
+      "pe": 10.27,
+      "pb": 0.92,
+      "roe_pct": 8.93,
+      "bizportal_url": "https://www.bizportal.co.il/realestates/quote/generalview/1098920",
+      "display_weight_pct": "0.43%",
+      "display_pe": "10.27",
+      "display_pb": "0.92",
+      "display_roe_pct": "8.93%",
+      "is_saved": false
+    }
+  ]
+}

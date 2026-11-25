@@ -1,0 +1,328 @@
+{
+  "key": "median_house_price",
+  "label": "Median House Price",
+  "category": "Housing",
+  "source": "FRED",
+  "points": [
+    {
+      "year": 1963,
+      "value": 18500.0,
+      "display_value": "$18,500"
+    },
+    {
+      "year": 1964,
+      "value": 19400.0,
+      "display_value": "$19,400"
+    },
+    {
+      "year": 1965,
+      "value": 20300.0,
+      "display_value": "$20,300"
+    },
+    {
+      "year": 1966,
+      "value": 21400.0,
+      "display_value": "$21,400"
+    },
+    {
+      "year": 1967,
+      "value": 22900.0,
+      "display_value": "$22,900"
+    },
+    {
+      "year": 1968,
+      "value": 25600.0,
+      "display_value": "$25,600"
+    },
+    {
+      "year": 1969,
+      "value": 24900.0,
+      "display_value": "$24,900"
+    },
+    {
+      "year": 1970,
+      "value": 22600.0,
+      "display_value": "$22,600"
+    },
+    {
+      "year": 1971,
+      "value": 25500.0,
+      "display_value": "$25,500"
+    },
+    {
+      "year": 1972,
+      "value": 29200.0,
+      "display_value": "$29,200"
+    },
+    {
+      "year": 1973,
+      "value": 34000.0,
+      "display_value": "$34,000"
+    },
+    {
+      "year": 1974,
+      "value": 37200.0,
+      "display_value": "$37,200"
+    },
+    {
+      "year": 1975,
+      "value": 41200.0,
+      "display_value": "$41,200"
+    },
+    {
+      "year": 1976,
+      "value": 45500.0,
+      "display_value": "$45,500"
+    },
+    {
+      "year": 1977,
+      "value": 51600.0,
+      "display_value": "$51,600"
+    },
+    {
+      "year": 1978,
+      "value": 59000.0,
+      "display_value": "$59,000"
+    },
+    {
+      "year": 1979,
+      "value": 62600.0,
+      "display_value": "$62,600"
+    },
+    {
+      "year": 1980,
+      "value": 66400.0,
+      "display_value": "$66,400"
+    },
+    {
+      "year": 1981,
+      "value": 70400.0,
+      "display_value": "$70,400"
+    },
+    {
+      "year": 1982,
+      "value": 71600.0,
+      "display_value": "$71,600"
+    },
+    {
+      "year": 1983,
+      "value": 75900.0,
+      "display_value": "$75,900"
+    },
+    {
+      "year": 1984,
+      "value": 79900.0,
+      "display_value": "$79,900"
+    },
+    {
+      "year": 1985,
+      "value": 86800.0,
+      "display_value": "$86,800"
+    },
+    {
+      "year": 1986,
+      "value": 95000.0,
+      "display_value": "$95,000"
+    },
+    {
+      "year": 1987,
+      "value": 111500.0,
+      "display_value": "$111,500"
+    },
+    {
+      "year": 1988,
+      "value": 113900.0,
+      "display_value": "$113,900"
+    },
+    {
+      "year": 1989,
+      "value": 124800.0,
+      "display_value": "$124,800"
+    },
+    {
+      "year": 1990,
+      "value": 121500.0,
+      "display_value": "$121,500"
+    },
+    {
+      "year": 1991,
+      "value": 120000.0,
+      "display_value": "$120,000"
+    },
+    {
+      "year": 1992,
+      "value": 126000.0,
+      "display_value": "$126,000"
+    },
+    {
+      "year": 1993,
+      "value": 127000.0,
+      "display_value": "$127,000"
+    },
+    {
+      "year": 1994,
+      "value": 132000.0,
+      "display_value": "$132,000"
+    },
+    {
+      "year": 1995,
+      "value": 138000.0,
+      "display_value": "$138,000"
+    },
+    {
+      "year": 1996,
+      "value": 144100.0,
+      "display_value": "$144,100"
+    },
+    {
+      "year": 1997,
+      "value": 144200.0,
+      "display_value": "$144,200"
+    },
+    {
+      "year": 1998,
+      "value": 153000.0,
+      "display_value": "$153,000"
+    },
+    {
+      "year": 1999,
+      "value": 165300.0,
+      "display_value": "$165,300"
+    },
+    {
+      "year": 2000,
+      "value": 172900.0,
+      "display_value": "$172,900"
+    },
+    {
+      "year": 2001,
+      "value": 171100.0,
+      "display_value": "$171,100"
+    },
+    {
+      "year": 2002,
+      "value": 190100.0,
+      "display_value": "$190,100"
+    },
+    {
+      "year": 2003,
+      "value": 198800.0,
+      "display_value": "$198,800"
+    },
+    {
+      "year": 2004,
+      "value": 228800.0,
+      "display_value": "$228,800"
+    },
+    {
+      "year": 2005,
+      "value": 243600.0,
+      "display_value": "$243,600"
+    },
+    {
+      "year": 2006,
+      "value": 245400.0,
+      "display_value": "$245,400"
+    },
+    {
+      "year": 2007,
+      "value": 238400.0,
+      "display_value": "$238,400"
+    },
+    {
+      "year": 2008,
+      "value": 222500.0,
+      "display_value": "$222,500"
+    },
+    {
+      "year": 2009,
+      "value": 219000.0,
+      "display_value": "$219,000"
+    },
+    {
+      "year": 2010,
+      "value": 224300.0,
+      "display_value": "$224,300"
+    },
+    {
+      "year": 2011,
+      "value": 221100.0,
+      "display_value": "$221,100"
+    },
+    {
+      "year": 2012,
+      "value": 251700.0,
+      "display_value": "$251,700"
+    },
+    {
+      "year": 2013,
+      "value": 273600.0,
+      "display_value": "$273,600"
+    },
+    {
+      "year": 2014,
+      "value": 298900.0,
+      "display_value": "$298,900"
+    },
+    {
+      "year": 2015,
+      "value": 302500.0,
+      "display_value": "$302,500"
+    },
+    {
+      "year": 2016,
+      "value": 310900.0,
+      "display_value": "$310,900"
+    },
+    {
+      "year": 2017,
+      "value": 337900.0,
+      "display_value": "$337,900"
+    },
+    {
+      "year": 2018,
+      "value": 322800.0,
+      "display_value": "$322,800"
+    },
+    {
+      "year": 2019,
+      "value": 327100.0,
+      "display_value": "$327,100"
+    },
+    {
+      "year": 2020,
+      "value": 338600.0,
+      "display_value": "$338,600"
+    },
+    {
+      "year": 2021,
+      "value": 414000.0,
+      "display_value": "$414,000"
+    },
+    {
+      "year": 2022,
+      "value": 442600.0,
+      "display_value": "$442,600"
+    },
+    {
+      "year": 2023,
+      "value": 423200.0,
+      "display_value": "$423,200"
+    },
+    {
+      "year": 2024,
+      "value": 419300.0,
+      "display_value": "$419,300"
+    },
+    {
+      "year": 2025,
+      "value": 412300.0,
+      "display_value": "$412,300"
+    },
+    {
+      "year": 2026,
+      "value": 393300.0,
+      "display_value": "$393,300"
+    }
+  ]
+}

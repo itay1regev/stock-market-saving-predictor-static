@@ -1,0 +1,46 @@
+{
+  "etfs": [
+    {
+      "symbol": "SHY",
+      "name": "iShares 1-3 Year Treasury Bond ETF",
+      "issuer": "iShares",
+      "category": "Short Government",
+      "price": 81.57,
+      "change_pct": 0.0,
+      "aum": 27439355904.0,
+      "expense_ratio": 0.15,
+      "avg_volume": 4927839.0,
+      "ytd_return_pct": 1.29092,
+      "dividend_yield_pct": 3.61,
+      "dividend_treatment": "Distributing",
+      "display_price": "$81.57",
+      "display_change_pct": "0.00%",
+      "display_aum": "$27.4B",
+      "display_expense_ratio": "0.15%",
+      "display_avg_volume": "4.9M",
+      "display_ytd_return_pct": "1.29%",
+      "display_dividend_yield_pct": "3.61%"
+    },
+    {
+      "symbol": "SHV",
+      "name": "iShares 0–1 Year Treasury Bond ETF",
+      "issuer": "iShares",
+      "category": "Ultrashort Bond",
+      "price": 110.29,
+      "change_pct": 0.009067827348571922,
+      "aum": 21425623040.0,
+      "expense_ratio": 0.15,
+      "avg_volume": 3840170.0,
+      "ytd_return_pct": 2.95645,
+      "dividend_yield_pct": 3.63,
+      "dividend_treatment": "Distributing",
+      "display_price": "$110.29",
+      "display_change_pct": "0.01%",
+      "display_aum": "$21.4B",
+      "display_expense_ratio": "0.15%",
+      "display_avg_volume": "3.8M",
+      "display_ytd_return_pct": "2.96%",
+      "display_dividend_yield_pct": "3.63%"
+    }
+  ]
+}

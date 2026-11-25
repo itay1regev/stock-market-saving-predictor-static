@@ -1,0 +1,143 @@
+{
+  "key": "ppi",
+  "label": "Producer Price Inflation",
+  "category": "Prices",
+  "source": "FRED",
+  "points": [
+    {
+      "year": 1996,
+      "value": 0.301267400789551,
+      "display_value": "0.3%"
+    },
+    {
+      "year": 1997,
+      "value": 1.09787674779918,
+      "display_value": "1.1%"
+    },
+    {
+      "year": 1998,
+      "value": -1.28060649523632,
+      "display_value": "-1.3%"
+    },
+    {
+      "year": 1999,
+      "value": 1.69157326691582,
+      "display_value": "1.7%"
+    },
+    {
+      "year": 2000,
+      "value": 2.86763955505678,
+      "display_value": "2.9%"
+    },
+    {
+      "year": 2001,
+      "value": -0.198412698412709,
+      "display_value": "-0.2%"
+    },
+    {
+      "year": 2002,
+      "value": 0.795228628230538,
+      "display_value": "0.8%"
+    },
+    {
+      "year": 2003,
+      "value": -0.098619329388516,
+      "display_value": "-0.1%"
+    },
+    {
+      "year": 2004,
+      "value": 2.36920039486668,
+      "display_value": "2.4%"
+    },
+    {
+      "year": 2005,
+      "value": 1.30163818009315,
+      "display_value": "1.3%"
+    },
+    {
+      "year": 2006,
+      "value": 1.99004975124377,
+      "display_value": "2.0%"
+    },
+    {
+      "year": 2007,
+      "value": 1.85365853658537,
+      "display_value": "1.9%"
+    },
+    {
+      "year": 2008,
+      "value": -0.191570881226133,
+      "display_value": "-0.2%"
+    },
+    {
+      "year": 2009,
+      "value": -0.575815738963537,
+      "display_value": "-0.6%"
+    },
+    {
+      "year": 2010,
+      "value": 4.06763250799953,
+      "display_value": "4.1%"
+    },
+    {
+      "year": 2011,
+      "value": 2.26377952755905,
+      "display_value": "2.3%"
+    },
+    {
+      "year": 2012,
+      "value": 1.15495668912367,
+      "display_value": "1.2%"
+    },
+    {
+      "year": 2013,
+      "value": -0.570884871550426,
+      "display_value": "-0.6%"
+    },
+    {
+      "year": 2014,
+      "value": -0.478468899521489,
+      "display_value": "-0.5%"
+    },
+    {
+      "year": 2015,
+      "value": -0.105044453034453,
+      "display_value": "-0.1%"
+    },
+    {
+      "year": 2016,
+      "value": 1.10775427995973,
+      "display_value": "1.1%"
+    },
+    {
+      "year": 2017,
+      "value": 1.19521912350598,
+      "display_value": "1.2%"
+    },
+    {
+      "year": 2018,
+      "value": 1.37795275590551,
+      "display_value": "1.4%"
+    },
+    {
+      "year": 2019,
+      "value": 0.776699029126204,
+      "display_value": "0.8%"
+    },
+    {
+      "year": 2020,
+      "value": -0.674373795761085,
+      "display_value": "-0.7%"
+    },
+    {
+      "year": 2021,
+      "value": 9.11736178467508,
+      "display_value": "9.1%"
+    },
+    {
+      "year": 2022,
+      "value": 11.2888888888889,
+      "display_value": "11.3%"
+    }
+  ]
+}

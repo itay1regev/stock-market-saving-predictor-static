@@ -1,0 +1,308 @@
+{
+  "key": "jobless_claims",
+  "label": "Initial Jobless Claims",
+  "category": "Labour",
+  "source": "FRED",
+  "points": [
+    {
+      "year": 1967,
+      "value": 216000.0,
+      "display_value": "216K"
+    },
+    {
+      "year": 1968,
+      "value": 223000.0,
+      "display_value": "223K"
+    },
+    {
+      "year": 1969,
+      "value": 223000.0,
+      "display_value": "223K"
+    },
+    {
+      "year": 1970,
+      "value": 321000.0,
+      "display_value": "321K"
+    },
+    {
+      "year": 1971,
+      "value": 244000.0,
+      "display_value": "244K"
+    },
+    {
+      "year": 1972,
+      "value": 225000.0,
+      "display_value": "225K"
+    },
+    {
+      "year": 1973,
+      "value": 300000.0,
+      "display_value": "300K"
+    },
+    {
+      "year": 1974,
+      "value": 537000.0,
+      "display_value": "537K"
+    },
+    {
+      "year": 1975,
+      "value": 391000.0,
+      "display_value": "391K"
+    },
+    {
+      "year": 1976,
+      "value": 333000.0,
+      "display_value": "333K"
+    },
+    {
+      "year": 1977,
+      "value": 364000.0,
+      "display_value": "364K"
+    },
+    {
+      "year": 1978,
+      "value": 358000.0,
+      "display_value": "358K"
+    },
+    {
+      "year": 1979,
+      "value": 428000.0,
+      "display_value": "428K"
+    },
+    {
+      "year": 1980,
+      "value": 399000.0,
+      "display_value": "399K"
+    },
+    {
+      "year": 1981,
+      "value": 556000.0,
+      "display_value": "556K"
+    },
+    {
+      "year": 1982,
+      "value": 489000.0,
+      "display_value": "489K"
+    },
+    {
+      "year": 1983,
+      "value": 372000.0,
+      "display_value": "372K"
+    },
+    {
+      "year": 1984,
+      "value": 379000.0,
+      "display_value": "379K"
+    },
+    {
+      "year": 1985,
+      "value": 390000.0,
+      "display_value": "390K"
+    },
+    {
+      "year": 1986,
+      "value": 345000.0,
+      "display_value": "345K"
+    },
+    {
+      "year": 1987,
+      "value": 316000.0,
+      "display_value": "316K"
+    },
+    {
+      "year": 1988,
+      "value": 304000.0,
+      "display_value": "304K"
+    },
+    {
+      "year": 1989,
+      "value": 358000.0,
+      "display_value": "358K"
+    },
+    {
+      "year": 1990,
+      "value": 454000.0,
+      "display_value": "454K"
+    },
+    {
+      "year": 1991,
+      "value": 441000.0,
+      "display_value": "441K"
+    },
+    {
+      "year": 1992,
+      "value": 313000.0,
+      "display_value": "313K"
+    },
+    {
+      "year": 1993,
+      "value": 290000.0,
+      "display_value": "290K"
+    },
+    {
+      "year": 1994,
+      "value": 319000.0,
+      "display_value": "319K"
+    },
+    {
+      "year": 1995,
+      "value": 359000.0,
+      "display_value": "359K"
+    },
+    {
+      "year": 1996,
+      "value": 357000.0,
+      "display_value": "357K"
+    },
+    {
+      "year": 1997,
+      "value": 303000.0,
+      "display_value": "303K"
+    },
+    {
+      "year": 1998,
+      "value": 336000.0,
+      "display_value": "336K"
+    },
+    {
+      "year": 1999,
+      "value": 268000.0,
+      "display_value": "268K"
+    },
+    {
+      "year": 2000,
+      "value": 353000.0,
+      "display_value": "353K"
+    },
+    {
+      "year": 2001,
+      "value": 421000.0,
+      "display_value": "421K"
+    },
+    {
+      "year": 2002,
+      "value": 409000.0,
+      "display_value": "409K"
+    },
+    {
+      "year": 2003,
+      "value": 349000.0,
+      "display_value": "349K"
+    },
+    {
+      "year": 2004,
+      "value": 320000.0,
+      "display_value": "320K"
+    },
+    {
+      "year": 2005,
+      "value": 302000.0,
+      "display_value": "302K"
+    },
+    {
+      "year": 2006,
+      "value": 341000.0,
+      "display_value": "341K"
+    },
+    {
+      "year": 2007,
+      "value": 360000.0,
+      "display_value": "360K"
+    },
+    {
+      "year": 2008,
+      "value": 533000.0,
+      "display_value": "533K"
+    },
+    {
+      "year": 2009,
+      "value": 468000.0,
+      "display_value": "468K"
+    },
+    {
+      "year": 2010,
+      "value": 404000.0,
+      "display_value": "404K"
+    },
+    {
+      "year": 2011,
+      "value": 376000.0,
+      "display_value": "376K"
+    },
+    {
+      "year": 2012,
+      "value": 362000.0,
+      "display_value": "362K"
+    },
+    {
+      "year": 2013,
+      "value": 332000.0,
+      "display_value": "332K"
+    },
+    {
+      "year": 2014,
+      "value": 285000.0,
+      "display_value": "285K"
+    },
+    {
+      "year": 2015,
+      "value": 276000.0,
+      "display_value": "276K"
+    },
+    {
+      "year": 2016,
+      "value": 244000.0,
+      "display_value": "244K"
+    },
+    {
+      "year": 2017,
+      "value": 248000.0,
+      "display_value": "248K"
+    },
+    {
+      "year": 2018,
+      "value": 238000.0,
+      "display_value": "238K"
+    },
+    {
+      "year": 2019,
+      "value": 231000.0,
+      "display_value": "231K"
+    },
+    {
+      "year": 2020,
+      "value": 773000.0,
+      "display_value": "773K"
+    },
+    {
+      "year": 2021,
+      "value": 217000.0,
+      "display_value": "217K"
+    },
+    {
+      "year": 2022,
+      "value": 205000.0,
+      "display_value": "205K"
+    },
+    {
+      "year": 2023,
+      "value": 200000.0,
+      "display_value": "200K"
+    },
+    {
+      "year": 2024,
+      "value": 212000.0,
+      "display_value": "212K"
+    },
+    {
+      "year": 2025,
+      "value": 203000.0,
+      "display_value": "203K"
+    },
+    {
+      "year": 2026,
+      "value": 203000.0,
+      "display_value": "203K"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "etfs": [
+    {
+      "symbol": "5136395",
+      "name": "Yelin Lapidot Global Semiconductor Index Fund",
+      "issuer": "Yelin Lapidot",
+      "category": "Global Semiconductor Sector Index Fund (TASE)",
+      "price": 319.01,
+      "change_pct": 0.84,
+      "aum": 84600000.0,
+      "expense_ratio": 0.79,
+      "avg_volume": null,
+      "ytd_return_pct": 70.69,
+      "dividend_yield_pct": null,
+      "dividend_treatment": "Accumulating",
+      "display_price": "₪319.01",
+      "display_change_pct": "0.84%",
+      "display_aum": "₪84.6M",
+      "display_expense_ratio": "0.790%",
+      "display_avg_volume": "—",
+      "display_ytd_return_pct": "70.69%",
+      "display_dividend_yield_pct": "—"
+    },
+    {
+      "symbol": "5135157",
+      "name": "Yelin Lapidot US Cybersecurity Index Fund (Currency-Hedged)",
+      "issuer": "Yelin Lapidot",
+      "category": "US Cybersecurity Sector Index Fund (TASE, currency-hedged)",
+      "price": 179.14,
+      "change_pct": -1.91,
+      "aum": 19400000.0,
+      "expense_ratio": 0.79,
+      "avg_volume": null,
+      "ytd_return_pct": 43.6,
+      "dividend_yield_pct": null,
+      "dividend_treatment": "Accumulating",
+      "display_price": "₪179.14",
+      "display_change_pct": "-1.91%",
+      "display_aum": "₪19.4M",
+      "display_expense_ratio": "0.790%",
+      "display_avg_volume": "—",
+      "display_ytd_return_pct": "43.60%",
+      "display_dividend_yield_pct": "—"
+    }
+  ]
+}

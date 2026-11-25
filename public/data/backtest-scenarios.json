@@ -1,0 +1,7382 @@
+{
+  "sp500__lump_sum": {
+    "asset": "sp500",
+    "asset_label": "S&P 500 (SPY)",
+    "start_date": "2016-11-25",
+    "end_date": "2026-11-25",
+    "start_balance": 10000.0,
+    "end_balance": 37995.08788174781,
+    "total_contributed": 10000.0,
+    "total_gain": 27995.087881747808,
+    "cagr": 0.1485700041655098,
+    "annualized_stdev": 0.15307023646898307,
+    "best_year": {
+      "year": 2019,
+      "return_pct": 0.31223845958588625,
+      "ending_balance": 15469.88806984403
+    },
+    "worst_year": {
+      "year": 2022,
+      "return_pct": -0.18175366421200378,
+      "ending_balance": 19281.80798215183
+    },
+    "max_drawdown_pct": -0.2392717791308988,
+    "sharpe_ratio": 0.9706002132923787,
+    "sortino_ratio": 1.3935340834796357,
+    "growth_chart": [
+      {
+        "date": "2016-11-25",
+        "balance": 10000.0,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2016-11-30",
+        "balance": 9948.53406743556,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2016-12-31",
+        "balance": 10150.210801659312,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-01-31",
+        "balance": 10331.846254731643,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-02-28",
+        "balance": 10737.798548303705,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-03-31",
+        "balance": 10751.222585097004,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-04-30",
+        "balance": 10857.93976565405,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-05-31",
+        "balance": 11011.177690433306,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-06-30",
+        "balance": 11081.37339277346,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-07-31",
+        "balance": 11309.141621450712,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-08-31",
+        "balance": 11342.136698846822,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-09-30",
+        "balance": 11570.675218645723,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-10-31",
+        "balance": 11843.328431969581,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-11-30",
+        "balance": 12205.329769291759,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-12-31",
+        "balance": 12353.3531054831,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-01-31",
+        "balance": 13049.57851766951,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-02-28",
+        "balance": 12575.094511897569,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-03-31",
+        "balance": 12230.400123891848,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-04-30",
+        "balance": 12293.614810883446,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-05-31",
+        "balance": 12592.4571157558,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-06-30",
+        "balance": 12664.87658000421,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-07-31",
+        "balance": 13134.067758194728,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-08-31",
+        "balance": 13553.30374232431,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-09-30",
+        "balance": 13633.881839761701,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-10-31",
+        "balance": 12691.727073353492,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-11-30",
+        "balance": 12927.146591643268,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-12-31",
+        "balance": 11788.930553617503,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-01-31",
+        "balance": 12732.819483283874,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-02-28",
+        "balance": 13145.563244127437,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-03-31",
+        "balance": 13383.508994661197,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-04-30",
+        "balance": 13930.24792081891,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-05-31",
+        "balance": 13041.909483130623,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-06-30",
+        "balance": 13949.446317968108,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-07-31",
+        "balance": 14160.351220487968,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-08-31",
+        "balance": 13923.261259357423,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-09-30",
+        "balance": 14194.174663310187,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-10-31",
+        "balance": 14507.93399855298,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-11-30",
+        "balance": 15033.096707428913,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-12-31",
+        "balance": 15469.88806984403,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-01-31",
+        "balance": 15463.641855764397,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-02-29",
+        "balance": 14239.451649511893,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-03-31",
+        "balance": 12461.351953676063,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-04-30",
+        "balance": 14043.739630308655,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-05-31",
+        "balance": 14712.8556345384,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-06-30",
+        "balance": 14973.778644949027,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-07-31",
+        "balance": 15855.622439588607,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-08-31",
+        "balance": 16962.29283806706,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-09-30",
+        "balance": 16327.16159417192,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-10-31",
+        "balance": 15920.068785787282,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-11-30",
+        "balance": 17651.804215387914,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-12-31",
+        "balance": 18305.774118379628,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-01-31",
+        "balance": 18119.228160230232,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-02-28",
+        "balance": 18623.045335867093,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-03-31",
+        "balance": 19468.512031463368,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-04-30",
+        "balance": 20498.603393636506,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-05-31",
+        "balance": 20633.19866009674,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-06-30",
+        "balance": 21095.94762343008,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-07-31",
+        "balance": 21610.95378172611,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-08-31",
+        "balance": 22254.089600585903,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-09-30",
+        "balance": 21216.92930501996,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-10-31",
+        "balance": 22705.583441079987,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-11-30",
+        "balance": 22523.14623997109,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-12-31",
+        "balance": 23564.796001906772,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-01-31",
+        "balance": 22321.955878047185,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-02-28",
+        "balance": 21663.080309503777,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-03-31",
+        "balance": 22477.40143298346,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-04-30",
+        "balance": 20504.58020747045,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-05-31",
+        "balance": 20550.868654474827,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-06-30",
+        "balance": 18856.231413197867,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-07-31",
+        "balance": 20592.656342883598,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-08-31",
+        "balance": 19752.43730596528,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-09-30",
+        "balance": 17926.40533767385,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-10-31",
+        "balance": 19383.383167001535,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-11-30",
+        "balance": 20460.932528143854,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-12-31",
+        "balance": 19281.80798215183,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-01-31",
+        "balance": 20494.38816703783,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-02-28",
+        "balance": 19979.10131627024,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-03-31",
+        "balance": 20719.887464903357,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-04-30",
+        "balance": 21050.885189519846,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-05-31",
+        "balance": 21148.06124580675,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-06-30",
+        "balance": 22518.447060835253,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-07-31",
+        "balance": 23255.55355701082,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-08-31",
+        "balance": 22877.601144063796,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-09-30",
+        "balance": 21792.416625060192,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-10-31",
+        "balance": 21319.33366188333,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-11-30",
+        "balance": 23266.72479474363,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-12-31",
+        "balance": 24328.971576660904,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-01-31",
+        "balance": 24716.448175539263,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-02-29",
+        "balance": 26006.32203331045,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-03-31",
+        "balance": 26856.77827956486,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-04-30",
+        "balance": 25773.91995908988,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-05-31",
+        "balance": 27077.55742701794,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-06-30",
+        "balance": 28032.857150923017,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-07-31",
+        "balance": 28372.31113953884,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-08-31",
+        "balance": 29035.248683044156,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-09-30",
+        "balance": 29645.11921767459,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-10-31",
+        "balance": 29380.587534511862,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-11-30",
+        "balance": 31132.650583848404,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-12-31",
+        "balance": 30383.59852588057,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-01-31",
+        "balance": 31199.58121973784,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-02-28",
+        "balance": 30803.511236974617,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-03-31",
+        "balance": 29087.167111230843,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-04-30",
+        "balance": 28834.976217765736,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-05-31",
+        "balance": 30647.10745601476,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-06-30",
+        "balance": 32221.94385989251,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-07-31",
+        "balance": 32964.065717528196,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-08-31",
+        "balance": 33640.47327331784,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-09-30",
+        "balance": 34838.75911343121,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-10-31",
+        "balance": 35669.22489355061,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-11-30",
+        "balance": 35738.778552191456,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-12-31",
+        "balance": 35767.28013028002,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-01-31",
+        "balance": 36294.41091280708,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-02-28",
+        "balance": 35980.75482077221,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-03-31",
+        "balance": 34204.042455542905,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-04-30",
+        "balance": 37797.26744265767,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-05-31",
+        "balance": 39786.37689739641,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-06-30",
+        "balance": 39376.872392201585,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-07-31",
+        "balance": 39390.584380754495,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-08-31",
+        "balance": 40446.22682371464,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-09-30",
+        "balance": 40313.02050103606,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-10-31",
+        "balance": 39947.75248408804,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-11-25",
+        "balance": 37995.08788174781,
+        "contributed": 10000.0
+      }
+    ],
+    "annual_returns": [
+      {
+        "year": 2016,
+        "return_pct": 0.015021080165931178,
+        "ending_balance": 10150.210801659312
+      },
+      {
+        "year": 2017,
+        "return_pct": 0.21705384714410414,
+        "ending_balance": 12353.3531054831
+      },
+      {
+        "year": 2018,
+        "return_pct": -0.04568982583482317,
+        "ending_balance": 11788.930553617503
+      },
+      {
+        "year": 2019,
+        "return_pct": 0.31223845958588625,
+        "ending_balance": 15469.88806984403
+      },
+      {
+        "year": 2020,
+        "return_pct": 0.183316520179851,
+        "ending_balance": 18305.774118379628
+      },
+      {
+        "year": 2021,
+        "return_pct": 0.287287598411198,
+        "ending_balance": 23564.796001906772
+      },
+      {
+        "year": 2022,
+        "return_pct": -0.18175366421200378,
+        "ending_balance": 19281.80798215183
+      },
+      {
+        "year": 2023,
+        "return_pct": 0.26175779777399355,
+        "ending_balance": 24328.971576660904
+      },
+      {
+        "year": 2024,
+        "return_pct": 0.24886489468498318,
+        "ending_balance": 30383.59852588057
+      },
+      {
+        "year": 2025,
+        "return_pct": 0.17719038776179374,
+        "ending_balance": 35767.28013028002
+      },
+      {
+        "year": 2026,
+        "return_pct": 0.11687979456589725,
+        "ending_balance": 37995.08788174781
+      }
+    ],
+    "drawdowns": [
+      {
+        "peak_date": "2021-12-31",
+        "trough_date": "2022-09-30",
+        "recovery_date": "2023-12-31",
+        "depth_pct": -0.2392717791308988,
+        "length_days": 273,
+        "recovery_days": 457
+      },
+      {
+        "peak_date": "2019-12-31",
+        "trough_date": "2020-03-31",
+        "recovery_date": "2020-07-31",
+        "depth_pct": -0.19447691557850422,
+        "length_days": 91,
+        "recovery_days": 122
+      },
+      {
+        "peak_date": "2018-09-30",
+        "trough_date": "2018-12-31",
+        "recovery_date": "2019-04-30",
+        "depth_pct": -0.13532105586859355,
+        "length_days": 92,
+        "recovery_days": 120
+      },
+      {
+        "peak_date": "2025-01-31",
+        "trough_date": "2025-04-30",
+        "recovery_date": "2025-06-30",
+        "depth_pct": -0.07578963914029024,
+        "length_days": 89,
+        "recovery_days": 61
+      },
+      {
+        "peak_date": "2019-04-30",
+        "trough_date": "2019-05-31",
+        "recovery_date": "2019-06-30",
+        "depth_pct": -0.0637704686045577,
+        "length_days": 31,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2018-01-31",
+        "trough_date": "2018-03-31",
+        "recovery_date": "2018-07-31",
+        "depth_pct": -0.06277431816425871,
+        "length_days": 59,
+        "recovery_days": 122
+      },
+      {
+        "peak_date": "2020-08-31",
+        "trough_date": "2020-10-31",
+        "recovery_date": "2020-11-30",
+        "depth_pct": -0.0614435832602066,
+        "length_days": 61,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2026-01-31",
+        "trough_date": "2026-03-31",
+        "recovery_date": "2026-04-30",
+        "depth_pct": -0.0575947757434615,
+        "length_days": 59,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2021-08-31",
+        "trough_date": "2021-09-30",
+        "recovery_date": "2021-10-31",
+        "depth_pct": -0.046605379693386406,
+        "length_days": 30,
+        "recovery_days": 31
+      },
+      {
+        "peak_date": "2024-03-31",
+        "trough_date": "2024-04-30",
+        "recovery_date": "2024-05-31",
+        "depth_pct": -0.040319740111900315,
+        "length_days": 30,
+        "recovery_days": 31
+      }
+    ],
+    "trailing_returns": [
+      {
+        "label": "1Y",
+        "years": 1.0,
+        "annualized_return_pct": 0.11995011395134192
+      },
+      {
+        "label": "3Y",
+        "years": 3.0,
+        "annualized_return_pct": 0.23283864997962445
+      },
+      {
+        "label": "5Y",
+        "years": 5.0,
+        "annualized_return_pct": 0.11962332337023063
+      },
+      {
+        "label": "7Y",
+        "years": 7.0,
+        "annualized_return_pct": 0.1556889702694353
+      },
+      {
+        "label": "10Y",
+        "years": 10.0,
+        "annualized_return_pct": 0.14854822514292843
+      },
+      {
+        "label": "15Y",
+        "years": 15.0,
+        "annualized_return_pct": null
+      },
+      {
+        "label": "20Y",
+        "years": 20.0,
+        "annualized_return_pct": null
+      },
+      {
+        "label": "Full Period",
+        "years": 10.0,
+        "annualized_return_pct": 0.1485700041655098
+      }
+    ],
+    "scenario_id": "sp500__lump_sum",
+    "scenario_label": "S&P 500 (SPY) -- Lump sum -- $10,000 upfront, no contributions"
+  },
+  "sp500__monthly_dca": {
+    "asset": "sp500",
+    "asset_label": "S&P 500 (SPY)",
+    "start_date": "2016-11-25",
+    "end_date": "2026-11-25",
+    "start_balance": 0.0,
+    "end_balance": 124833.92565262203,
+    "total_contributed": 60000.0,
+    "total_gain": 64833.92565262203,
+    "cagr": 0.1485700041655098,
+    "annualized_stdev": 0.15307023646898307,
+    "best_year": {
+      "year": 2019,
+      "return_pct": 0.31223845958588625,
+      "ending_balance": 23076.034402277455
+    },
+    "worst_year": {
+      "year": 2022,
+      "return_pct": -0.18175366421200378,
+      "ending_balance": 47499.68649729849
+    },
+    "max_drawdown_pct": -0.2392717791308988,
+    "sharpe_ratio": 0.9706002132923787,
+    "sortino_ratio": 1.3935340834796357,
+    "growth_chart": [
+      {
+        "date": "2016-11-25",
+        "balance": 0.0,
+        "contributed": 0.0
+      },
+      {
+        "date": "2016-11-30",
+        "balance": 0.0,
+        "contributed": 0.0
+      },
+      {
+        "date": "2016-12-31",
+        "balance": 495.1707615778521,
+        "contributed": 500.0
+      },
+      {
+        "date": "2017-01-31",
+        "balance": 999.5887251492219,
+        "contributed": 1000.0
+      },
+      {
+        "date": "2017-02-28",
+        "balance": 1538.293615401607,
+        "contributed": 1500.0
+      },
+      {
+        "date": "2017-03-31",
+        "balance": 2044.2362595369357,
+        "contributed": 2000.0
+      },
+      {
+        "date": "2017-04-30",
+        "balance": 2563.542328402904,
+        "contributed": 2500.0
+      },
+      {
+        "date": "2017-05-31",
+        "balance": 3099.059764527885,
+        "contributed": 3000.0
+      },
+      {
+        "date": "2017-06-30",
+        "balance": 3616.0810567034546,
+        "contributed": 3500.0
+      },
+      {
+        "date": "2017-07-31",
+        "balance": 4189.093038810263,
+        "contributed": 4000.0
+      },
+      {
+        "date": "2017-08-31",
+        "balance": 4707.305251036114,
+        "contributed": 4500.0
+      },
+      {
+        "date": "2017-09-30",
+        "balance": 5306.774931972771,
+        "contributed": 5000.0
+      },
+      {
+        "date": "2017-10-31",
+        "balance": 5935.46760057746,
+        "contributed": 5500.0
+      },
+      {
+        "date": "2017-11-30",
+        "balance": 6625.820166545673,
+        "contributed": 6000.0
+      },
+      {
+        "date": "2017-12-31",
+        "balance": 7204.961586415545,
+        "contributed": 6500.0
+      },
+      {
+        "date": "2018-01-31",
+        "balance": 8108.556808327995,
+        "contributed": 7000.0
+      },
+      {
+        "date": "2018-02-28",
+        "balance": 8308.159408298494,
+        "contributed": 7500.0
+      },
+      {
+        "date": "2018-03-31",
+        "balance": 8590.307318397858,
+        "contributed": 8000.0
+      },
+      {
+        "date": "2018-04-30",
+        "balance": 9136.376766009047,
+        "contributed": 8500.0
+      },
+      {
+        "date": "2018-05-31",
+        "balance": 9856.247745965586,
+        "contributed": 9000.0
+      },
+      {
+        "date": "2018-06-30",
+        "balance": 10413.447965452877,
+        "contributed": 9500.0
+      },
+      {
+        "date": "2018-07-31",
+        "balance": 11294.513321527553,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-08-31",
+        "balance": 12159.90060318629,
+        "contributed": 10500.0
+      },
+      {
+        "date": "2018-09-30",
+        "balance": 12732.142836930665,
+        "contributed": 11000.0
+      },
+      {
+        "date": "2018-10-31",
+        "balance": 12353.32014156493,
+        "contributed": 11500.0
+      },
+      {
+        "date": "2018-11-30",
+        "balance": 13106.014353795199,
+        "contributed": 12000.0
+      },
+      {
+        "date": "2018-12-31",
+        "balance": 12485.291578718847,
+        "contributed": 12500.0
+      },
+      {
+        "date": "2019-01-31",
+        "balance": 13992.742408680426,
+        "contributed": 13000.0
+      },
+      {
+        "date": "2019-02-28",
+        "balance": 14944.824983312932,
+        "contributed": 13500.0
+      },
+      {
+        "date": "2019-03-31",
+        "balance": 15721.502933316762,
+        "contributed": 14000.0
+      },
+      {
+        "date": "2019-04-30",
+        "balance": 16867.125424320704,
+        "contributed": 14500.0
+      },
+      {
+        "date": "2019-05-31",
+        "balance": 16278.222297836008,
+        "contributed": 15000.0
+      },
+      {
+        "date": "2019-06-30",
+        "balance": 17914.813720947346,
+        "contributed": 15500.0
+      },
+      {
+        "date": "2019-07-31",
+        "balance": 18681.388564275985,
+        "contributed": 16000.0
+      },
+      {
+        "date": "2019-08-31",
+        "balance": 18881.94239411796,
+        "contributed": 16500.0
+      },
+      {
+        "date": "2019-09-30",
+        "balance": 19747.911867705126,
+        "contributed": 17000.0
+      },
+      {
+        "date": "2019-10-31",
+        "balance": 20687.30332125497,
+        "contributed": 17500.0
+      },
+      {
+        "date": "2019-11-30",
+        "balance": 21937.64858932271,
+        "contributed": 18000.0
+      },
+      {
+        "date": "2019-12-31",
+        "balance": 23076.034402277455,
+        "contributed": 18500.0
+      },
+      {
+        "date": "2020-01-31",
+        "balance": 23556.01043929967,
+        "contributed": 19000.0
+      },
+      {
+        "date": "2020-02-29",
+        "balance": 22164.97079190246,
+        "contributed": 19500.0
+      },
+      {
+        "date": "2020-03-31",
+        "balance": 19919.40579344391,
+        "contributed": 20000.0
+      },
+      {
+        "date": "2020-04-30",
+        "balance": 22962.114292704126,
+        "contributed": 20500.0
+      },
+      {
+        "date": "2020-05-31",
+        "balance": 24571.1759491515,
+        "contributed": 21000.0
+      },
+      {
+        "date": "2020-06-30",
+        "balance": 25508.572951314974,
+        "contributed": 21500.0
+      },
+      {
+        "date": "2020-07-31",
+        "balance": 27519.625830446737,
+        "contributed": 22000.0
+      },
+      {
+        "date": "2020-08-31",
+        "balance": 29947.946489392085,
+        "contributed": 22500.0
+      },
+      {
+        "date": "2020-09-30",
+        "balance": 29335.953628807776,
+        "contributed": 23000.0
+      },
+      {
+        "date": "2020-10-31",
+        "balance": 29076.68534357288,
+        "contributed": 23500.0
+      },
+      {
+        "date": "2020-11-30",
+        "balance": 32738.729329171216,
+        "contributed": 24000.0
+      },
+      {
+        "date": "2020-12-31",
+        "balance": 34458.25722917792,
+        "contributed": 24500.0
+      },
+      {
+        "date": "2021-01-31",
+        "balance": 34588.48152480151,
+        "contributed": 25000.0
+      },
+      {
+        "date": "2021-02-28",
+        "balance": 36047.660950435245,
+        "contributed": 25500.0
+      },
+      {
+        "date": "2021-03-31",
+        "balance": 38192.6934023739,
+        "contributed": 26000.0
+      },
+      {
+        "date": "2021-04-30",
+        "balance": 40714.16506744414,
+        "contributed": 26500.0
+      },
+      {
+        "date": "2021-05-31",
+        "balance": 41483.6490072332,
+        "contributed": 27000.0
+      },
+      {
+        "date": "2021-06-30",
+        "balance": 42915.718704199426,
+        "contributed": 27500.0
+      },
+      {
+        "date": "2021-07-31",
+        "balance": 44461.77628424497,
+        "contributed": 28000.0
+      },
+      {
+        "date": "2021-08-31",
+        "balance": 46287.89751566773,
+        "contributed": 28500.0
+      },
+      {
+        "date": "2021-09-30",
+        "balance": 44613.99621567474,
+        "contributed": 29000.0
+      },
+      {
+        "date": "2021-10-31",
+        "balance": 48248.3315535099,
+        "contributed": 29500.0
+      },
+      {
+        "date": "2021-11-30",
+        "balance": 48345.87716597587,
+        "contributed": 30000.0
+      },
+      {
+        "date": "2021-12-31",
+        "balance": 51086.40820849606,
+        "contributed": 30500.0
+      },
+      {
+        "date": "2022-01-31",
+        "balance": 48909.80869005629,
+        "contributed": 31000.0
+      },
+      {
+        "date": "2022-02-28",
+        "balance": 47964.86219740457,
+        "contributed": 31500.0
+      },
+      {
+        "date": "2022-03-31",
+        "balance": 50266.714729487765,
+        "contributed": 32000.0
+      },
+      {
+        "date": "2022-04-30",
+        "balance": 46335.58604927326,
+        "contributed": 32500.0
+      },
+      {
+        "date": "2022-05-31",
+        "balance": 46959.765918261706,
+        "contributed": 33000.0
+      },
+      {
+        "date": "2022-06-30",
+        "balance": 43570.98932925887,
+        "contributed": 33500.0
+      },
+      {
+        "date": "2022-07-31",
+        "balance": 48104.09163693694,
+        "contributed": 34000.0
+      },
+      {
+        "date": "2022-08-31",
+        "balance": 46612.356255207036,
+        "contributed": 34500.0
+      },
+      {
+        "date": "2022-09-30",
+        "balance": 42788.59953841352,
+        "contributed": 35000.0
+      },
+      {
+        "date": "2022-10-31",
+        "balance": 46767.9407179015,
+        "contributed": 35500.0
+      },
+      {
+        "date": "2022-11-30",
+        "balance": 49874.484682446004,
+        "contributed": 36000.0
+      },
+      {
+        "date": "2022-12-31",
+        "balance": 47499.68649729849,
+        "contributed": 36500.0
+      },
+      {
+        "date": "2023-01-31",
+        "balance": 50994.46771824865,
+        "contributed": 37000.0
+      },
+      {
+        "date": "2023-02-28",
+        "balance": 50212.171142929496,
+        "contributed": 37500.0
+      },
+      {
+        "date": "2023-03-31",
+        "balance": 52591.173792796784,
+        "contributed": 38000.0
+      },
+      {
+        "date": "2023-04-30",
+        "balance": 53943.439658273295,
+        "contributed": 38500.0
+      },
+      {
+        "date": "2023-05-31",
+        "balance": 54696.31455835159,
+        "contributed": 39000.0
+      },
+      {
+        "date": "2023-06-30",
+        "balance": 58752.23605367183,
+        "contributed": 39500.0
+      },
+      {
+        "date": "2023-07-31",
+        "balance": 61177.97950012577,
+        "contributed": 40000.0
+      },
+      {
+        "date": "2023-08-31",
+        "balance": 60695.5029019371,
+        "contributed": 40500.0
+      },
+      {
+        "date": "2023-09-30",
+        "balance": 58310.95541741701,
+        "contributed": 41000.0
+      },
+      {
+        "date": "2023-10-31",
+        "balance": 57545.884348711676,
+        "contributed": 41500.0
+      },
+      {
+        "date": "2023-11-30",
+        "balance": 63303.55813628086,
+        "contributed": 42000.0
+      },
+      {
+        "date": "2023-12-31",
+        "balance": 66695.44656296348,
+        "contributed": 42500.0
+      },
+      {
+        "date": "2024-01-31",
+        "balance": 68252.39868081808,
+        "contributed": 43000.0
+      },
+      {
+        "date": "2024-02-29",
+        "balance": 72314.50360838861,
+        "contributed": 43500.0
+      },
+      {
+        "date": "2024-03-31",
+        "balance": 75182.50009874035,
+        "contributed": 44000.0
+      },
+      {
+        "date": "2024-04-30",
+        "balance": 72649.66165803433,
+        "contributed": 44500.0
+      },
+      {
+        "date": "2024-05-31",
+        "balance": 76822.30579338015,
+        "contributed": 45000.0
+      },
+      {
+        "date": "2024-06-30",
+        "balance": 80032.04668169096,
+        "contributed": 45500.0
+      },
+      {
+        "date": "2024-07-31",
+        "balance": 81512.68190811244,
+        "contributed": 46000.0
+      },
+      {
+        "date": "2024-08-31",
+        "balance": 83918.65751160643,
+        "contributed": 46500.0
+      },
+      {
+        "date": "2024-09-30",
+        "balance": 86184.5888442636,
+        "contributed": 47000.0
+      },
+      {
+        "date": "2024-10-31",
+        "balance": 85906.55935048338,
+        "contributed": 47500.0
+      },
+      {
+        "date": "2024-11-30",
+        "balance": 91533.65642886244,
+        "contributed": 48000.0
+      },
+      {
+        "date": "2024-12-31",
+        "balance": 89818.69941878371,
+        "contributed": 48500.0
+      },
+      {
+        "date": "2025-01-31",
+        "balance": 92725.81483646177,
+        "contributed": 49000.0
+      },
+      {
+        "date": "2025-02-28",
+        "balance": 92048.63594434438,
+        "contributed": 49500.0
+      },
+      {
+        "date": "2025-03-31",
+        "balance": 87405.80543550683,
+        "contributed": 50000.0
+      },
+      {
+        "date": "2025-04-30",
+        "balance": 87151.52300357043,
+        "contributed": 50500.0
+      },
+      {
+        "date": "2025-05-31",
+        "balance": 93137.42765611388,
+        "contributed": 51000.0
+      },
+      {
+        "date": "2025-06-30",
+        "balance": 98432.23689647009,
+        "contributed": 51500.0
+      },
+      {
+        "date": "2025-07-31",
+        "balance": 101195.34591363047,
+        "contributed": 52000.0
+      },
+      {
+        "date": "2025-08-31",
+        "balance": 103773.83602003683,
+        "contributed": 52500.0
+      },
+      {
+        "date": "2025-09-30",
+        "balance": 107976.47497160682,
+        "contributed": 53000.0
+      },
+      {
+        "date": "2025-10-31",
+        "balance": 111053.90559191063,
+        "contributed": 53500.0
+      },
+      {
+        "date": "2025-11-30",
+        "balance": 111776.65641237087,
+        "contributed": 54000.0
+      },
+      {
+        "date": "2025-12-31",
+        "balance": 112359.67090312541,
+        "contributed": 54500.0
+      },
+      {
+        "date": "2026-01-31",
+        "balance": 114517.59227105354,
+        "contributed": 55000.0
+      },
+      {
+        "date": "2026-02-28",
+        "balance": 114022.76698889787,
+        "contributed": 55500.0
+      },
+      {
+        "date": "2026-03-31",
+        "balance": 108887.44475459354,
+        "contributed": 56000.0
+      },
+      {
+        "date": "2026-04-30",
+        "balance": 120829.66399252956,
+        "contributed": 56500.0
+      },
+      {
+        "date": "2026-05-31",
+        "balance": 127695.68429412888,
+        "contributed": 57000.0
+      },
+      {
+        "date": "2026-06-30",
+        "balance": 126889.85723099794,
+        "contributed": 57500.0
+      },
+      {
+        "date": "2026-07-31",
+        "balance": 127439.52433125637,
+        "contributed": 58000.0
+      },
+      {
+        "date": "2026-08-31",
+        "balance": 131355.5662276484,
+        "contributed": 58500.0
+      },
+      {
+        "date": "2026-09-30",
+        "balance": 131417.30506118105,
+        "contributed": 59000.0
+      },
+      {
+        "date": "2026-10-31",
+        "balance": 130723.76362977028,
+        "contributed": 59500.0
+      },
+      {
+        "date": "2026-11-25",
+        "balance": 124833.92565262203,
+        "contributed": 60000.0
+      }
+    ],
+    "annual_returns": [
+      {
+        "year": 2016,
+        "return_pct": 0.015021080165931178,
+        "ending_balance": 495.1707615778521
+      },
+      {
+        "year": 2017,
+        "return_pct": 0.21705384714410414,
+        "ending_balance": 7204.961586415545
+      },
+      {
+        "year": 2018,
+        "return_pct": -0.04568982583482317,
+        "ending_balance": 12485.291578718847
+      },
+      {
+        "year": 2019,
+        "return_pct": 0.31223845958588625,
+        "ending_balance": 23076.034402277455
+      },
+      {
+        "year": 2020,
+        "return_pct": 0.183316520179851,
+        "ending_balance": 34458.25722917792
+      },
+      {
+        "year": 2021,
+        "return_pct": 0.287287598411198,
+        "ending_balance": 51086.40820849606
+      },
+      {
+        "year": 2022,
+        "return_pct": -0.18175366421200378,
+        "ending_balance": 47499.68649729849
+      },
+      {
+        "year": 2023,
+        "return_pct": 0.26175779777399355,
+        "ending_balance": 66695.44656296348
+      },
+      {
+        "year": 2024,
+        "return_pct": 0.24886489468498318,
+        "ending_balance": 89818.69941878371
+      },
+      {
+        "year": 2025,
+        "return_pct": 0.17719038776179374,
+        "ending_balance": 112359.67090312541
+      },
+      {
+        "year": 2026,
+        "return_pct": 0.11687979456589725,
+        "ending_balance": 124833.92565262203
+      }
+    ],
+    "drawdowns": [
+      {
+        "peak_date": "2021-12-31",
+        "trough_date": "2022-09-30",
+        "recovery_date": "2023-12-31",
+        "depth_pct": -0.2392717791308988,
+        "length_days": 273,
+        "recovery_days": 457
+      },
+      {
+        "peak_date": "2019-12-31",
+        "trough_date": "2020-03-31",
+        "recovery_date": "2020-07-31",
+        "depth_pct": -0.19447691557850422,
+        "length_days": 91,
+        "recovery_days": 122
+      },
+      {
+        "peak_date": "2018-09-30",
+        "trough_date": "2018-12-31",
+        "recovery_date": "2019-04-30",
+        "depth_pct": -0.13532105586859355,
+        "length_days": 92,
+        "recovery_days": 120
+      },
+      {
+        "peak_date": "2025-01-31",
+        "trough_date": "2025-04-30",
+        "recovery_date": "2025-06-30",
+        "depth_pct": -0.07578963914029024,
+        "length_days": 89,
+        "recovery_days": 61
+      },
+      {
+        "peak_date": "2019-04-30",
+        "trough_date": "2019-05-31",
+        "recovery_date": "2019-06-30",
+        "depth_pct": -0.0637704686045577,
+        "length_days": 31,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2018-01-31",
+        "trough_date": "2018-03-31",
+        "recovery_date": "2018-07-31",
+        "depth_pct": -0.06277431816425871,
+        "length_days": 59,
+        "recovery_days": 122
+      },
+      {
+        "peak_date": "2020-08-31",
+        "trough_date": "2020-10-31",
+        "recovery_date": "2020-11-30",
+        "depth_pct": -0.0614435832602066,
+        "length_days": 61,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2026-01-31",
+        "trough_date": "2026-03-31",
+        "recovery_date": "2026-04-30",
+        "depth_pct": -0.0575947757434615,
+        "length_days": 59,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2021-08-31",
+        "trough_date": "2021-09-30",
+        "recovery_date": "2021-10-31",
+        "depth_pct": -0.046605379693386406,
+        "length_days": 30,
+        "recovery_days": 31
+      },
+      {
+        "peak_date": "2024-03-31",
+        "trough_date": "2024-04-30",
+        "recovery_date": "2024-05-31",
+        "depth_pct": -0.040319740111900315,
+        "length_days": 30,
+        "recovery_days": 31
+      }
+    ],
+    "trailing_returns": [
+      {
+        "label": "1Y",
+        "years": 1.0,
+        "annualized_return_pct": 0.11995011395134192
+      },
+      {
+        "label": "3Y",
+        "years": 3.0,
+        "annualized_return_pct": 0.23283864997962445
+      },
+      {
+        "label": "5Y",
+        "years": 5.0,
+        "annualized_return_pct": 0.11962332337023063
+      },
+      {
+        "label": "7Y",
+        "years": 7.0,
+        "annualized_return_pct": 0.1556889702694353
+      },
+      {
+        "label": "10Y",
+        "years": 10.0,
+        "annualized_return_pct": 0.14854822514292843
+      },
+      {
+        "label": "15Y",
+        "years": 15.0,
+        "annualized_return_pct": null
+      },
+      {
+        "label": "20Y",
+        "years": 20.0,
+        "annualized_return_pct": null
+      },
+      {
+        "label": "Full Period",
+        "years": 10.0,
+        "annualized_return_pct": 0.1485700041655098
+      }
+    ],
+    "scenario_id": "sp500__monthly_dca",
+    "scenario_label": "S&P 500 (SPY) -- Monthly DCA -- $500/month, no upfront"
+  },
+  "sp500__combo": {
+    "asset": "sp500",
+    "asset_label": "S&P 500 (SPY)",
+    "start_date": "2016-11-25",
+    "end_date": "2026-11-25",
+    "start_balance": 10000.0,
+    "end_balance": 162829.0135343699,
+    "total_contributed": 70000.0,
+    "total_gain": 92829.01353436991,
+    "cagr": 0.1485700041655098,
+    "annualized_stdev": 0.15307023646898307,
+    "best_year": {
+      "year": 2019,
+      "return_pct": 0.31223845958588625,
+      "ending_balance": 38545.92247212149
+    },
+    "worst_year": {
+      "year": 2022,
+      "return_pct": -0.18175366421200378,
+      "ending_balance": 66781.49447945034
+    },
+    "max_drawdown_pct": -0.2392717791308988,
+    "sharpe_ratio": 0.9706002132923787,
+    "sortino_ratio": 1.3935340834796357,
+    "growth_chart": [
+      {
+        "date": "2016-11-25",
+        "balance": 10000.0,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2016-11-30",
+        "balance": 9948.53406743556,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2016-12-31",
+        "balance": 10645.381563237164,
+        "contributed": 10500.0
+      },
+      {
+        "date": "2017-01-31",
+        "balance": 11331.434979880867,
+        "contributed": 11000.0
+      },
+      {
+        "date": "2017-02-28",
+        "balance": 12276.092163705314,
+        "contributed": 11500.0
+      },
+      {
+        "date": "2017-03-31",
+        "balance": 12795.45884463394,
+        "contributed": 12000.0
+      },
+      {
+        "date": "2017-04-30",
+        "balance": 13421.482094056955,
+        "contributed": 12500.0
+      },
+      {
+        "date": "2017-05-31",
+        "balance": 14110.237454961194,
+        "contributed": 13000.0
+      },
+      {
+        "date": "2017-06-30",
+        "balance": 14697.454449476916,
+        "contributed": 13500.0
+      },
+      {
+        "date": "2017-07-31",
+        "balance": 15498.234660260976,
+        "contributed": 14000.0
+      },
+      {
+        "date": "2017-08-31",
+        "balance": 16049.441949882937,
+        "contributed": 14500.0
+      },
+      {
+        "date": "2017-09-30",
+        "balance": 16877.450150618497,
+        "contributed": 15000.0
+      },
+      {
+        "date": "2017-10-31",
+        "balance": 17778.796032547045,
+        "contributed": 15500.0
+      },
+      {
+        "date": "2017-11-30",
+        "balance": 18831.149935837435,
+        "contributed": 16000.0
+      },
+      {
+        "date": "2017-12-31",
+        "balance": 19558.31469189865,
+        "contributed": 16500.0
+      },
+      {
+        "date": "2018-01-31",
+        "balance": 21158.135325997508,
+        "contributed": 17000.0
+      },
+      {
+        "date": "2018-02-28",
+        "balance": 20883.253920196068,
+        "contributed": 17500.0
+      },
+      {
+        "date": "2018-03-31",
+        "balance": 20820.70744228971,
+        "contributed": 18000.0
+      },
+      {
+        "date": "2018-04-30",
+        "balance": 21429.991576892502,
+        "contributed": 18500.0
+      },
+      {
+        "date": "2018-05-31",
+        "balance": 22448.70486172139,
+        "contributed": 19000.0
+      },
+      {
+        "date": "2018-06-30",
+        "balance": 23078.324545457093,
+        "contributed": 19500.0
+      },
+      {
+        "date": "2018-07-31",
+        "balance": 24428.581079722288,
+        "contributed": 20000.0
+      },
+      {
+        "date": "2018-08-31",
+        "balance": 25713.20434551061,
+        "contributed": 20500.0
+      },
+      {
+        "date": "2018-09-30",
+        "balance": 26366.024676692374,
+        "contributed": 21000.0
+      },
+      {
+        "date": "2018-10-31",
+        "balance": 25045.047214918428,
+        "contributed": 21500.0
+      },
+      {
+        "date": "2018-11-30",
+        "balance": 26033.160945438474,
+        "contributed": 22000.0
+      },
+      {
+        "date": "2018-12-31",
+        "balance": 24274.222132336356,
+        "contributed": 22500.0
+      },
+      {
+        "date": "2019-01-31",
+        "balance": 26725.561891964306,
+        "contributed": 23000.0
+      },
+      {
+        "date": "2019-02-28",
+        "balance": 28090.388227440373,
+        "contributed": 23500.0
+      },
+      {
+        "date": "2019-03-31",
+        "balance": 29105.01192797796,
+        "contributed": 24000.0
+      },
+      {
+        "date": "2019-04-30",
+        "balance": 30797.37334513962,
+        "contributed": 24500.0
+      },
+      {
+        "date": "2019-05-31",
+        "balance": 29320.131780966633,
+        "contributed": 25000.0
+      },
+      {
+        "date": "2019-06-30",
+        "balance": 31864.260038915458,
+        "contributed": 25500.0
+      },
+      {
+        "date": "2019-07-31",
+        "balance": 32841.73978476396,
+        "contributed": 26000.0
+      },
+      {
+        "date": "2019-08-31",
+        "balance": 32805.203653475386,
+        "contributed": 26500.0
+      },
+      {
+        "date": "2019-09-30",
+        "balance": 33942.08653101532,
+        "contributed": 27000.0
+      },
+      {
+        "date": "2019-10-31",
+        "balance": 35195.23731980795,
+        "contributed": 27500.0
+      },
+      {
+        "date": "2019-11-30",
+        "balance": 36970.74529675163,
+        "contributed": 28000.0
+      },
+      {
+        "date": "2019-12-31",
+        "balance": 38545.92247212149,
+        "contributed": 28500.0
+      },
+      {
+        "date": "2020-01-31",
+        "balance": 39019.65229506407,
+        "contributed": 29000.0
+      },
+      {
+        "date": "2020-02-29",
+        "balance": 36404.42244141436,
+        "contributed": 29500.0
+      },
+      {
+        "date": "2020-03-31",
+        "balance": 32380.757747119984,
+        "contributed": 30000.0
+      },
+      {
+        "date": "2020-04-30",
+        "balance": 37005.85392301279,
+        "contributed": 30500.0
+      },
+      {
+        "date": "2020-05-31",
+        "balance": 39284.03158368992,
+        "contributed": 31000.0
+      },
+      {
+        "date": "2020-06-30",
+        "balance": 40482.351596264016,
+        "contributed": 31500.0
+      },
+      {
+        "date": "2020-07-31",
+        "balance": 43375.248270035365,
+        "contributed": 32000.0
+      },
+      {
+        "date": "2020-08-31",
+        "balance": 46910.23932745917,
+        "contributed": 32500.0
+      },
+      {
+        "date": "2020-09-30",
+        "balance": 45663.11522297972,
+        "contributed": 33000.0
+      },
+      {
+        "date": "2020-10-31",
+        "balance": 44996.75412936018,
+        "contributed": 33500.0
+      },
+      {
+        "date": "2020-11-30",
+        "balance": 50390.53354455916,
+        "contributed": 34000.0
+      },
+      {
+        "date": "2020-12-31",
+        "balance": 52764.03134755758,
+        "contributed": 34500.0
+      },
+      {
+        "date": "2021-01-31",
+        "balance": 52707.709685031776,
+        "contributed": 35000.0
+      },
+      {
+        "date": "2021-02-28",
+        "balance": 54670.70628630237,
+        "contributed": 35500.0
+      },
+      {
+        "date": "2021-03-31",
+        "balance": 57661.205433837305,
+        "contributed": 36000.0
+      },
+      {
+        "date": "2021-04-30",
+        "balance": 61212.76846108068,
+        "contributed": 36500.0
+      },
+      {
+        "date": "2021-05-31",
+        "balance": 62116.847667329974,
+        "contributed": 37000.0
+      },
+      {
+        "date": "2021-06-30",
+        "balance": 64011.66632762954,
+        "contributed": 37500.0
+      },
+      {
+        "date": "2021-07-31",
+        "balance": 66072.7300659711,
+        "contributed": 38000.0
+      },
+      {
+        "date": "2021-08-31",
+        "balance": 68541.98711625366,
+        "contributed": 38500.0
+      },
+      {
+        "date": "2021-09-30",
+        "balance": 65830.92552069473,
+        "contributed": 39000.0
+      },
+      {
+        "date": "2021-10-31",
+        "balance": 70953.91499458993,
+        "contributed": 39500.0
+      },
+      {
+        "date": "2021-11-30",
+        "balance": 70869.023405947,
+        "contributed": 40000.0
+      },
+      {
+        "date": "2021-12-31",
+        "balance": 74651.20421040287,
+        "contributed": 40500.0
+      },
+      {
+        "date": "2022-01-31",
+        "balance": 71231.7645681035,
+        "contributed": 41000.0
+      },
+      {
+        "date": "2022-02-28",
+        "balance": 69627.94250690837,
+        "contributed": 41500.0
+      },
+      {
+        "date": "2022-03-31",
+        "balance": 72744.11616247124,
+        "contributed": 42000.0
+      },
+      {
+        "date": "2022-04-30",
+        "balance": 66840.16625674373,
+        "contributed": 42500.0
+      },
+      {
+        "date": "2022-05-31",
+        "balance": 67510.63457273656,
+        "contributed": 43000.0
+      },
+      {
+        "date": "2022-06-30",
+        "balance": 62427.22074245676,
+        "contributed": 43500.0
+      },
+      {
+        "date": "2022-07-31",
+        "balance": 68696.74797982056,
+        "contributed": 44000.0
+      },
+      {
+        "date": "2022-08-31",
+        "balance": 66364.79356117234,
+        "contributed": 44500.0
+      },
+      {
+        "date": "2022-09-30",
+        "balance": 60715.00487608739,
+        "contributed": 45000.0
+      },
+      {
+        "date": "2022-10-31",
+        "balance": 66151.32388490306,
+        "contributed": 45500.0
+      },
+      {
+        "date": "2022-11-30",
+        "balance": 70335.41721058989,
+        "contributed": 46000.0
+      },
+      {
+        "date": "2022-12-31",
+        "balance": 66781.49447945034,
+        "contributed": 46500.0
+      },
+      {
+        "date": "2023-01-31",
+        "balance": 71488.85588528651,
+        "contributed": 47000.0
+      },
+      {
+        "date": "2023-02-28",
+        "balance": 70191.27245919977,
+        "contributed": 47500.0
+      },
+      {
+        "date": "2023-03-31",
+        "balance": 73311.06125770017,
+        "contributed": 48000.0
+      },
+      {
+        "date": "2023-04-30",
+        "balance": 74994.32484779316,
+        "contributed": 48500.0
+      },
+      {
+        "date": "2023-05-31",
+        "balance": 75844.37580415836,
+        "contributed": 49000.0
+      },
+      {
+        "date": "2023-06-30",
+        "balance": 81270.68311450712,
+        "contributed": 49500.0
+      },
+      {
+        "date": "2023-07-31",
+        "balance": 84433.53305713662,
+        "contributed": 50000.0
+      },
+      {
+        "date": "2023-08-31",
+        "balance": 83573.10404600092,
+        "contributed": 50500.0
+      },
+      {
+        "date": "2023-09-30",
+        "balance": 80103.37204247723,
+        "contributed": 51000.0
+      },
+      {
+        "date": "2023-10-31",
+        "balance": 78865.21801059504,
+        "contributed": 51500.0
+      },
+      {
+        "date": "2023-11-30",
+        "balance": 86570.28293102451,
+        "contributed": 52000.0
+      },
+      {
+        "date": "2023-12-31",
+        "balance": 91024.41813962441,
+        "contributed": 52500.0
+      },
+      {
+        "date": "2024-01-31",
+        "balance": 92968.84685635737,
+        "contributed": 53000.0
+      },
+      {
+        "date": "2024-02-29",
+        "balance": 98320.82564169909,
+        "contributed": 53500.0
+      },
+      {
+        "date": "2024-03-31",
+        "balance": 102039.27837830524,
+        "contributed": 54000.0
+      },
+      {
+        "date": "2024-04-30",
+        "balance": 98423.58161712425,
+        "contributed": 54500.0
+      },
+      {
+        "date": "2024-05-31",
+        "balance": 103899.86322039811,
+        "contributed": 55000.0
+      },
+      {
+        "date": "2024-06-30",
+        "balance": 108064.90383261401,
+        "contributed": 55500.0
+      },
+      {
+        "date": "2024-07-31",
+        "balance": 109884.99304765131,
+        "contributed": 56000.0
+      },
+      {
+        "date": "2024-08-31",
+        "balance": 112953.90619465063,
+        "contributed": 56500.0
+      },
+      {
+        "date": "2024-09-30",
+        "balance": 115829.70806193823,
+        "contributed": 57000.0
+      },
+      {
+        "date": "2024-10-31",
+        "balance": 115287.14688499528,
+        "contributed": 57500.0
+      },
+      {
+        "date": "2024-11-30",
+        "balance": 122666.30701271088,
+        "contributed": 58000.0
+      },
+      {
+        "date": "2024-12-31",
+        "balance": 120202.29794466431,
+        "contributed": 58500.0
+      },
+      {
+        "date": "2025-01-31",
+        "balance": 123925.39605619965,
+        "contributed": 59000.0
+      },
+      {
+        "date": "2025-02-28",
+        "balance": 122852.14718131903,
+        "contributed": 59500.0
+      },
+      {
+        "date": "2025-03-31",
+        "balance": 116492.97254673771,
+        "contributed": 60000.0
+      },
+      {
+        "date": "2025-04-30",
+        "balance": 115986.49922133621,
+        "contributed": 60500.0
+      },
+      {
+        "date": "2025-05-31",
+        "balance": 123784.5351121287,
+        "contributed": 61000.0
+      },
+      {
+        "date": "2025-06-30",
+        "balance": 130654.18075636264,
+        "contributed": 61500.0
+      },
+      {
+        "date": "2025-07-31",
+        "balance": 134159.4116311587,
+        "contributed": 62000.0
+      },
+      {
+        "date": "2025-08-31",
+        "balance": 137414.30929335472,
+        "contributed": 62500.0
+      },
+      {
+        "date": "2025-09-30",
+        "balance": 142815.23408503807,
+        "contributed": 63000.0
+      },
+      {
+        "date": "2025-10-31",
+        "balance": 146723.13048546127,
+        "contributed": 63500.0
+      },
+      {
+        "date": "2025-11-30",
+        "balance": 147515.43496456236,
+        "contributed": 64000.0
+      },
+      {
+        "date": "2025-12-31",
+        "balance": 148126.95103340546,
+        "contributed": 64500.0
+      },
+      {
+        "date": "2026-01-31",
+        "balance": 150812.00318386065,
+        "contributed": 65000.0
+      },
+      {
+        "date": "2026-02-28",
+        "balance": 150003.5218096701,
+        "contributed": 65500.0
+      },
+      {
+        "date": "2026-03-31",
+        "balance": 143091.4872101365,
+        "contributed": 66000.0
+      },
+      {
+        "date": "2026-04-30",
+        "balance": 158626.9314351873,
+        "contributed": 66500.0
+      },
+      {
+        "date": "2026-05-31",
+        "balance": 167482.06119152534,
+        "contributed": 67000.0
+      },
+      {
+        "date": "2026-06-30",
+        "balance": 166266.7296231996,
+        "contributed": 67500.0
+      },
+      {
+        "date": "2026-07-31",
+        "balance": 166830.1087120109,
+        "contributed": 68000.0
+      },
+      {
+        "date": "2026-08-31",
+        "balance": 171801.79305136309,
+        "contributed": 68500.0
+      },
+      {
+        "date": "2026-09-30",
+        "balance": 171730.3255622172,
+        "contributed": 69000.0
+      },
+      {
+        "date": "2026-10-31",
+        "balance": 170671.51611385838,
+        "contributed": 69500.0
+      },
+      {
+        "date": "2026-11-25",
+        "balance": 162829.0135343699,
+        "contributed": 70000.0
+      }
+    ],
+    "annual_returns": [
+      {
+        "year": 2016,
+        "return_pct": 0.015021080165931178,
+        "ending_balance": 10645.381563237164
+      },
+      {
+        "year": 2017,
+        "return_pct": 0.21705384714410414,
+        "ending_balance": 19558.31469189865
+      },
+      {
+        "year": 2018,
+        "return_pct": -0.04568982583482317,
+        "ending_balance": 24274.222132336356
+      },
+      {
+        "year": 2019,
+        "return_pct": 0.31223845958588625,
+        "ending_balance": 38545.92247212149
+      },
+      {
+        "year": 2020,
+        "return_pct": 0.183316520179851,
+        "ending_balance": 52764.03134755758
+      },
+      {
+        "year": 2021,
+        "return_pct": 0.287287598411198,
+        "ending_balance": 74651.20421040287
+      },
+      {
+        "year": 2022,
+        "return_pct": -0.18175366421200378,
+        "ending_balance": 66781.49447945034
+      },
+      {
+        "year": 2023,
+        "return_pct": 0.26175779777399355,
+        "ending_balance": 91024.41813962441
+      },
+      {
+        "year": 2024,
+        "return_pct": 0.24886489468498318,
+        "ending_balance": 120202.29794466431
+      },
+      {
+        "year": 2025,
+        "return_pct": 0.17719038776179374,
+        "ending_balance": 148126.95103340546
+      },
+      {
+        "year": 2026,
+        "return_pct": 0.11687979456589725,
+        "ending_balance": 162829.0135343699
+      }
+    ],
+    "drawdowns": [
+      {
+        "peak_date": "2021-12-31",
+        "trough_date": "2022-09-30",
+        "recovery_date": "2023-12-31",
+        "depth_pct": -0.2392717791308988,
+        "length_days": 273,
+        "recovery_days": 457
+      },
+      {
+        "peak_date": "2019-12-31",
+        "trough_date": "2020-03-31",
+        "recovery_date": "2020-07-31",
+        "depth_pct": -0.19447691557850422,
+        "length_days": 91,
+        "recovery_days": 122
+      },
+      {
+        "peak_date": "2018-09-30",
+        "trough_date": "2018-12-31",
+        "recovery_date": "2019-04-30",
+        "depth_pct": -0.13532105586859355,
+        "length_days": 92,
+        "recovery_days": 120
+      },
+      {
+        "peak_date": "2025-01-31",
+        "trough_date": "2025-04-30",
+        "recovery_date": "2025-06-30",
+        "depth_pct": -0.07578963914029024,
+        "length_days": 89,
+        "recovery_days": 61
+      },
+      {
+        "peak_date": "2019-04-30",
+        "trough_date": "2019-05-31",
+        "recovery_date": "2019-06-30",
+        "depth_pct": -0.0637704686045577,
+        "length_days": 31,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2018-01-31",
+        "trough_date": "2018-03-31",
+        "recovery_date": "2018-07-31",
+        "depth_pct": -0.06277431816425871,
+        "length_days": 59,
+        "recovery_days": 122
+      },
+      {
+        "peak_date": "2020-08-31",
+        "trough_date": "2020-10-31",
+        "recovery_date": "2020-11-30",
+        "depth_pct": -0.0614435832602066,
+        "length_days": 61,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2026-01-31",
+        "trough_date": "2026-03-31",
+        "recovery_date": "2026-04-30",
+        "depth_pct": -0.0575947757434615,
+        "length_days": 59,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2021-08-31",
+        "trough_date": "2021-09-30",
+        "recovery_date": "2021-10-31",
+        "depth_pct": -0.046605379693386406,
+        "length_days": 30,
+        "recovery_days": 31
+      },
+      {
+        "peak_date": "2024-03-31",
+        "trough_date": "2024-04-30",
+        "recovery_date": "2024-05-31",
+        "depth_pct": -0.040319740111900315,
+        "length_days": 30,
+        "recovery_days": 31
+      }
+    ],
+    "trailing_returns": [
+      {
+        "label": "1Y",
+        "years": 1.0,
+        "annualized_return_pct": 0.11995011395134192
+      },
+      {
+        "label": "3Y",
+        "years": 3.0,
+        "annualized_return_pct": 0.23283864997962445
+      },
+      {
+        "label": "5Y",
+        "years": 5.0,
+        "annualized_return_pct": 0.11962332337023063
+      },
+      {
+        "label": "7Y",
+        "years": 7.0,
+        "annualized_return_pct": 0.1556889702694353
+      },
+      {
+        "label": "10Y",
+        "years": 10.0,
+        "annualized_return_pct": 0.14854822514292843
+      },
+      {
+        "label": "15Y",
+        "years": 15.0,
+        "annualized_return_pct": null
+      },
+      {
+        "label": "20Y",
+        "years": 20.0,
+        "annualized_return_pct": null
+      },
+      {
+        "label": "Full Period",
+        "years": 10.0,
+        "annualized_return_pct": 0.1485700041655098
+      }
+    ],
+    "scenario_id": "sp500__combo",
+    "scenario_label": "S&P 500 (SPY) -- Lump sum + DCA -- $10,000 upfront + $500/month"
+  },
+  "nasdaq100__lump_sum": {
+    "asset": "nasdaq100",
+    "asset_label": "Nasdaq 100 (QQQ)",
+    "start_date": "2016-11-25",
+    "end_date": "2026-11-25",
+    "start_balance": 10000.0,
+    "end_balance": 57476.79354180976,
+    "total_contributed": 10000.0,
+    "total_gain": 47476.79354180976,
+    "cagr": 0.20056861687707372,
+    "annualized_stdev": 0.19176280273718935,
+    "best_year": {
+      "year": 2023,
+      "return_pct": 0.5485558260411865,
+      "ending_balance": 36360.6858287957
+    },
+    "worst_year": {
+      "year": 2022,
+      "return_pct": -0.32577000585759275,
+      "ending_balance": 23480.384250498835
+    },
+    "max_drawdown_pct": -0.32577000585759264,
+    "sharpe_ratio": 1.045920345417316,
+    "sortino_ratio": 1.683020828390343,
+    "growth_chart": [
+      {
+        "date": "2016-11-25",
+        "balance": 10000.0,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2016-11-30",
+        "balance": 9890.571005147598,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2016-12-31",
+        "balance": 10002.5543854923,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-01-31",
+        "balance": 10516.69645179568,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-02-28",
+        "balance": 10976.805396302567,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-03-31",
+        "balance": 11199.296702148824,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-04-30",
+        "balance": 11504.699361472349,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-05-31",
+        "balance": 11953.075450582399,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-06-30",
+        "balance": 11676.012932049016,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-07-31",
+        "balance": 12150.20776287166,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-08-31",
+        "balance": 12402.151126571966,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-09-30",
+        "balance": 12365.537580632026,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-10-31",
+        "balance": 12935.144241688711,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-11-30",
+        "balance": 13190.186953941688,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-12-31",
+        "balance": 13269.741939718015,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-01-31",
+        "balance": 14431.790107442937,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-02-28",
+        "balance": 14245.209324572234,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-03-31",
+        "balance": 13664.17287080424,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-04-30",
+        "balance": 13733.287656311795,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-05-31",
+        "balance": 14512.369046510501,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-06-30",
+        "balance": 14678.540859687819,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-07-31",
+        "balance": 15089.014183814734,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-08-31",
+        "balance": 15961.258830308605,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-09-30",
+        "balance": 15916.30659360634,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-10-31",
+        "balance": 14548.186795194566,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-11-30",
+        "balance": 14509.635297387991,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-12-31",
+        "balance": 13252.99721092991,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-01-31",
+        "balance": 14447.193388697824,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-02-28",
+        "balance": 14879.334664014468,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-03-31",
+        "balance": 15463.28766662005,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-04-30",
+        "balance": 16313.655447964102,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-05-31",
+        "balance": 14971.828570976972,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-06-30",
+        "balance": 16108.1954403841,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-07-31",
+        "balance": 16484.290048170475,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-08-31",
+        "balance": 16171.16238284239,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-09-30",
+        "balance": 16319.595751487224,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-10-31",
+        "balance": 17034.40861027891,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-11-30",
+        "balance": 17727.604371936945,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-12-31",
+        "balance": 18416.568251469183,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-01-31",
+        "balance": 18976.145668007543,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-02-29",
+        "balance": 17826.673570906532,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-03-31",
+        "balance": 16527.85410658529,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-04-30",
+        "balance": 19002.694234146507,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-05-31",
+        "balance": 20257.039764779372,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-06-30",
+        "balance": 21530.531160307448,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-07-31",
+        "balance": 23112.275103950156,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-08-31",
+        "balance": 25641.865807828708,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-09-30",
+        "balance": 24160.102312863088,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-10-31",
+        "balance": 23424.458533155987,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-11-30",
+        "balance": 26054.031060145575,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-12-31",
+        "balance": 27331.311770068198,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-01-31",
+        "balance": 27402.74110234413,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-02-28",
+        "balance": 27366.159168384995,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-03-31",
+        "balance": 27835.96818047967,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-04-30",
+        "balance": 29481.028172803457,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-05-31",
+        "balance": 29126.894270637727,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-06-30",
+        "balance": 30950.858832232814,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-07-31",
+        "balance": 31836.343400947466,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-08-31",
+        "balance": 33179.41551509146,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-09-30",
+        "balance": 31293.774604515223,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-10-31",
+        "balance": 33754.717830428526,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-11-30",
+        "balance": 34428.75123398398,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-12-31",
+        "balance": 34825.48159306515,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-01-31",
+        "balance": 31779.296145503075,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-02-28",
+        "balance": 30356.861466335475,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-03-31",
+        "balance": 31773.889122351768,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-04-30",
+        "balance": 27453.99099539599,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-05-31",
+        "balance": 27018.405388605737,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-06-30",
+        "balance": 24611.634102317676,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-07-31",
+        "balance": 27700.825588111697,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-08-31",
+        "balance": 26279.168838558646,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-09-30",
+        "balance": 23510.5173403741,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-10-31",
+        "balance": 24450.902298706416,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-11-30",
+        "balance": 25806.495506116404,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-12-31",
+        "balance": 23480.384250498835,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-01-31",
+        "balance": 25979.38555243139,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-02-28",
+        "balance": 25885.918546233726,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-03-31",
+        "balance": 28343.19203350595,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-04-30",
+        "balance": 28487.144747480404,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-05-31",
+        "balance": 30733.02204695135,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-06-30",
+        "balance": 32670.388404725443,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-07-31",
+        "balance": 33931.49202708047,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-08-31",
+        "balance": 33428.28427005016,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-09-30",
+        "balance": 31730.17662507057,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-10-31",
+        "balance": 31074.791541321156,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-11-30",
+        "balance": 34436.7229508822,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-12-31",
+        "balance": 36360.6858287957,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-01-31",
+        "balance": 37022.16515267041,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-02-29",
+        "balance": 38978.17708138264,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-03-31",
+        "balance": 39475.139410553384,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-04-30",
+        "balance": 37748.578233982946,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-05-31",
+        "balance": 40070.805339263556,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-06-30",
+        "balance": 42663.44132833544,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-07-31",
+        "balance": 41947.50143370641,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-08-31",
+        "balance": 42410.539984173396,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-09-30",
+        "balance": 43522.37458204323,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-10-31",
+        "balance": 43146.06831142886,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-11-30",
+        "balance": 45454.73800024671,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-12-31",
+        "balance": 45661.1230018737,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-01-31",
+        "balance": 46648.947922354106,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-02-28",
+        "balance": 45387.81681132011,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-03-31",
+        "balance": 41944.61237354778,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-04-30",
+        "balance": 42530.50332802,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-05-31",
+        "balance": 46434.06891892867,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-06-30",
+        "balance": 49399.27821601222,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-07-31",
+        "balance": 50596.564121295174,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-08-31",
+        "balance": 51079.237835142834,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-09-30",
+        "balance": 53825.373356391756,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-10-31",
+        "balance": 56398.43465717666,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-11-30",
+        "balance": 55518.03274520159,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-12-31",
+        "balance": 55146.09992340967,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-01-31",
+        "balance": 55824.75692276609,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-02-28",
+        "balance": 54515.91646053021,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-03-31",
+        "balance": 51878.30074607711,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-04-30",
+        "balance": 60018.044943302884,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-05-31",
+        "balance": 66361.04661770703,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-06-30",
+        "balance": 66262.11486213225,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-07-31",
+        "balance": 61906.12684857071,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-08-31",
+        "balance": 64494.88418504142,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-09-30",
+        "balance": 66634.712909955,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-10-31",
+        "balance": 62195.81904065198,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-11-25",
+        "balance": 57476.79354180976,
+        "contributed": 10000.0
+      }
+    ],
+    "annual_returns": [
+      {
+        "year": 2016,
+        "return_pct": 0.0002554385492301581,
+        "ending_balance": 10002.5543854923
+      },
+      {
+        "year": 2017,
+        "return_pct": 0.32663532017025987,
+        "ending_balance": 13269.741939718015
+      },
+      {
+        "year": 2018,
+        "return_pct": -0.0012618729787039484,
+        "ending_balance": 13252.99721092991
+      },
+      {
+        "year": 2019,
+        "return_pct": 0.3896153419756858,
+        "ending_balance": 18416.568251469183
+      },
+      {
+        "year": 2020,
+        "return_pct": 0.48406105832924906,
+        "ending_balance": 27331.311770068198
+      },
+      {
+        "year": 2021,
+        "return_pct": 0.2741972242694981,
+        "ending_balance": 34825.48159306515
+      },
+      {
+        "year": 2022,
+        "return_pct": -0.32577000585759275,
+        "ending_balance": 23480.384250498835
+      },
+      {
+        "year": 2023,
+        "return_pct": 0.5485558260411865,
+        "ending_balance": 36360.6858287957
+      },
+      {
+        "year": 2024,
+        "return_pct": 0.25578277639946356,
+        "ending_balance": 45661.1230018737
+      },
+      {
+        "year": 2025,
+        "return_pct": 0.20772544120622638,
+        "ending_balance": 55146.09992340967
+      },
+      {
+        "year": 2026,
+        "return_pct": 0.12783712949843085,
+        "ending_balance": 57476.79354180976
+      }
+    ],
+    "drawdowns": [
+      {
+        "peak_date": "2021-12-31",
+        "trough_date": "2022-12-31",
+        "recovery_date": "2023-12-31",
+        "depth_pct": -0.32577000585759264,
+        "length_days": 365,
+        "recovery_days": 365
+      },
+      {
+        "peak_date": "2018-08-31",
+        "trough_date": "2018-12-31",
+        "recovery_date": "2019-04-30",
+        "depth_pct": -0.16967719452277874,
+        "length_days": 122,
+        "recovery_days": 120
+      },
+      {
+        "peak_date": "2020-01-31",
+        "trough_date": "2020-03-31",
+        "recovery_date": "2020-04-30",
+        "depth_pct": -0.12901943335889854,
+        "length_days": 60,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2025-01-31",
+        "trough_date": "2025-03-31",
+        "recovery_date": "2025-06-30",
+        "depth_pct": -0.10084548008749428,
+        "length_days": 59,
+        "recovery_days": 91
+      },
+      {
+        "peak_date": "2020-08-31",
+        "trough_date": "2020-10-31",
+        "recovery_date": "2020-11-30",
+        "depth_pct": -0.08647605019427729,
+        "length_days": 61,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2019-04-30",
+        "trough_date": "2019-05-31",
+        "recovery_date": "2019-07-31",
+        "depth_pct": -0.0822517602671684,
+        "length_days": 31,
+        "recovery_days": 61
+      },
+      {
+        "peak_date": "2025-10-31",
+        "trough_date": "2026-03-31",
+        "recovery_date": "2026-04-30",
+        "depth_pct": -0.08014644269075233,
+        "length_days": 151,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2026-05-31",
+        "trough_date": "2026-07-31",
+        "recovery_date": "2026-09-30",
+        "depth_pct": -0.06713154774065333,
+        "length_days": 61,
+        "recovery_days": 61
+      },
+      {
+        "peak_date": "2026-09-30",
+        "trough_date": "2026-10-31",
+        "recovery_date": null,
+        "depth_pct": -0.0666153371937146,
+        "length_days": 31,
+        "recovery_days": null
+      },
+      {
+        "peak_date": "2021-08-31",
+        "trough_date": "2021-09-30",
+        "recovery_date": "2021-10-31",
+        "depth_pct": -0.056831649421870134,
+        "length_days": 30,
+        "recovery_days": 31
+      }
+    ],
+    "trailing_returns": [
+      {
+        "label": "1Y",
+        "years": 1.0,
+        "annualized_return_pct": 0.1027933562113077
+      },
+      {
+        "label": "3Y",
+        "years": 3.0,
+        "annualized_return_pct": 0.26023341035368563
+      },
+      {
+        "label": "5Y",
+        "years": 5.0,
+        "annualized_return_pct": 0.130017949232345
+      },
+      {
+        "label": "7Y",
+        "years": 7.0,
+        "annualized_return_pct": 0.2032274548692592
+      },
+      {
+        "label": "10Y",
+        "years": 10.0,
+        "annualized_return_pct": 0.20053857505023198
+      },
+      {
+        "label": "15Y",
+        "years": 15.0,
+        "annualized_return_pct": null
+      },
+      {
+        "label": "20Y",
+        "years": 20.0,
+        "annualized_return_pct": null
+      },
+      {
+        "label": "Full Period",
+        "years": 10.0,
+        "annualized_return_pct": 0.20056861687707372
+      }
+    ],
+    "scenario_id": "nasdaq100__lump_sum",
+    "scenario_label": "Nasdaq 100 (QQQ) -- Lump sum -- $10,000 upfront, no contributions"
+  },
+  "nasdaq100__monthly_dca": {
+    "asset": "nasdaq100",
+    "asset_label": "Nasdaq 100 (QQQ)",
+    "start_date": "2016-11-25",
+    "end_date": "2026-11-25",
+    "start_balance": 0.0,
+    "end_balance": 149537.66500043168,
+    "total_contributed": 60000.0,
+    "total_gain": 89537.66500043168,
+    "cagr": 0.20056861687707372,
+    "annualized_stdev": 0.19176280273718935,
+    "best_year": {
+      "year": 2023,
+      "return_pct": 0.5485558260411865,
+      "ending_balance": 81588.78016433828
+    },
+    "worst_year": {
+      "year": 2022,
+      "return_pct": -0.32577000585759275,
+      "ending_balance": 48027.757382393116
+    },
+    "max_drawdown_pct": -0.32577000585759264,
+    "sharpe_ratio": 1.045920345417316,
+    "sortino_ratio": 1.683020828390343,
+    "growth_chart": [
+      {
+        "date": "2016-11-25",
+        "balance": 0.0,
+        "contributed": 0.0
+      },
+      {
+        "date": "2016-11-30",
+        "balance": 0.0,
+        "contributed": 0.0
+      },
+      {
+        "date": "2016-12-31",
+        "balance": 492.8453734236488,
+        "contributed": 500.0
+      },
+      {
+        "date": "2017-01-31",
+        "balance": 1014.7500212241523,
+        "contributed": 1000.0
+      },
+      {
+        "date": "2017-02-28",
+        "balance": 1558.2243350599354,
+        "contributed": 1500.0
+      },
+      {
+        "date": "2017-03-31",
+        "balance": 2096.5068854323736,
+        "contributed": 2000.0
+      },
+      {
+        "date": "2017-04-30",
+        "balance": 2656.8603144814965,
+        "contributed": 2500.0
+      },
+      {
+        "date": "2017-05-31",
+        "balance": 3261.541818946872,
+        "contributed": 3000.0
+      },
+      {
+        "date": "2017-06-30",
+        "balance": 3673.197795484688,
+        "contributed": 3500.0
+      },
+      {
+        "date": "2017-07-31",
+        "balance": 4318.325238495367,
+        "contributed": 4000.0
+      },
+      {
+        "date": "2017-08-31",
+        "balance": 4922.766266617146,
+        "contributed": 4500.0
+      },
+      {
+        "date": "2017-09-30",
+        "balance": 5417.511965004898,
+        "contributed": 5000.0
+      },
+      {
+        "date": "2017-10-31",
+        "balance": 6183.072067164014,
+        "contributed": 5500.0
+      },
+      {
+        "date": "2017-11-30",
+        "balance": 6801.432159155399,
+        "contributed": 6000.0
+      },
+      {
+        "date": "2017-12-31",
+        "balance": 7337.338771516778,
+        "contributed": 6500.0
+      },
+      {
+        "date": "2018-01-31",
+        "balance": 8482.997564137726,
+        "contributed": 7000.0
+      },
+      {
+        "date": "2018-02-28",
+        "balance": 8870.471145122798,
+        "contributed": 7500.0
+      },
+      {
+        "date": "2018-03-31",
+        "balance": 9013.770897113369,
+        "contributed": 8000.0
+      },
+      {
+        "date": "2018-04-30",
+        "balance": 9566.580533615863,
+        "contributed": 8500.0
+      },
+      {
+        "date": "2018-05-31",
+        "balance": 10610.318040786478,
+        "contributed": 9000.0
+      },
+      {
+        "date": "2018-06-30",
+        "balance": 11232.62687364631,
+        "contributed": 9500.0
+      },
+      {
+        "date": "2018-07-31",
+        "balance": 12029.316582139112,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-08-31",
+        "balance": 13236.116523217199,
+        "contributed": 10500.0
+      },
+      {
+        "date": "2018-09-30",
+        "balance": 13703.319429201663,
+        "contributed": 11000.0
+      },
+      {
+        "date": "2018-10-31",
+        "balance": 13021.797258420149,
+        "contributed": 11500.0
+      },
+      {
+        "date": "2018-11-30",
+        "balance": 13519.198145381466,
+        "contributed": 12000.0
+      },
+      {
+        "date": "2018-12-31",
+        "balance": 12885.830276220593,
+        "contributed": 12500.0
+      },
+      {
+        "date": "2019-01-31",
+        "balance": 14556.05495509334,
+        "contributed": 13000.0
+      },
+      {
+        "date": "2019-02-28",
+        "balance": 15490.501514738648,
+        "contributed": 13500.0
+      },
+      {
+        "date": "2019-03-31",
+        "balance": 16602.480148507504,
+        "contributed": 14000.0
+      },
+      {
+        "date": "2019-04-30",
+        "balance": 18013.02780575876,
+        "contributed": 14500.0
+      },
+      {
+        "date": "2019-05-31",
+        "balance": 17019.60926785257,
+        "contributed": 15000.0
+      },
+      {
+        "date": "2019-06-30",
+        "balance": 18816.297204041308,
+        "contributed": 15500.0
+      },
+      {
+        "date": "2019-07-31",
+        "balance": 19749.92996709071,
+        "contributed": 16000.0
+      },
+      {
+        "date": "2019-08-31",
+        "balance": 19889.599050477544,
+        "contributed": 16500.0
+      },
+      {
+        "date": "2019-09-30",
+        "balance": 20568.822745706708,
+        "contributed": 17000.0
+      },
+      {
+        "date": "2019-10-31",
+        "balance": 21973.435758796924,
+        "contributed": 17500.0
+      },
+      {
+        "date": "2019-11-30",
+        "balance": 23369.774057320174,
+        "contributed": 18000.0
+      },
+      {
+        "date": "2019-12-31",
+        "balance": 24779.64267420376,
+        "contributed": 18500.0
+      },
+      {
+        "date": "2020-01-31",
+        "balance": 26024.408692907386,
+        "contributed": 19000.0
+      },
+      {
+        "date": "2020-02-29",
+        "balance": 24925.773318460077,
+        "contributed": 19500.0
+      },
+      {
+        "date": "2020-03-31",
+        "balance": 23631.942233388527,
+        "contributed": 20000.0
+      },
+      {
+        "date": "2020-04-30",
+        "balance": 27682.38561937775,
+        "contributed": 20500.0
+      },
+      {
+        "date": "2020-05-31",
+        "balance": 30017.722836082397,
+        "contributed": 21000.0
+      },
+      {
+        "date": "2020-06-30",
+        "balance": 32408.025883686856,
+        "contributed": 21500.0
+      },
+      {
+        "date": "2020-07-31",
+        "balance": 35308.901574818505,
+        "contributed": 22000.0
+      },
+      {
+        "date": "2020-08-31",
+        "balance": 39689.1650417705,
+        "contributed": 22500.0
+      },
+      {
+        "date": "2020-09-30",
+        "balance": 37907.214632933064,
+        "contributed": 23000.0
+      },
+      {
+        "date": "2020-10-31",
+        "balance": 37226.017297554354,
+        "contributed": 23500.0
+      },
+      {
+        "date": "2020-11-30",
+        "balance": 41910.55569698702,
+        "contributed": 24000.0
+      },
+      {
+        "date": "2020-12-31",
+        "balance": 44471.94285651236,
+        "contributed": 24500.0
+      },
+      {
+        "date": "2021-01-31",
+        "balance": 45067.519901859894,
+        "contributed": 25000.0
+      },
+      {
+        "date": "2021-02-28",
+        "balance": 45509.44983158765,
+        "contributed": 25500.0
+      },
+      {
+        "date": "2021-03-31",
+        "balance": 46803.26103208604,
+        "contributed": 26000.0
+      },
+      {
+        "date": "2021-04-30",
+        "balance": 50067.15035980392,
+        "contributed": 26500.0
+      },
+      {
+        "date": "2021-05-31",
+        "balance": 49967.172096069,
+        "contributed": 27000.0
+      },
+      {
+        "date": "2021-06-30",
+        "balance": 53603.29326740328,
+        "contributed": 27500.0
+      },
+      {
+        "date": "2021-07-31",
+        "balance": 55631.92042900428,
+        "contributed": 28000.0
+      },
+      {
+        "date": "2021-08-31",
+        "balance": 58485.72113807104,
+        "contributed": 28500.0
+      },
+      {
+        "date": "2021-09-30",
+        "balance": 55641.29612445311,
+        "contributed": 29000.0
+      },
+      {
+        "date": "2021-10-31",
+        "balance": 60527.751065073084,
+        "contributed": 29500.0
+      },
+      {
+        "date": "2021-11-30",
+        "balance": 62230.20939713997,
+        "contributed": 30000.0
+      },
+      {
+        "date": "2021-12-31",
+        "balance": 63448.47375914548,
+        "contributed": 30500.0
+      },
+      {
+        "date": "2022-01-31",
+        "balance": 58424.626498042155,
+        "contributed": 31000.0
+      },
+      {
+        "date": "2022-02-28",
+        "balance": 56311.04185283509,
+        "contributed": 31500.0
+      },
+      {
+        "date": "2022-03-31",
+        "balance": 59444.023064794936,
+        "contributed": 32000.0
+      },
+      {
+        "date": "2022-04-30",
+        "balance": 51837.38914501329,
+        "contributed": 32500.0
+      },
+      {
+        "date": "2022-05-31",
+        "balance": 51544.153829698815,
+        "contributed": 33000.0
+      },
+      {
+        "date": "2022-06-30",
+        "balance": 47428.33419059219,
+        "contributed": 33500.0
+      },
+      {
+        "date": "2022-07-31",
+        "balance": 53906.71531602908,
+        "contributed": 34000.0
+      },
+      {
+        "date": "2022-08-31",
+        "balance": 51606.88814312123,
+        "contributed": 34500.0
+      },
+      {
+        "date": "2022-09-30",
+        "balance": 46654.85321896116,
+        "contributed": 35000.0
+      },
+      {
+        "date": "2022-10-31",
+        "balance": 49009.96351696709,
+        "contributed": 35500.0
+      },
+      {
+        "date": "2022-11-30",
+        "balance": 52238.36902914591,
+        "contributed": 36000.0
+      },
+      {
+        "date": "2022-12-31",
+        "balance": 48027.757382393116,
+        "contributed": 36500.0
+      },
+      {
+        "date": "2023-01-31",
+        "balance": 53651.291737895146,
+        "contributed": 37000.0
+      },
+      {
+        "date": "2023-02-28",
+        "balance": 53961.19811726459,
+        "contributed": 37500.0
+      },
+      {
+        "date": "2023-03-31",
+        "balance": 59599.72168860147,
+        "contributed": 38000.0
+      },
+      {
+        "date": "2023-04-30",
+        "balance": 60422.69841973858,
+        "contributed": 38500.0
+      },
+      {
+        "date": "2023-05-31",
+        "balance": 65698.49145252611,
+        "contributed": 39000.0
+      },
+      {
+        "date": "2023-06-30",
+        "balance": 70349.52031531949,
+        "contributed": 39500.0
+      },
+      {
+        "date": "2023-07-31",
+        "balance": 73571.53729828665,
+        "contributed": 40000.0
+      },
+      {
+        "date": "2023-08-31",
+        "balance": 72999.65182918668,
+        "contributed": 40500.0
+      },
+      {
+        "date": "2023-09-30",
+        "balance": 69789.51382252369,
+        "contributed": 41000.0
+      },
+      {
+        "date": "2023-10-31",
+        "balance": 68848.77150847735,
+        "contributed": 41500.0
+      },
+      {
+        "date": "2023-11-30",
+        "balance": 76796.53581955309,
+        "contributed": 42000.0
+      },
+      {
+        "date": "2023-12-31",
+        "balance": 81588.78016433828,
+        "contributed": 42500.0
+      },
+      {
+        "date": "2024-01-31",
+        "balance": 83562.05580323632,
+        "contributed": 43000.0
+      },
+      {
+        "date": "2024-02-29",
+        "balance": 88479.47611912868,
+        "contributed": 43500.0
+      },
+      {
+        "date": "2024-03-31",
+        "balance": 90106.72492264175,
+        "contributed": 44000.0
+      },
+      {
+        "date": "2024-04-30",
+        "balance": 86665.80747523194,
+        "contributed": 44500.0
+      },
+      {
+        "date": "2024-05-31",
+        "balance": 92489.4329627011,
+        "contributed": 45000.0
+      },
+      {
+        "date": "2024-06-30",
+        "balance": 98973.34438710686,
+        "contributed": 45500.0
+      },
+      {
+        "date": "2024-07-31",
+        "balance": 97826.42748427023,
+        "contributed": 46000.0
+      },
+      {
+        "date": "2024-08-31",
+        "balance": 99402.40149280799,
+        "contributed": 46500.0
+      },
+      {
+        "date": "2024-09-30",
+        "balance": 102510.65026815761,
+        "contributed": 47000.0
+      },
+      {
+        "date": "2024-10-31",
+        "balance": 102112.7369773756,
+        "contributed": 47500.0
+      },
+      {
+        "date": "2024-11-30",
+        "balance": 108079.71764886533,
+        "contributed": 48000.0
+      },
+      {
+        "date": "2024-12-31",
+        "balance": 109052.77725890515,
+        "contributed": 48500.0
+      },
+      {
+        "date": "2025-01-31",
+        "balance": 111905.07698949588,
+        "contributed": 49000.0
+      },
+      {
+        "date": "2025-02-28",
+        "balance": 109374.76253672985,
+        "contributed": 49500.0
+      },
+      {
+        "date": "2025-03-31",
+        "balance": 101552.52386345156,
+        "contributed": 50000.0
+      },
+      {
+        "date": "2025-04-30",
+        "balance": 103474.10934347683,
+        "contributed": 50500.0
+      },
+      {
+        "date": "2025-05-31",
+        "balance": 113480.93618439222,
+        "contributed": 51000.0
+      },
+      {
+        "date": "2025-06-30",
+        "balance": 121237.3398477819,
+        "contributed": 51500.0
+      },
+      {
+        "date": "2025-07-31",
+        "balance": 124674.55795184648,
+        "contributed": 52000.0
+      },
+      {
+        "date": "2025-08-31",
+        "balance": 126363.98022548472,
+        "contributed": 52500.0
+      },
+      {
+        "date": "2025-09-30",
+        "balance": 133663.35612851923,
+        "contributed": 53000.0
+      },
+      {
+        "date": "2025-10-31",
+        "balance": 140562.6809260574,
+        "contributed": 53500.0
+      },
+      {
+        "date": "2025-11-30",
+        "balance": 138876.9490414981,
+        "contributed": 54000.0
+      },
+      {
+        "date": "2025-12-31",
+        "balance": 138438.85929168982,
+        "contributed": 54500.0
+      },
+      {
+        "date": "2026-01-31",
+        "balance": 140641.87844774514,
+        "contributed": 55000.0
+      },
+      {
+        "date": "2026-02-28",
+        "balance": 137836.8430852857,
+        "contributed": 55500.0
+      },
+      {
+        "date": "2026-03-31",
+        "balance": 131658.90314203044,
+        "contributed": 56000.0
+      },
+      {
+        "date": "2026-04-30",
+        "balance": 152819.19064222512,
+        "contributed": 56500.0
+      },
+      {
+        "date": "2026-05-31",
+        "balance": 169484.34609052865,
+        "contributed": 57000.0
+      },
+      {
+        "date": "2026-06-30",
+        "balance": 169745.65008460972,
+        "contributed": 57500.0
+      },
+      {
+        "date": "2026-07-31",
+        "balance": 159089.53236795578,
+        "contributed": 58000.0
+      },
+      {
+        "date": "2026-08-31",
+        "balance": 166246.50267206444,
+        "contributed": 58500.0
+      },
+      {
+        "date": "2026-09-30",
+        "balance": 172259.0975216922,
+        "contributed": 59000.0
+      },
+      {
+        "date": "2026-10-31",
+        "balance": 161274.12598034588,
+        "contributed": 59500.0
+      },
+      {
+        "date": "2026-11-25",
+        "balance": 149537.66500043168,
+        "contributed": 60000.0
+      }
+    ],
+    "annual_returns": [
+      {
+        "year": 2016,
+        "return_pct": 0.0002554385492301581,
+        "ending_balance": 492.8453734236488
+      },
+      {
+        "year": 2017,
+        "return_pct": 0.32663532017025987,
+        "ending_balance": 7337.338771516778
+      },
+      {
+        "year": 2018,
+        "return_pct": -0.0012618729787039484,
+        "ending_balance": 12885.830276220593
+      },
+      {
+        "year": 2019,
+        "return_pct": 0.3896153419756858,
+        "ending_balance": 24779.64267420376
+      },
+      {
+        "year": 2020,
+        "return_pct": 0.48406105832924906,
+        "ending_balance": 44471.94285651236
+      },
+      {
+        "year": 2021,
+        "return_pct": 0.2741972242694981,
+        "ending_balance": 63448.47375914548
+      },
+      {
+        "year": 2022,
+        "return_pct": -0.32577000585759275,
+        "ending_balance": 48027.757382393116
+      },
+      {
+        "year": 2023,
+        "return_pct": 0.5485558260411865,
+        "ending_balance": 81588.78016433828
+      },
+      {
+        "year": 2024,
+        "return_pct": 0.25578277639946356,
+        "ending_balance": 109052.77725890515
+      },
+      {
+        "year": 2025,
+        "return_pct": 0.20772544120622638,
+        "ending_balance": 138438.85929168982
+      },
+      {
+        "year": 2026,
+        "return_pct": 0.12783712949843085,
+        "ending_balance": 149537.66500043168
+      }
+    ],
+    "drawdowns": [
+      {
+        "peak_date": "2021-12-31",
+        "trough_date": "2022-12-31",
+        "recovery_date": "2023-12-31",
+        "depth_pct": -0.32577000585759264,
+        "length_days": 365,
+        "recovery_days": 365
+      },
+      {
+        "peak_date": "2018-08-31",
+        "trough_date": "2018-12-31",
+        "recovery_date": "2019-04-30",
+        "depth_pct": -0.16967719452277874,
+        "length_days": 122,
+        "recovery_days": 120
+      },
+      {
+        "peak_date": "2020-01-31",
+        "trough_date": "2020-03-31",
+        "recovery_date": "2020-04-30",
+        "depth_pct": -0.12901943335889854,
+        "length_days": 60,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2025-01-31",
+        "trough_date": "2025-03-31",
+        "recovery_date": "2025-06-30",
+        "depth_pct": -0.10084548008749428,
+        "length_days": 59,
+        "recovery_days": 91
+      },
+      {
+        "peak_date": "2020-08-31",
+        "trough_date": "2020-10-31",
+        "recovery_date": "2020-11-30",
+        "depth_pct": -0.08647605019427729,
+        "length_days": 61,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2019-04-30",
+        "trough_date": "2019-05-31",
+        "recovery_date": "2019-07-31",
+        "depth_pct": -0.0822517602671684,
+        "length_days": 31,
+        "recovery_days": 61
+      },
+      {
+        "peak_date": "2025-10-31",
+        "trough_date": "2026-03-31",
+        "recovery_date": "2026-04-30",
+        "depth_pct": -0.08014644269075233,
+        "length_days": 151,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2026-05-31",
+        "trough_date": "2026-07-31",
+        "recovery_date": "2026-09-30",
+        "depth_pct": -0.06713154774065333,
+        "length_days": 61,
+        "recovery_days": 61
+      },
+      {
+        "peak_date": "2026-09-30",
+        "trough_date": "2026-10-31",
+        "recovery_date": null,
+        "depth_pct": -0.0666153371937146,
+        "length_days": 31,
+        "recovery_days": null
+      },
+      {
+        "peak_date": "2021-08-31",
+        "trough_date": "2021-09-30",
+        "recovery_date": "2021-10-31",
+        "depth_pct": -0.056831649421870134,
+        "length_days": 30,
+        "recovery_days": 31
+      }
+    ],
+    "trailing_returns": [
+      {
+        "label": "1Y",
+        "years": 1.0,
+        "annualized_return_pct": 0.1027933562113077
+      },
+      {
+        "label": "3Y",
+        "years": 3.0,
+        "annualized_return_pct": 0.26023341035368563
+      },
+      {
+        "label": "5Y",
+        "years": 5.0,
+        "annualized_return_pct": 0.130017949232345
+      },
+      {
+        "label": "7Y",
+        "years": 7.0,
+        "annualized_return_pct": 0.2032274548692592
+      },
+      {
+        "label": "10Y",
+        "years": 10.0,
+        "annualized_return_pct": 0.20053857505023198
+      },
+      {
+        "label": "15Y",
+        "years": 15.0,
+        "annualized_return_pct": null
+      },
+      {
+        "label": "20Y",
+        "years": 20.0,
+        "annualized_return_pct": null
+      },
+      {
+        "label": "Full Period",
+        "years": 10.0,
+        "annualized_return_pct": 0.20056861687707372
+      }
+    ],
+    "scenario_id": "nasdaq100__monthly_dca",
+    "scenario_label": "Nasdaq 100 (QQQ) -- Monthly DCA -- $500/month, no upfront"
+  },
+  "nasdaq100__combo": {
+    "asset": "nasdaq100",
+    "asset_label": "Nasdaq 100 (QQQ)",
+    "start_date": "2016-11-25",
+    "end_date": "2026-11-25",
+    "start_balance": 10000.0,
+    "end_balance": 207014.4585422413,
+    "total_contributed": 70000.0,
+    "total_gain": 137014.4585422413,
+    "cagr": 0.20056861687707372,
+    "annualized_stdev": 0.19176280273718935,
+    "best_year": {
+      "year": 2023,
+      "return_pct": 0.5485558260411865,
+      "ending_balance": 117949.46599313393
+    },
+    "worst_year": {
+      "year": 2022,
+      "return_pct": -0.32577000585759275,
+      "ending_balance": 71508.14163289193
+    },
+    "max_drawdown_pct": -0.32577000585759264,
+    "sharpe_ratio": 1.045920345417316,
+    "sortino_ratio": 1.683020828390343,
+    "growth_chart": [
+      {
+        "date": "2016-11-25",
+        "balance": 10000.0,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2016-11-30",
+        "balance": 9890.571005147598,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2016-12-31",
+        "balance": 10495.39975891595,
+        "contributed": 10500.0
+      },
+      {
+        "date": "2017-01-31",
+        "balance": 11531.446473019834,
+        "contributed": 11000.0
+      },
+      {
+        "date": "2017-02-28",
+        "balance": 12535.029731362503,
+        "contributed": 11500.0
+      },
+      {
+        "date": "2017-03-31",
+        "balance": 13295.803587581198,
+        "contributed": 12000.0
+      },
+      {
+        "date": "2017-04-30",
+        "balance": 14161.559675953848,
+        "contributed": 12500.0
+      },
+      {
+        "date": "2017-05-31",
+        "balance": 15214.617269529272,
+        "contributed": 13000.0
+      },
+      {
+        "date": "2017-06-30",
+        "balance": 15349.210727533706,
+        "contributed": 13500.0
+      },
+      {
+        "date": "2017-07-31",
+        "balance": 16468.53300136703,
+        "contributed": 14000.0
+      },
+      {
+        "date": "2017-08-31",
+        "balance": 17324.917393189113,
+        "contributed": 14500.0
+      },
+      {
+        "date": "2017-09-30",
+        "balance": 17783.049545636928,
+        "contributed": 15000.0
+      },
+      {
+        "date": "2017-10-31",
+        "balance": 19118.216308852727,
+        "contributed": 15500.0
+      },
+      {
+        "date": "2017-11-30",
+        "balance": 19991.61911309709,
+        "contributed": 16000.0
+      },
+      {
+        "date": "2017-12-31",
+        "balance": 20607.080711234794,
+        "contributed": 16500.0
+      },
+      {
+        "date": "2018-01-31",
+        "balance": 22914.787671580667,
+        "contributed": 17000.0
+      },
+      {
+        "date": "2018-02-28",
+        "balance": 23115.680469695035,
+        "contributed": 17500.0
+      },
+      {
+        "date": "2018-03-31",
+        "balance": 22677.94376791761,
+        "contributed": 18000.0
+      },
+      {
+        "date": "2018-04-30",
+        "balance": 23299.868189927663,
+        "contributed": 18500.0
+      },
+      {
+        "date": "2018-05-31",
+        "balance": 25122.68708729698,
+        "contributed": 19000.0
+      },
+      {
+        "date": "2018-06-30",
+        "balance": 25911.16773333413,
+        "contributed": 19500.0
+      },
+      {
+        "date": "2018-07-31",
+        "balance": 27118.330765953848,
+        "contributed": 20000.0
+      },
+      {
+        "date": "2018-08-31",
+        "balance": 29197.3753535258,
+        "contributed": 20500.0
+      },
+      {
+        "date": "2018-09-30",
+        "balance": 29619.626022808003,
+        "contributed": 21000.0
+      },
+      {
+        "date": "2018-10-31",
+        "balance": 27569.98405361471,
+        "contributed": 21500.0
+      },
+      {
+        "date": "2018-11-30",
+        "balance": 28028.83344276945,
+        "contributed": 22000.0
+      },
+      {
+        "date": "2018-12-31",
+        "balance": 26138.827487150502,
+        "contributed": 22500.0
+      },
+      {
+        "date": "2019-01-31",
+        "balance": 29003.248343791158,
+        "contributed": 23000.0
+      },
+      {
+        "date": "2019-02-28",
+        "balance": 30369.836178753107,
+        "contributed": 23500.0
+      },
+      {
+        "date": "2019-03-31",
+        "balance": 32065.76781512755,
+        "contributed": 24000.0
+      },
+      {
+        "date": "2019-04-30",
+        "balance": 34326.683253722855,
+        "contributed": 24500.0
+      },
+      {
+        "date": "2019-05-31",
+        "balance": 31991.437838829534,
+        "contributed": 25000.0
+      },
+      {
+        "date": "2019-06-30",
+        "balance": 34924.492644425394,
+        "contributed": 25500.0
+      },
+      {
+        "date": "2019-07-31",
+        "balance": 36234.22001526117,
+        "contributed": 26000.0
+      },
+      {
+        "date": "2019-08-31",
+        "balance": 36060.76143331992,
+        "contributed": 26500.0
+      },
+      {
+        "date": "2019-09-30",
+        "balance": 36888.418497193925,
+        "contributed": 27000.0
+      },
+      {
+        "date": "2019-10-31",
+        "balance": 39007.84436907582,
+        "contributed": 27500.0
+      },
+      {
+        "date": "2019-11-30",
+        "balance": 41097.37842925711,
+        "contributed": 28000.0
+      },
+      {
+        "date": "2019-12-31",
+        "balance": 43196.21092567293,
+        "contributed": 28500.0
+      },
+      {
+        "date": "2020-01-31",
+        "balance": 45000.55436091492,
+        "contributed": 29000.0
+      },
+      {
+        "date": "2020-02-29",
+        "balance": 42752.446889366605,
+        "contributed": 29500.0
+      },
+      {
+        "date": "2020-03-31",
+        "balance": 40159.796339973815,
+        "contributed": 30000.0
+      },
+      {
+        "date": "2020-04-30",
+        "balance": 46685.07985352425,
+        "contributed": 30500.0
+      },
+      {
+        "date": "2020-05-31",
+        "balance": 50274.762600861766,
+        "contributed": 31000.0
+      },
+      {
+        "date": "2020-06-30",
+        "balance": 53938.5570439943,
+        "contributed": 31500.0
+      },
+      {
+        "date": "2020-07-31",
+        "balance": 58421.17667876866,
+        "contributed": 32000.0
+      },
+      {
+        "date": "2020-08-31",
+        "balance": 65331.0308495992,
+        "contributed": 32500.0
+      },
+      {
+        "date": "2020-09-30",
+        "balance": 62067.31694579614,
+        "contributed": 33000.0
+      },
+      {
+        "date": "2020-10-31",
+        "balance": 60650.47583071033,
+        "contributed": 33500.0
+      },
+      {
+        "date": "2020-11-30",
+        "balance": 67964.5867571326,
+        "contributed": 34000.0
+      },
+      {
+        "date": "2020-12-31",
+        "balance": 71803.25462658054,
+        "contributed": 34500.0
+      },
+      {
+        "date": "2021-01-31",
+        "balance": 72470.26100420402,
+        "contributed": 35000.0
+      },
+      {
+        "date": "2021-02-28",
+        "balance": 72875.60899997264,
+        "contributed": 35500.0
+      },
+      {
+        "date": "2021-03-31",
+        "balance": 74639.2292125657,
+        "contributed": 36000.0
+      },
+      {
+        "date": "2021-04-30",
+        "balance": 79548.17853260736,
+        "contributed": 36500.0
+      },
+      {
+        "date": "2021-05-31",
+        "balance": 79094.06636670673,
+        "contributed": 37000.0
+      },
+      {
+        "date": "2021-06-30",
+        "balance": 84554.15209963608,
+        "contributed": 37500.0
+      },
+      {
+        "date": "2021-07-31",
+        "balance": 87468.26382995174,
+        "contributed": 38000.0
+      },
+      {
+        "date": "2021-08-31",
+        "balance": 91665.1366531625,
+        "contributed": 38500.0
+      },
+      {
+        "date": "2021-09-30",
+        "balance": 86935.07072896832,
+        "contributed": 39000.0
+      },
+      {
+        "date": "2021-10-31",
+        "balance": 94282.4688955016,
+        "contributed": 39500.0
+      },
+      {
+        "date": "2021-11-30",
+        "balance": 96658.96063112393,
+        "contributed": 40000.0
+      },
+      {
+        "date": "2021-12-31",
+        "balance": 98273.95535221063,
+        "contributed": 40500.0
+      },
+      {
+        "date": "2022-01-31",
+        "balance": 90203.92264354521,
+        "contributed": 41000.0
+      },
+      {
+        "date": "2022-02-28",
+        "balance": 86667.90331917054,
+        "contributed": 41500.0
+      },
+      {
+        "date": "2022-03-31",
+        "balance": 91217.91218714668,
+        "contributed": 42000.0
+      },
+      {
+        "date": "2022-04-30",
+        "balance": 79291.38014040927,
+        "contributed": 42500.0
+      },
+      {
+        "date": "2022-05-31",
+        "balance": 78562.55921830454,
+        "contributed": 43000.0
+      },
+      {
+        "date": "2022-06-30",
+        "balance": 72039.96829290986,
+        "contributed": 43500.0
+      },
+      {
+        "date": "2022-07-31",
+        "balance": 81607.54090414077,
+        "contributed": 44000.0
+      },
+      {
+        "date": "2022-08-31",
+        "balance": 77886.05698167985,
+        "contributed": 44500.0
+      },
+      {
+        "date": "2022-09-30",
+        "balance": 70165.37055933524,
+        "contributed": 45000.0
+      },
+      {
+        "date": "2022-10-31",
+        "balance": 73460.86581567349,
+        "contributed": 45500.0
+      },
+      {
+        "date": "2022-11-30",
+        "balance": 78044.8645352623,
+        "contributed": 46000.0
+      },
+      {
+        "date": "2022-12-31",
+        "balance": 71508.14163289193,
+        "contributed": 46500.0
+      },
+      {
+        "date": "2023-01-31",
+        "balance": 79630.67729032652,
+        "contributed": 47000.0
+      },
+      {
+        "date": "2023-02-28",
+        "balance": 79847.11666349831,
+        "contributed": 47500.0
+      },
+      {
+        "date": "2023-03-31",
+        "balance": 87942.91372210742,
+        "contributed": 48000.0
+      },
+      {
+        "date": "2023-04-30",
+        "balance": 88909.843167219,
+        "contributed": 48500.0
+      },
+      {
+        "date": "2023-05-31",
+        "balance": 96431.51349947746,
+        "contributed": 49000.0
+      },
+      {
+        "date": "2023-06-30",
+        "balance": 103019.90872004491,
+        "contributed": 49500.0
+      },
+      {
+        "date": "2023-07-31",
+        "balance": 107503.0293253671,
+        "contributed": 50000.0
+      },
+      {
+        "date": "2023-08-31",
+        "balance": 106427.93609923682,
+        "contributed": 50500.0
+      },
+      {
+        "date": "2023-09-30",
+        "balance": 101519.69044759424,
+        "contributed": 51000.0
+      },
+      {
+        "date": "2023-10-31",
+        "balance": 99923.56304979847,
+        "contributed": 51500.0
+      },
+      {
+        "date": "2023-11-30",
+        "balance": 111233.25877043525,
+        "contributed": 52000.0
+      },
+      {
+        "date": "2023-12-31",
+        "balance": 117949.46599313393,
+        "contributed": 52500.0
+      },
+      {
+        "date": "2024-01-31",
+        "balance": 120584.22095590668,
+        "contributed": 53000.0
+      },
+      {
+        "date": "2024-02-29",
+        "balance": 127457.65320051127,
+        "contributed": 53500.0
+      },
+      {
+        "date": "2024-03-31",
+        "balance": 129581.86433319507,
+        "contributed": 54000.0
+      },
+      {
+        "date": "2024-04-30",
+        "balance": 124414.38570921484,
+        "contributed": 54500.0
+      },
+      {
+        "date": "2024-05-31",
+        "balance": 132560.23830196462,
+        "contributed": 55000.0
+      },
+      {
+        "date": "2024-06-30",
+        "balance": 141636.78571544227,
+        "contributed": 55500.0
+      },
+      {
+        "date": "2024-07-31",
+        "balance": 139773.92891797662,
+        "contributed": 56000.0
+      },
+      {
+        "date": "2024-08-31",
+        "balance": 141812.94147698136,
+        "contributed": 56500.0
+      },
+      {
+        "date": "2024-09-30",
+        "balance": 146033.0248502008,
+        "contributed": 57000.0
+      },
+      {
+        "date": "2024-10-31",
+        "balance": 145258.8052888044,
+        "contributed": 57500.0
+      },
+      {
+        "date": "2024-11-30",
+        "balance": 153534.455649112,
+        "contributed": 58000.0
+      },
+      {
+        "date": "2024-12-31",
+        "balance": 154713.90026077878,
+        "contributed": 58500.0
+      },
+      {
+        "date": "2025-01-31",
+        "balance": 158554.02491184993,
+        "contributed": 59000.0
+      },
+      {
+        "date": "2025-02-28",
+        "balance": 154762.57934804988,
+        "contributed": 59500.0
+      },
+      {
+        "date": "2025-03-31",
+        "balance": 143497.13623699927,
+        "contributed": 60000.0
+      },
+      {
+        "date": "2025-04-30",
+        "balance": 146004.61267149678,
+        "contributed": 60500.0
+      },
+      {
+        "date": "2025-05-31",
+        "balance": 159915.00510332084,
+        "contributed": 61000.0
+      },
+      {
+        "date": "2025-06-30",
+        "balance": 170636.61806379407,
+        "contributed": 61500.0
+      },
+      {
+        "date": "2025-07-31",
+        "balance": 175271.1220731416,
+        "contributed": 62000.0
+      },
+      {
+        "date": "2025-08-31",
+        "balance": 177443.2180606275,
+        "contributed": 62500.0
+      },
+      {
+        "date": "2025-09-30",
+        "balance": 187488.7294849109,
+        "contributed": 63000.0
+      },
+      {
+        "date": "2025-10-31",
+        "balance": 196961.11558323397,
+        "contributed": 63500.0
+      },
+      {
+        "date": "2025-11-30",
+        "balance": 194394.98178669965,
+        "contributed": 64000.0
+      },
+      {
+        "date": "2025-12-31",
+        "balance": 193584.95921509943,
+        "contributed": 64500.0
+      },
+      {
+        "date": "2026-01-31",
+        "balance": 196466.63537051115,
+        "contributed": 65000.0
+      },
+      {
+        "date": "2026-02-28",
+        "balance": 192352.75954581585,
+        "contributed": 65500.0
+      },
+      {
+        "date": "2026-03-31",
+        "balance": 183537.20388810747,
+        "contributed": 66000.0
+      },
+      {
+        "date": "2026-04-30",
+        "balance": 212837.23558552787,
+        "contributed": 66500.0
+      },
+      {
+        "date": "2026-05-31",
+        "balance": 235845.39270823554,
+        "contributed": 67000.0
+      },
+      {
+        "date": "2026-06-30",
+        "balance": 236007.7649467418,
+        "contributed": 67500.0
+      },
+      {
+        "date": "2026-07-31",
+        "balance": 220995.6592165263,
+        "contributed": 68000.0
+      },
+      {
+        "date": "2026-08-31",
+        "balance": 230741.3868571057,
+        "contributed": 68500.0
+      },
+      {
+        "date": "2026-09-30",
+        "balance": 238893.81043164703,
+        "contributed": 69000.0
+      },
+      {
+        "date": "2026-10-31",
+        "balance": 223469.94502099772,
+        "contributed": 69500.0
+      },
+      {
+        "date": "2026-11-25",
+        "balance": 207014.4585422413,
+        "contributed": 70000.0
+      }
+    ],
+    "annual_returns": [
+      {
+        "year": 2016,
+        "return_pct": 0.0002554385492301581,
+        "ending_balance": 10495.39975891595
+      },
+      {
+        "year": 2017,
+        "return_pct": 0.32663532017025987,
+        "ending_balance": 20607.080711234794
+      },
+      {
+        "year": 2018,
+        "return_pct": -0.0012618729787039484,
+        "ending_balance": 26138.827487150502
+      },
+      {
+        "year": 2019,
+        "return_pct": 0.3896153419756858,
+        "ending_balance": 43196.21092567293
+      },
+      {
+        "year": 2020,
+        "return_pct": 0.48406105832924906,
+        "ending_balance": 71803.25462658054
+      },
+      {
+        "year": 2021,
+        "return_pct": 0.2741972242694981,
+        "ending_balance": 98273.95535221063
+      },
+      {
+        "year": 2022,
+        "return_pct": -0.32577000585759275,
+        "ending_balance": 71508.14163289193
+      },
+      {
+        "year": 2023,
+        "return_pct": 0.5485558260411865,
+        "ending_balance": 117949.46599313393
+      },
+      {
+        "year": 2024,
+        "return_pct": 0.25578277639946356,
+        "ending_balance": 154713.90026077878
+      },
+      {
+        "year": 2025,
+        "return_pct": 0.20772544120622638,
+        "ending_balance": 193584.95921509943
+      },
+      {
+        "year": 2026,
+        "return_pct": 0.12783712949843085,
+        "ending_balance": 207014.4585422413
+      }
+    ],
+    "drawdowns": [
+      {
+        "peak_date": "2021-12-31",
+        "trough_date": "2022-12-31",
+        "recovery_date": "2023-12-31",
+        "depth_pct": -0.32577000585759264,
+        "length_days": 365,
+        "recovery_days": 365
+      },
+      {
+        "peak_date": "2018-08-31",
+        "trough_date": "2018-12-31",
+        "recovery_date": "2019-04-30",
+        "depth_pct": -0.16967719452277874,
+        "length_days": 122,
+        "recovery_days": 120
+      },
+      {
+        "peak_date": "2020-01-31",
+        "trough_date": "2020-03-31",
+        "recovery_date": "2020-04-30",
+        "depth_pct": -0.12901943335889854,
+        "length_days": 60,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2025-01-31",
+        "trough_date": "2025-03-31",
+        "recovery_date": "2025-06-30",
+        "depth_pct": -0.10084548008749428,
+        "length_days": 59,
+        "recovery_days": 91
+      },
+      {
+        "peak_date": "2020-08-31",
+        "trough_date": "2020-10-31",
+        "recovery_date": "2020-11-30",
+        "depth_pct": -0.08647605019427729,
+        "length_days": 61,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2019-04-30",
+        "trough_date": "2019-05-31",
+        "recovery_date": "2019-07-31",
+        "depth_pct": -0.0822517602671684,
+        "length_days": 31,
+        "recovery_days": 61
+      },
+      {
+        "peak_date": "2025-10-31",
+        "trough_date": "2026-03-31",
+        "recovery_date": "2026-04-30",
+        "depth_pct": -0.08014644269075233,
+        "length_days": 151,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2026-05-31",
+        "trough_date": "2026-07-31",
+        "recovery_date": "2026-09-30",
+        "depth_pct": -0.06713154774065333,
+        "length_days": 61,
+        "recovery_days": 61
+      },
+      {
+        "peak_date": "2026-09-30",
+        "trough_date": "2026-10-31",
+        "recovery_date": null,
+        "depth_pct": -0.0666153371937146,
+        "length_days": 31,
+        "recovery_days": null
+      },
+      {
+        "peak_date": "2021-08-31",
+        "trough_date": "2021-09-30",
+        "recovery_date": "2021-10-31",
+        "depth_pct": -0.056831649421870134,
+        "length_days": 30,
+        "recovery_days": 31
+      }
+    ],
+    "trailing_returns": [
+      {
+        "label": "1Y",
+        "years": 1.0,
+        "annualized_return_pct": 0.1027933562113077
+      },
+      {
+        "label": "3Y",
+        "years": 3.0,
+        "annualized_return_pct": 0.26023341035368563
+      },
+      {
+        "label": "5Y",
+        "years": 5.0,
+        "annualized_return_pct": 0.130017949232345
+      },
+      {
+        "label": "7Y",
+        "years": 7.0,
+        "annualized_return_pct": 0.2032274548692592
+      },
+      {
+        "label": "10Y",
+        "years": 10.0,
+        "annualized_return_pct": 0.20053857505023198
+      },
+      {
+        "label": "15Y",
+        "years": 15.0,
+        "annualized_return_pct": null
+      },
+      {
+        "label": "20Y",
+        "years": 20.0,
+        "annualized_return_pct": null
+      },
+      {
+        "label": "Full Period",
+        "years": 10.0,
+        "annualized_return_pct": 0.20056861687707372
+      }
+    ],
+    "scenario_id": "nasdaq100__combo",
+    "scenario_label": "Nasdaq 100 (QQQ) -- Lump sum + DCA -- $10,000 upfront + $500/month"
+  },
+  "msci_world__lump_sum": {
+    "asset": "msci_world",
+    "asset_label": "MSCI World (URTH)",
+    "start_date": "2016-11-25",
+    "end_date": "2026-11-25",
+    "start_balance": 10000.0,
+    "end_balance": 32134.17706015019,
+    "total_contributed": 10000.0,
+    "total_gain": 22134.17706015019,
+    "cagr": 0.12952970544963271,
+    "annualized_stdev": 0.14826952865307813,
+    "best_year": {
+      "year": 2019,
+      "return_pct": 0.2814591701236515,
+      "ending_balance": 14703.176778140658
+    },
+    "worst_year": {
+      "year": 2022,
+      "return_pct": -0.17968323885941717,
+      "ending_balance": 17075.532182731087
+    },
+    "max_drawdown_pct": -0.254993008740497,
+    "sharpe_ratio": 0.8736097472374587,
+    "sortino_ratio": 1.24435200997117,
+    "growth_chart": [
+      {
+        "date": "2016-11-25",
+        "balance": 10000.0,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2016-11-30",
+        "balance": 9998.617044414108,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2016-12-31",
+        "balance": 10206.260737594794,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-01-31",
+        "balance": 10489.76537260667,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-02-28",
+        "balance": 10764.896038282732,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-03-31",
+        "balance": 10875.226281776162,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-04-30",
+        "balance": 11058.1771297075,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-05-31",
+        "balance": 11288.614703155357,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-06-30",
+        "balance": 11333.935323294063,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-07-31",
+        "balance": 11609.067249066333,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-08-31",
+        "balance": 11618.942623031384,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-09-30",
+        "balance": 11864.440866331262,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-10-31",
+        "balance": 12116.996908479969,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-11-30",
+        "balance": 12354.033605757733,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2017-12-31",
+        "balance": 12548.225771941237,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-01-31",
+        "balance": 13199.067982442324,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-02-28",
+        "balance": 12623.708054862573,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-03-31",
+        "balance": 12408.658776280252,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-04-30",
+        "balance": 12501.231744041195,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-05-31",
+        "balance": 12583.831050333032,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-06-30",
+        "balance": 12603.178567477271,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-07-31",
+        "balance": 12982.167622533645,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-08-31",
+        "balance": 13130.596874810199,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-09-30",
+        "balance": 13228.58195577516,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-10-31",
+        "balance": 12284.714453379087,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-11-30",
+        "balance": 12423.051595143186,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-12-31",
+        "balance": 11473.777019927918,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-01-31",
+        "balance": 12359.731760800474,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-02-28",
+        "balance": 12727.789481271317,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-03-31",
+        "balance": 12916.911020322581,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-04-30",
+        "balance": 13396.982472817836,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-05-31",
+        "balance": 12621.58983314058,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-06-30",
+        "balance": 13421.86685269047,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-07-31",
+        "balance": 13545.734309723079,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-08-31",
+        "balance": 13247.863947916696,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-09-30",
+        "balance": 13533.93602894794,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-10-31",
+        "balance": 13878.994473470062,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-11-30",
+        "balance": 14268.292375586292,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2019-12-31",
+        "balance": 14703.176778140658,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-01-31",
+        "balance": 14546.884525539757,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-02-29",
+        "balance": 13347.172129897774,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-03-31",
+        "balance": 11599.700953968435,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-04-30",
+        "balance": 12854.48711438221,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-05-31",
+        "balance": 13500.48677516431,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-06-30",
+        "balance": 13853.926119551375,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-07-31",
+        "balance": 14532.038072042726,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-08-31",
+        "balance": 15480.792227524988,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-09-30",
+        "balance": 14963.561798016155,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-10-31",
+        "balance": 14513.994754471516,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-11-30",
+        "balance": 16379.930094902886,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2020-12-31",
+        "balance": 17024.03079070281,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-01-31",
+        "balance": 16884.698172936107,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-02-28",
+        "balance": 17305.716476841575,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-03-31",
+        "balance": 17944.819631089194,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-04-30",
+        "balance": 18720.2236116323,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-05-31",
+        "balance": 19021.59956108329,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-06-30",
+        "balance": 19320.682135439678,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-07-31",
+        "balance": 19665.66749438186,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-08-31",
+        "balance": 20152.6140317761,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-09-30",
+        "balance": 19303.888833304645,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-10-31",
+        "balance": 20430.436262947806,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-11-30",
+        "balance": 20012.1788298293,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2021-12-31",
+        "balance": 20815.77872307395,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-01-31",
+        "balance": 19738.99123250262,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-02-28",
+        "balance": 19163.68296886731,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-03-31",
+        "balance": 19714.379033410445,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-04-30",
+        "balance": 18062.284539300006,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-05-31",
+        "balance": 18142.27166615717,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-06-30",
+        "balance": 16583.134469150453,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-07-31",
+        "balance": 17931.448750249187,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-08-31",
+        "balance": 17110.668705334316,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-09-30",
+        "balance": 15507.900677200903,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-10-31",
+        "balance": 16666.92204616438,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-11-30",
+        "balance": 17911.278390282543,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2022-12-31",
+        "balance": 17075.532182731087,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-01-31",
+        "balance": 18288.4037630505,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-02-28",
+        "balance": 17814.821806015247,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-03-31",
+        "balance": 18391.56027884417,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-04-30",
+        "balance": 18722.91139683933,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-05-31",
+        "balance": 18536.916156474716,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-06-30",
+        "balance": 19650.683690398397,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-07-31",
+        "balance": 20285.086685798287,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-08-31",
+        "balance": 19836.903227887644,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-09-30",
+        "balance": 18964.205959196574,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-10-31",
+        "balance": 18481.301810430625,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-11-30",
+        "balance": 20165.150728927852,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2023-12-31",
+        "balance": 21164.759847084806,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-01-31",
+        "balance": 21352.504100983104,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-02-29",
+        "balance": 22319.892559157106,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-03-31",
+        "balance": 23056.56748281418,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-04-30",
+        "balance": 22143.27999514107,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-05-31",
+        "balance": 23183.85736114181,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-06-30",
+        "balance": 23657.960998006278,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-07-31",
+        "balance": 24055.758249030798,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-08-31",
+        "balance": 24731.05892688695,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-09-30",
+        "balance": 25168.965040142884,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-10-31",
+        "balance": 24658.875575832466,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-11-30",
+        "balance": 25847.468882554247,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2024-12-31",
+        "balance": 25114.102971533674,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-01-31",
+        "balance": 25947.47263764094,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-02-28",
+        "balance": 25840.87857939778,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-03-31",
+        "balance": 24739.41084453916,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-04-30",
+        "balance": 24917.06676821362,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-05-31",
+        "balance": 26375.461793757033,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-06-30",
+        "balance": 27566.47700538641,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-07-31",
+        "balance": 27846.404857318048,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-08-31",
+        "balance": 28624.34541152348,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-09-30",
+        "balance": 29548.762068886437,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-10-31",
+        "balance": 30113.501905643494,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-11-30",
+        "balance": 30216.035933911484,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2025-12-31",
+        "balance": 30478.571938010326,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-01-31",
+        "balance": 31111.866048749092,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-02-28",
+        "balance": 31310.386645399605,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-03-31",
+        "balance": 29535.1908327497,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-04-30",
+        "balance": 32247.20516962029,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-05-31",
+        "balance": 33622.07597825679,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-06-30",
+        "balance": 33468.697068083755,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-07-31",
+        "balance": 33589.26559324952,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-08-31",
+        "balance": 34489.40775730346,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-09-30",
+        "balance": 34061.632817542355,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-10-31",
+        "balance": 33799.023727863576,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2026-11-25",
+        "balance": 32134.17706015019,
+        "contributed": 10000.0
+      }
+    ],
+    "annual_returns": [
+      {
+        "year": 2016,
+        "return_pct": 0.020626073759479224,
+        "ending_balance": 10206.260737594794
+      },
+      {
+        "year": 2017,
+        "return_pct": 0.2294635708962256,
+        "ending_balance": 12548.225771941237
+      },
+      {
+        "year": 2018,
+        "return_pct": -0.08562555149556395,
+        "ending_balance": 11473.777019927918
+      },
+      {
+        "year": 2019,
+        "return_pct": 0.2814591701236515,
+        "ending_balance": 14703.176778140658
+      },
+      {
+        "year": 2020,
+        "return_pct": 0.1578471134219499,
+        "ending_balance": 17024.03079070281
+      },
+      {
+        "year": 2021,
+        "return_pct": 0.22272915145582894,
+        "ending_balance": 20815.77872307395
+      },
+      {
+        "year": 2022,
+        "return_pct": -0.17968323885941717,
+        "ending_balance": 17075.532182731087
+      },
+      {
+        "year": 2023,
+        "return_pct": 0.2394787828920062,
+        "ending_balance": 21164.759847084806
+      },
+      {
+        "year": 2024,
+        "return_pct": 0.18659994977419236,
+        "ending_balance": 25114.102971533674
+      },
+      {
+        "year": 2025,
+        "return_pct": 0.21360384531978527,
+        "ending_balance": 30478.571938010326
+      },
+      {
+        "year": 2026,
+        "return_pct": 0.10894381129820152,
+        "ending_balance": 32134.17706015019
+      }
+    ],
+    "drawdowns": [
+      {
+        "peak_date": "2021-12-31",
+        "trough_date": "2022-09-30",
+        "recovery_date": "2023-12-31",
+        "depth_pct": -0.254993008740497,
+        "length_days": 273,
+        "recovery_days": 457
+      },
+      {
+        "peak_date": "2019-12-31",
+        "trough_date": "2020-03-31",
+        "recovery_date": "2020-08-31",
+        "depth_pct": -0.21107518946423798,
+        "length_days": 91,
+        "recovery_days": 153
+      },
+      {
+        "peak_date": "2018-09-30",
+        "trough_date": "2018-12-31",
+        "recovery_date": "2019-04-30",
+        "depth_pct": -0.13265253537482546,
+        "length_days": 92,
+        "recovery_days": 120
+      },
+      {
+        "peak_date": "2020-08-31",
+        "trough_date": "2020-10-31",
+        "recovery_date": "2020-11-30",
+        "depth_pct": -0.062451421015424335,
+        "length_days": 61,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2018-01-31",
+        "trough_date": "2018-03-31",
+        "recovery_date": "2018-09-30",
+        "depth_pct": -0.05988371354806943,
+        "length_days": 59,
+        "recovery_days": 183
+      },
+      {
+        "peak_date": "2019-04-30",
+        "trough_date": "2019-05-31",
+        "recovery_date": "2019-06-30",
+        "depth_pct": -0.0578781558646142,
+        "length_days": 31,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2026-02-28",
+        "trough_date": "2026-03-31",
+        "recovery_date": "2026-04-30",
+        "depth_pct": -0.05669670683899808,
+        "length_days": 31,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2025-01-31",
+        "trough_date": "2025-03-31",
+        "recovery_date": "2025-05-31",
+        "depth_pct": -0.04655797541334705,
+        "length_days": 59,
+        "recovery_days": 61
+      },
+      {
+        "peak_date": "2021-08-31",
+        "trough_date": "2021-09-30",
+        "recovery_date": "2021-10-31",
+        "depth_pct": -0.04211489373702115,
+        "length_days": 30,
+        "recovery_days": 31
+      },
+      {
+        "peak_date": "2024-03-31",
+        "trough_date": "2024-04-30",
+        "recovery_date": "2024-05-31",
+        "depth_pct": -0.03961073079736821,
+        "length_days": 30,
+        "recovery_days": 31
+      }
+    ],
+    "trailing_returns": [
+      {
+        "label": "1Y",
+        "years": 1.0,
+        "annualized_return_pct": 0.12238768622022622
+      },
+      {
+        "label": "3Y",
+        "years": 3.0,
+        "annualized_return_pct": 0.22289883768359764
+      },
+      {
+        "label": "5Y",
+        "years": 5.0,
+        "annualized_return_pct": 0.10592405140741668
+      },
+      {
+        "label": "7Y",
+        "years": 7.0,
+        "annualized_return_pct": 0.13558822077172406
+      },
+      {
+        "label": "10Y",
+        "years": 10.0,
+        "annualized_return_pct": 0.12951087217063795
+      },
+      {
+        "label": "15Y",
+        "years": 15.0,
+        "annualized_return_pct": null
+      },
+      {
+        "label": "20Y",
+        "years": 20.0,
+        "annualized_return_pct": null
+      },
+      {
+        "label": "Full Period",
+        "years": 10.0,
+        "annualized_return_pct": 0.12952970544963271
+      }
+    ],
+    "scenario_id": "msci_world__lump_sum",
+    "scenario_label": "MSCI World (URTH) -- Lump sum -- $10,000 upfront, no contributions"
+  },
+  "msci_world__monthly_dca": {
+    "asset": "msci_world",
+    "asset_label": "MSCI World (URTH)",
+    "start_date": "2016-11-25",
+    "end_date": "2026-11-25",
+    "start_balance": 0.0,
+    "end_balance": 113528.55316085396,
+    "total_contributed": 60000.0,
+    "total_gain": 53528.55316085396,
+    "cagr": 0.12952970544963271,
+    "annualized_stdev": 0.14826952865307813,
+    "best_year": {
+      "year": 2019,
+      "return_pct": 0.2814591701236515,
+      "ending_balance": 22110.94666105022
+    },
+    "worst_year": {
+      "year": 2022,
+      "return_pct": -0.17968323885941717,
+      "ending_balance": 43989.45017544452
+    },
+    "max_drawdown_pct": -0.254993008740497,
+    "sharpe_ratio": 0.8736097472374587,
+    "sortino_ratio": 1.24435200997117,
+    "growth_chart": [
+      {
+        "date": "2016-11-25",
+        "balance": 0.0,
+        "contributed": 0.0
+      },
+      {
+        "date": "2016-11-30",
+        "balance": 0.0,
+        "contributed": 0.0
+      },
+      {
+        "date": "2016-12-31",
+        "balance": 496.5348079082028,
+        "contributed": 500.0
+      },
+      {
+        "date": "2017-01-31",
+        "balance": 1006.6269066979834,
+        "contributed": 1000.0
+      },
+      {
+        "date": "2017-02-28",
+        "balance": 1532.2521105293501,
+        "contributed": 1500.0
+      },
+      {
+        "date": "2017-03-31",
+        "balance": 2050.343389952709,
+        "contributed": 2000.0
+      },
+      {
+        "date": "2017-04-30",
+        "balance": 2583.6387551631788,
+        "contributed": 2500.0
+      },
+      {
+        "date": "2017-05-31",
+        "balance": 3137.169197307604,
+        "contributed": 3000.0
+      },
+      {
+        "date": "2017-06-30",
+        "balance": 3648.2746438264244,
+        "contributed": 3500.0
+      },
+      {
+        "date": "2017-07-31",
+        "balance": 4237.323361059689,
+        "contributed": 4000.0
+      },
+      {
+        "date": "2017-08-31",
+        "balance": 4745.585222033594,
+        "contributed": 4500.0
+      },
+      {
+        "date": "2017-09-30",
+        "balance": 5349.2073911631505,
+        "contributed": 5000.0
+      },
+      {
+        "date": "2017-10-31",
+        "balance": 5966.9472159769075,
+        "contributed": 5500.0
+      },
+      {
+        "date": "2017-11-30",
+        "balance": 6587.588094994879,
+        "contributed": 6000.0
+      },
+      {
+        "date": "2017-12-31",
+        "balance": 7191.1946123830185,
+        "contributed": 6500.0
+      },
+      {
+        "date": "2018-01-31",
+        "balance": 8060.966294877876,
+        "contributed": 7000.0
+      },
+      {
+        "date": "2018-02-28",
+        "balance": 8202.354133925122,
+        "contributed": 7500.0
+      },
+      {
+        "date": "2018-03-31",
+        "balance": 8573.710409526031,
+        "contributed": 8000.0
+      },
+      {
+        "date": "2018-04-30",
+        "balance": 9140.134754599996,
+        "contributed": 8500.0
+      },
+      {
+        "date": "2018-05-31",
+        "balance": 9696.206775177854,
+        "contributed": 9000.0
+      },
+      {
+        "date": "2018-06-30",
+        "balance": 10211.801469881773,
+        "contributed": 9500.0
+      },
+      {
+        "date": "2018-07-31",
+        "balance": 11015.681163924106,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2018-08-31",
+        "balance": 11643.887053518352,
+        "contributed": 10500.0
+      },
+      {
+        "date": "2018-09-30",
+        "balance": 12229.47395761969,
+        "contributed": 11000.0
+      },
+      {
+        "date": "2018-10-31",
+        "balance": 11860.615921149785,
+        "contributed": 11500.0
+      },
+      {
+        "date": "2018-11-30",
+        "balance": 12511.76857019587,
+        "contributed": 12000.0
+      },
+      {
+        "date": "2018-12-31",
+        "balance": 12081.637838412245,
+        "contributed": 12500.0
+      },
+      {
+        "date": "2019-01-31",
+        "balance": 13521.208311060787,
+        "contributed": 13000.0
+      },
+      {
+        "date": "2019-02-28",
+        "balance": 14421.974553250184,
+        "contributed": 13500.0
+      },
+      {
+        "date": "2019-03-31",
+        "balance": 15141.677519369743,
+        "contributed": 14000.0
+      },
+      {
+        "date": "2019-04-30",
+        "balance": 16208.706055710463,
+        "contributed": 14500.0
+      },
+      {
+        "date": "2019-05-31",
+        "balance": 15759.254592195593,
+        "contributed": 15000.0
+      },
+      {
+        "date": "2019-06-30",
+        "balance": 17262.574913995006,
+        "contributed": 15500.0
+      },
+      {
+        "date": "2019-07-31",
+        "balance": 17919.234535846404,
+        "contributed": 16000.0
+      },
+      {
+        "date": "2019-08-31",
+        "balance": 18038.445170859497,
+        "contributed": 16500.0
+      },
+      {
+        "date": "2019-09-30",
+        "balance": 18927.14837209132,
+        "contributed": 17000.0
+      },
+      {
+        "date": "2019-10-31",
+        "balance": 19911.844957124766,
+        "contributed": 17500.0
+      },
+      {
+        "date": "2019-11-30",
+        "balance": 20970.515968558513,
+        "contributed": 18000.0
+      },
+      {
+        "date": "2019-12-31",
+        "balance": 22110.94666105022,
+        "contributed": 18500.0
+      },
+      {
+        "date": "2020-01-31",
+        "balance": 22364.267988735694,
+        "contributed": 19000.0
+      },
+      {
+        "date": "2020-02-29",
+        "balance": 20992.88212004307,
+        "contributed": 19500.0
+      },
+      {
+        "date": "2020-03-31",
+        "balance": 18765.04470121133,
+        "contributed": 20000.0
+      },
+      {
+        "date": "2020-04-30",
+        "balance": 21309.902108964394,
+        "contributed": 20500.0
+      },
+      {
+        "date": "2020-05-31",
+        "balance": 22899.349699604663,
+        "contributed": 21000.0
+      },
+      {
+        "date": "2020-06-30",
+        "balance": 23998.84890874484,
+        "contributed": 21500.0
+      },
+      {
+        "date": "2020-07-31",
+        "balance": 25677.12243857805,
+        "contributed": 22000.0
+      },
+      {
+        "date": "2020-08-31",
+        "balance": 27858.658109907028,
+        "contributed": 22500.0
+      },
+      {
+        "date": "2020-09-30",
+        "balance": 27435.83182890994,
+        "contributed": 23000.0
+      },
+      {
+        "date": "2020-10-31",
+        "balance": 27083.16065666509,
+        "contributed": 23500.0
+      },
+      {
+        "date": "2020-11-30",
+        "balance": 31064.406020589107,
+        "contributed": 24000.0
+      },
+      {
+        "date": "2020-12-31",
+        "balance": 32790.28996397368,
+        "contributed": 24500.0
+      },
+      {
+        "date": "2021-01-31",
+        "balance": 33004.058650567036,
+        "contributed": 25000.0
+      },
+      {
+        "date": "2021-02-28",
+        "balance": 34322.20138760533,
+        "contributed": 25500.0
+      },
+      {
+        "date": "2021-03-31",
+        "balance": 36095.964022870394,
+        "contributed": 26000.0
+      },
+      {
+        "date": "2021-04-30",
+        "balance": 38153.231999151765,
+        "contributed": 26500.0
+      },
+      {
+        "date": "2021-05-31",
+        "balance": 39269.61793467769,
+        "contributed": 27000.0
+      },
+      {
+        "date": "2021-06-30",
+        "balance": 40386.356431444394,
+        "contributed": 27500.0
+      },
+      {
+        "date": "2021-07-31",
+        "balance": 41606.09201849588,
+        "contributed": 28000.0
+      },
+      {
+        "date": "2021-08-31",
+        "balance": 43138.67013677374,
+        "contributed": 28500.0
+      },
+      {
+        "date": "2021-09-30",
+        "balance": 41806.11377297378,
+        "contributed": 29000.0
+      },
+      {
+        "date": "2021-10-31",
+        "balance": 44748.60108253436,
+        "contributed": 29500.0
+      },
+      {
+        "date": "2021-11-30",
+        "balance": 44317.943339632126,
+        "contributed": 30000.0
+      },
+      {
+        "date": "2021-12-31",
+        "balance": 46600.962859876396,
+        "contributed": 30500.0
+      },
+      {
+        "date": "2022-01-31",
+        "balance": 44704.2202746261,
+        "contributed": 31000.0
+      },
+      {
+        "date": "2022-02-28",
+        "balance": 43898.487254074695,
+        "contributed": 31500.0
+      },
+      {
+        "date": "2022-03-31",
+        "balance": 45658.88358516259,
+        "contributed": 32000.0
+      },
+      {
+        "date": "2022-04-30",
+        "balance": 42316.72707350128,
+        "contributed": 32500.0
+      },
+      {
+        "date": "2022-05-31",
+        "balance": 43020.181086791265,
+        "contributed": 33000.0
+      },
+      {
+        "date": "2022-06-30",
+        "balance": 39808.60284880767,
+        "contributed": 33500.0
+      },
+      {
+        "date": "2022-07-31",
+        "balance": 43564.38451777129,
+        "contributed": 34000.0
+      },
+      {
+        "date": "2022-08-31",
+        "balance": 42043.40427927419,
+        "contributed": 34500.0
+      },
+      {
+        "date": "2022-09-30",
+        "balance": 38593.25457236177,
+        "contributed": 35000.0
+      },
+      {
+        "date": "2022-10-31",
+        "balance": 41979.29838078185,
+        "contributed": 35500.0
+      },
+      {
+        "date": "2022-11-30",
+        "balance": 45618.911834705825,
+        "contributed": 36000.0
+      },
+      {
+        "date": "2022-12-31",
+        "balance": 43989.45017544452,
+        "contributed": 36500.0
+      },
+      {
+        "date": "2023-01-31",
+        "balance": 47619.149116636094,
+        "contributed": 37000.0
+      },
+      {
+        "date": "2023-02-28",
+        "balance": 46887.49329781787,
+        "contributed": 37500.0
+      },
+      {
+        "date": "2023-03-31",
+        "balance": 48924.16845930084,
+        "contributed": 38000.0
+      },
+      {
+        "date": "2023-04-30",
+        "balance": 50315.39764521591,
+        "contributed": 38500.0
+      },
+      {
+        "date": "2023-05-31",
+        "balance": 50316.36177603076,
+        "contributed": 39000.0
+      },
+      {
+        "date": "2023-06-30",
+        "balance": 53850.76553541854,
+        "contributed": 39500.0
+      },
+      {
+        "date": "2023-07-31",
+        "balance": 56091.707883226474,
+        "contributed": 40000.0
+      },
+      {
+        "date": "2023-08-31",
+        "balance": 55364.62952165925,
+        "contributed": 40500.0
+      },
+      {
+        "date": "2023-09-30",
+        "balance": 53423.91374589498,
+        "contributed": 41000.0
+      },
+      {
+        "date": "2023-10-31",
+        "balance": 52564.98417027641,
+        "contributed": 41500.0
+      },
+      {
+        "date": "2023-11-30",
+        "balance": 57855.24913658232,
+        "contributed": 42000.0
+      },
+      {
+        "date": "2023-12-31",
+        "balance": 61225.42637889585,
+        "contributed": 42500.0
+      },
+      {
+        "date": "2024-01-31",
+        "balance": 62265.75425494892,
+        "contributed": 43000.0
+      },
+      {
+        "date": "2024-02-29",
+        "balance": 65586.56474973004,
+        "contributed": 43500.0
+      },
+      {
+        "date": "2024-03-31",
+        "balance": 68254.42929197745,
+        "contributed": 44000.0
+      },
+      {
+        "date": "2024-04-30",
+        "balance": 66049.81755140024,
+        "contributed": 44500.0
+      },
+      {
+        "date": "2024-05-31",
+        "balance": 69651.64086347369,
+        "contributed": 45000.0
+      },
+      {
+        "date": "2024-06-30",
+        "balance": 71575.01700581615,
+        "contributed": 45500.0
+      },
+      {
+        "date": "2024-07-31",
+        "balance": 73290.35950758473,
+        "contributed": 46000.0
+      },
+      {
+        "date": "2024-08-31",
+        "balance": 75849.02444146496,
+        "contributed": 46500.0
+      },
+      {
+        "date": "2024-09-30",
+        "balance": 77696.01291809618,
+        "contributed": 47000.0
+      },
+      {
+        "date": "2024-10-31",
+        "balance": 76613.62952169967,
+        "contributed": 47500.0
+      },
+      {
+        "date": "2024-11-30",
+        "balance": 80810.8357283905,
+        "contributed": 48000.0
+      },
+      {
+        "date": "2024-12-31",
+        "balance": 79007.70546895986,
+        "contributed": 48500.0
+      },
+      {
+        "date": "2025-01-31",
+        "balance": 82126.10582265256,
+        "contributed": 49000.0
+      },
+      {
+        "date": "2025-02-28",
+        "balance": 82287.44796344514,
+        "contributed": 49500.0
+      },
+      {
+        "date": "2025-03-31",
+        "balance": 79265.36733042305,
+        "contributed": 50000.0
+      },
+      {
+        "date": "2025-04-30",
+        "balance": 80338.59732073615,
+        "contributed": 50500.0
+      },
+      {
+        "date": "2025-05-31",
+        "balance": 85548.11245650263,
+        "contributed": 51000.0
+      },
+      {
+        "date": "2025-06-30",
+        "balance": 89920.95102837202,
+        "contributed": 51500.0
+      },
+      {
+        "date": "2025-07-31",
+        "balance": 91326.44067499138,
+        "contributed": 52000.0
+      },
+      {
+        "date": "2025-08-31",
+        "balance": 94378.92398024995,
+        "contributed": 52500.0
+      },
+      {
+        "date": "2025-09-30",
+        "balance": 97933.05902825962,
+        "contributed": 53000.0
+      },
+      {
+        "date": "2025-10-31",
+        "balance": 100306.7762784225,
+        "contributed": 53500.0
+      },
+      {
+        "date": "2025-11-30",
+        "balance": 101154.97138266044,
+        "contributed": 54000.0
+      },
+      {
+        "date": "2025-12-31",
+        "balance": 102528.67576681392,
+        "contributed": 54500.0
+      },
+      {
+        "date": "2026-01-31",
+        "balance": 105161.0899120422,
+        "contributed": 55000.0
+      },
+      {
+        "date": "2026-02-28",
+        "balance": 106328.13188854592,
+        "contributed": 55500.0
+      },
+      {
+        "date": "2026-03-31",
+        "balance": 100796.44830102957,
+        "contributed": 56000.0
+      },
+      {
+        "date": "2026-04-30",
+        "balance": 110555.1734813942,
+        "contributed": 56500.0
+      },
+      {
+        "date": "2026-05-31",
+        "balance": 115774.63180452178,
+        "contributed": 57000.0
+      },
+      {
+        "date": "2026-06-30",
+        "balance": 115754.89000556796,
+        "contributed": 57500.0
+      },
+      {
+        "date": "2026-07-31",
+        "balance": 116678.0862079416,
+        "contributed": 58000.0
+      },
+      {
+        "date": "2026-08-31",
+        "balance": 120303.6665411822,
+        "contributed": 58500.0
+      },
+      {
+        "date": "2026-09-30",
+        "balance": 119305.54174693162,
+        "contributed": 59000.0
+      },
+      {
+        "date": "2026-10-31",
+        "balance": 118884.47440427271,
+        "contributed": 59500.0
+      },
+      {
+        "date": "2026-11-25",
+        "balance": 113528.55316085396,
+        "contributed": 60000.0
+      }
+    ],
+    "annual_returns": [
+      {
+        "year": 2016,
+        "return_pct": 0.020626073759479224,
+        "ending_balance": 496.5348079082028
+      },
+      {
+        "year": 2017,
+        "return_pct": 0.2294635708962256,
+        "ending_balance": 7191.1946123830185
+      },
+      {
+        "year": 2018,
+        "return_pct": -0.08562555149556395,
+        "ending_balance": 12081.637838412245
+      },
+      {
+        "year": 2019,
+        "return_pct": 0.2814591701236515,
+        "ending_balance": 22110.94666105022
+      },
+      {
+        "year": 2020,
+        "return_pct": 0.1578471134219499,
+        "ending_balance": 32790.28996397368
+      },
+      {
+        "year": 2021,
+        "return_pct": 0.22272915145582894,
+        "ending_balance": 46600.962859876396
+      },
+      {
+        "year": 2022,
+        "return_pct": -0.17968323885941717,
+        "ending_balance": 43989.45017544452
+      },
+      {
+        "year": 2023,
+        "return_pct": 0.2394787828920062,
+        "ending_balance": 61225.42637889585
+      },
+      {
+        "year": 2024,
+        "return_pct": 0.18659994977419236,
+        "ending_balance": 79007.70546895986
+      },
+      {
+        "year": 2025,
+        "return_pct": 0.21360384531978527,
+        "ending_balance": 102528.67576681392
+      },
+      {
+        "year": 2026,
+        "return_pct": 0.10894381129820152,
+        "ending_balance": 113528.55316085396
+      }
+    ],
+    "drawdowns": [
+      {
+        "peak_date": "2021-12-31",
+        "trough_date": "2022-09-30",
+        "recovery_date": "2023-12-31",
+        "depth_pct": -0.254993008740497,
+        "length_days": 273,
+        "recovery_days": 457
+      },
+      {
+        "peak_date": "2019-12-31",
+        "trough_date": "2020-03-31",
+        "recovery_date": "2020-08-31",
+        "depth_pct": -0.21107518946423798,
+        "length_days": 91,
+        "recovery_days": 153
+      },
+      {
+        "peak_date": "2018-09-30",
+        "trough_date": "2018-12-31",
+        "recovery_date": "2019-04-30",
+        "depth_pct": -0.13265253537482546,
+        "length_days": 92,
+        "recovery_days": 120
+      },
+      {
+        "peak_date": "2020-08-31",
+        "trough_date": "2020-10-31",
+        "recovery_date": "2020-11-30",
+        "depth_pct": -0.062451421015424335,
+        "length_days": 61,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2018-01-31",
+        "trough_date": "2018-03-31",
+        "recovery_date": "2018-09-30",
+        "depth_pct": -0.05988371354806943,
+        "length_days": 59,
+        "recovery_days": 183
+      },
+      {
+        "peak_date": "2019-04-30",
+        "trough_date": "2019-05-31",
+        "recovery_date": "2019-06-30",
+        "depth_pct": -0.0578781558646142,
+        "length_days": 31,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2026-02-28",
+        "trough_date": "2026-03-31",
+        "recovery_date": "2026-04-30",
+        "depth_pct": -0.05669670683899808,
+        "length_days": 31,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2025-01-31",
+        "trough_date": "2025-03-31",
+        "recovery_date": "2025-05-31",
+        "depth_pct": -0.04655797541334705,
+        "length_days": 59,
+        "recovery_days": 61
+      },
+      {
+        "peak_date": "2021-08-31",
+        "trough_date": "2021-09-30",
+        "recovery_date": "2021-10-31",
+        "depth_pct": -0.04211489373702115,
+        "length_days": 30,
+        "recovery_days": 31
+      },
+      {
+        "peak_date": "2024-03-31",
+        "trough_date": "2024-04-30",
+        "recovery_date": "2024-05-31",
+        "depth_pct": -0.03961073079736821,
+        "length_days": 30,
+        "recovery_days": 31
+      }
+    ],
+    "trailing_returns": [
+      {
+        "label": "1Y",
+        "years": 1.0,
+        "annualized_return_pct": 0.12238768622022622
+      },
+      {
+        "label": "3Y",
+        "years": 3.0,
+        "annualized_return_pct": 0.22289883768359764
+      },
+      {
+        "label": "5Y",
+        "years": 5.0,
+        "annualized_return_pct": 0.10592405140741668
+      },
+      {
+        "label": "7Y",
+        "years": 7.0,
+        "annualized_return_pct": 0.13558822077172406
+      },
+      {
+        "label": "10Y",
+        "years": 10.0,
+        "annualized_return_pct": 0.12951087217063795
+      },
+      {
+        "label": "15Y",
+        "years": 15.0,
+        "annualized_return_pct": null
+      },
+      {
+        "label": "20Y",
+        "years": 20.0,
+        "annualized_return_pct": null
+      },
+      {
+        "label": "Full Period",
+        "years": 10.0,
+        "annualized_return_pct": 0.12952970544963271
+      }
+    ],
+    "scenario_id": "msci_world__monthly_dca",
+    "scenario_label": "MSCI World (URTH) -- Monthly DCA -- $500/month, no upfront"
+  },
+  "msci_world__combo": {
+    "asset": "msci_world",
+    "asset_label": "MSCI World (URTH)",
+    "start_date": "2016-11-25",
+    "end_date": "2026-11-25",
+    "start_balance": 10000.0,
+    "end_balance": 145662.73022100414,
+    "total_contributed": 70000.0,
+    "total_gain": 75662.73022100414,
+    "cagr": 0.12952970544963271,
+    "annualized_stdev": 0.14826952865307813,
+    "best_year": {
+      "year": 2019,
+      "return_pct": 0.2814591701236515,
+      "ending_balance": 36814.12343919089
+    },
+    "worst_year": {
+      "year": 2022,
+      "return_pct": -0.17968323885941717,
+      "ending_balance": 61064.98235817561
+    },
+    "max_drawdown_pct": -0.254993008740497,
+    "sharpe_ratio": 0.8736097472374587,
+    "sortino_ratio": 1.24435200997117,
+    "growth_chart": [
+      {
+        "date": "2016-11-25",
+        "balance": 10000.0,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2016-11-30",
+        "balance": 9998.617044414108,
+        "contributed": 10000.0
+      },
+      {
+        "date": "2016-12-31",
+        "balance": 10702.795545502999,
+        "contributed": 10500.0
+      },
+      {
+        "date": "2017-01-31",
+        "balance": 11496.392279304651,
+        "contributed": 11000.0
+      },
+      {
+        "date": "2017-02-28",
+        "balance": 12297.148148812083,
+        "contributed": 11500.0
+      },
+      {
+        "date": "2017-03-31",
+        "balance": 12925.569671728872,
+        "contributed": 12000.0
+      },
+      {
+        "date": "2017-04-30",
+        "balance": 13641.815884870679,
+        "contributed": 12500.0
+      },
+      {
+        "date": "2017-05-31",
+        "balance": 14425.78390046296,
+        "contributed": 13000.0
+      },
+      {
+        "date": "2017-06-30",
+        "balance": 14982.209967120487,
+        "contributed": 13500.0
+      },
+      {
+        "date": "2017-07-31",
+        "balance": 15846.39061012602,
+        "contributed": 14000.0
+      },
+      {
+        "date": "2017-08-31",
+        "balance": 16364.527845064977,
+        "contributed": 14500.0
+      },
+      {
+        "date": "2017-09-30",
+        "balance": 17213.648257494413,
+        "contributed": 15000.0
+      },
+      {
+        "date": "2017-10-31",
+        "balance": 18083.944124456877,
+        "contributed": 15500.0
+      },
+      {
+        "date": "2017-11-30",
+        "balance": 18941.621700752614,
+        "contributed": 16000.0
+      },
+      {
+        "date": "2017-12-31",
+        "balance": 19739.420384324258,
+        "contributed": 16500.0
+      },
+      {
+        "date": "2018-01-31",
+        "balance": 21260.034277320206,
+        "contributed": 17000.0
+      },
+      {
+        "date": "2018-02-28",
+        "balance": 20826.062188787702,
+        "contributed": 17500.0
+      },
+      {
+        "date": "2018-03-31",
+        "balance": 20982.36918580629,
+        "contributed": 18000.0
+      },
+      {
+        "date": "2018-04-30",
+        "balance": 21641.366498641197,
+        "contributed": 18500.0
+      },
+      {
+        "date": "2018-05-31",
+        "balance": 22280.037825510888,
+        "contributed": 19000.0
+      },
+      {
+        "date": "2018-06-30",
+        "balance": 22814.980037359048,
+        "contributed": 19500.0
+      },
+      {
+        "date": "2018-07-31",
+        "balance": 23997.848786457755,
+        "contributed": 20000.0
+      },
+      {
+        "date": "2018-08-31",
+        "balance": 24774.483928328555,
+        "contributed": 20500.0
+      },
+      {
+        "date": "2018-09-30",
+        "balance": 25458.05591339485,
+        "contributed": 21000.0
+      },
+      {
+        "date": "2018-10-31",
+        "balance": 24145.330374528876,
+        "contributed": 21500.0
+      },
+      {
+        "date": "2018-11-30",
+        "balance": 24934.82016533906,
+        "contributed": 22000.0
+      },
+      {
+        "date": "2018-12-31",
+        "balance": 23555.414858340166,
+        "contributed": 22500.0
+      },
+      {
+        "date": "2019-01-31",
+        "balance": 25880.940071861263,
+        "contributed": 23000.0
+      },
+      {
+        "date": "2019-02-28",
+        "balance": 27149.764034521504,
+        "contributed": 23500.0
+      },
+      {
+        "date": "2019-03-31",
+        "balance": 28058.588539692326,
+        "contributed": 24000.0
+      },
+      {
+        "date": "2019-04-30",
+        "balance": 29605.688528528302,
+        "contributed": 24500.0
+      },
+      {
+        "date": "2019-05-31",
+        "balance": 28380.84442533618,
+        "contributed": 25000.0
+      },
+      {
+        "date": "2019-06-30",
+        "balance": 30684.441766685482,
+        "contributed": 25500.0
+      },
+      {
+        "date": "2019-07-31",
+        "balance": 31464.96884556949,
+        "contributed": 26000.0
+      },
+      {
+        "date": "2019-08-31",
+        "balance": 31286.3091187762,
+        "contributed": 26500.0
+      },
+      {
+        "date": "2019-09-30",
+        "balance": 32461.08440103927,
+        "contributed": 27000.0
+      },
+      {
+        "date": "2019-10-31",
+        "balance": 33790.83943059484,
+        "contributed": 27500.0
+      },
+      {
+        "date": "2019-11-30",
+        "balance": 35238.80834414481,
+        "contributed": 28000.0
+      },
+      {
+        "date": "2019-12-31",
+        "balance": 36814.12343919089,
+        "contributed": 28500.0
+      },
+      {
+        "date": "2020-01-31",
+        "balance": 36911.15251427546,
+        "contributed": 29000.0
+      },
+      {
+        "date": "2020-02-29",
+        "balance": 34340.05424994085,
+        "contributed": 29500.0
+      },
+      {
+        "date": "2020-03-31",
+        "balance": 30364.74565517977,
+        "contributed": 30000.0
+      },
+      {
+        "date": "2020-04-30",
+        "balance": 34164.38922334661,
+        "contributed": 30500.0
+      },
+      {
+        "date": "2020-05-31",
+        "balance": 36399.836474768985,
+        "contributed": 31000.0
+      },
+      {
+        "date": "2020-06-30",
+        "balance": 37852.77502829622,
+        "contributed": 31500.0
+      },
+      {
+        "date": "2020-07-31",
+        "balance": 40209.160510620786,
+        "contributed": 32000.0
+      },
+      {
+        "date": "2020-08-31",
+        "balance": 43339.45033743203,
+        "contributed": 32500.0
+      },
+      {
+        "date": "2020-09-30",
+        "balance": 42399.3936269261,
+        "contributed": 33000.0
+      },
+      {
+        "date": "2020-10-31",
+        "balance": 41597.15541113661,
+        "contributed": 33500.0
+      },
+      {
+        "date": "2020-11-30",
+        "balance": 47444.336115492006,
+        "contributed": 34000.0
+      },
+      {
+        "date": "2020-12-31",
+        "balance": 49814.3207546765,
+        "contributed": 34500.0
+      },
+      {
+        "date": "2021-01-31",
+        "balance": 49888.75682350315,
+        "contributed": 35000.0
+      },
+      {
+        "date": "2021-02-28",
+        "balance": 51627.91786444692,
+        "contributed": 35500.0
+      },
+      {
+        "date": "2021-03-31",
+        "balance": 54040.783653959596,
+        "contributed": 36000.0
+      },
+      {
+        "date": "2021-04-30",
+        "balance": 56873.455610784076,
+        "contributed": 36500.0
+      },
+      {
+        "date": "2021-05-31",
+        "balance": 58291.21749576099,
+        "contributed": 37000.0
+      },
+      {
+        "date": "2021-06-30",
+        "balance": 59707.03856688408,
+        "contributed": 37500.0
+      },
+      {
+        "date": "2021-07-31",
+        "balance": 61271.759512877754,
+        "contributed": 38000.0
+      },
+      {
+        "date": "2021-08-31",
+        "balance": 63291.28416854986,
+        "contributed": 38500.0
+      },
+      {
+        "date": "2021-09-30",
+        "balance": 61110.002606278445,
+        "contributed": 39000.0
+      },
+      {
+        "date": "2021-10-31",
+        "balance": 65179.0373454822,
+        "contributed": 39500.0
+      },
+      {
+        "date": "2021-11-30",
+        "balance": 64330.12216946144,
+        "contributed": 40000.0
+      },
+      {
+        "date": "2021-12-31",
+        "balance": 67416.74158295036,
+        "contributed": 40500.0
+      },
+      {
+        "date": "2022-01-31",
+        "balance": 64443.21150712874,
+        "contributed": 41000.0
+      },
+      {
+        "date": "2022-02-28",
+        "balance": 63062.17022294202,
+        "contributed": 41500.0
+      },
+      {
+        "date": "2022-03-31",
+        "balance": 65373.26261857304,
+        "contributed": 42000.0
+      },
+      {
+        "date": "2022-04-30",
+        "balance": 60379.01161280129,
+        "contributed": 42500.0
+      },
+      {
+        "date": "2022-05-31",
+        "balance": 61162.45275294844,
+        "contributed": 43000.0
+      },
+      {
+        "date": "2022-06-30",
+        "balance": 56391.73731795812,
+        "contributed": 43500.0
+      },
+      {
+        "date": "2022-07-31",
+        "balance": 61495.83326802047,
+        "contributed": 44000.0
+      },
+      {
+        "date": "2022-08-31",
+        "balance": 59154.07298460851,
+        "contributed": 44500.0
+      },
+      {
+        "date": "2022-09-30",
+        "balance": 54101.155249562675,
+        "contributed": 45000.0
+      },
+      {
+        "date": "2022-10-31",
+        "balance": 58646.22042694624,
+        "contributed": 45500.0
+      },
+      {
+        "date": "2022-11-30",
+        "balance": 63530.19022498837,
+        "contributed": 46000.0
+      },
+      {
+        "date": "2022-12-31",
+        "balance": 61064.98235817561,
+        "contributed": 46500.0
+      },
+      {
+        "date": "2023-01-31",
+        "balance": 65907.5528796866,
+        "contributed": 47000.0
+      },
+      {
+        "date": "2023-02-28",
+        "balance": 64702.31510383312,
+        "contributed": 47500.0
+      },
+      {
+        "date": "2023-03-31",
+        "balance": 67315.72873814502,
+        "contributed": 48000.0
+      },
+      {
+        "date": "2023-04-30",
+        "balance": 69038.30904205523,
+        "contributed": 48500.0
+      },
+      {
+        "date": "2023-05-31",
+        "balance": 68853.27793250547,
+        "contributed": 49000.0
+      },
+      {
+        "date": "2023-06-30",
+        "balance": 73501.44922581693,
+        "contributed": 49500.0
+      },
+      {
+        "date": "2023-07-31",
+        "balance": 76376.79456902476,
+        "contributed": 50000.0
+      },
+      {
+        "date": "2023-08-31",
+        "balance": 75201.53274954688,
+        "contributed": 50500.0
+      },
+      {
+        "date": "2023-09-30",
+        "balance": 72388.11970509154,
+        "contributed": 51000.0
+      },
+      {
+        "date": "2023-10-31",
+        "balance": 71046.28598070702,
+        "contributed": 51500.0
+      },
+      {
+        "date": "2023-11-30",
+        "balance": 78020.39986551016,
+        "contributed": 52000.0
+      },
+      {
+        "date": "2023-12-31",
+        "balance": 82390.18622598064,
+        "contributed": 52500.0
+      },
+      {
+        "date": "2024-01-31",
+        "balance": 83618.25835593202,
+        "contributed": 53000.0
+      },
+      {
+        "date": "2024-02-29",
+        "balance": 87906.45730888713,
+        "contributed": 53500.0
+      },
+      {
+        "date": "2024-03-31",
+        "balance": 91310.99677479161,
+        "contributed": 54000.0
+      },
+      {
+        "date": "2024-04-30",
+        "balance": 88193.09754654129,
+        "contributed": 54500.0
+      },
+      {
+        "date": "2024-05-31",
+        "balance": 92835.4982246155,
+        "contributed": 55000.0
+      },
+      {
+        "date": "2024-06-30",
+        "balance": 95232.97800382241,
+        "contributed": 55500.0
+      },
+      {
+        "date": "2024-07-31",
+        "balance": 97346.11775661551,
+        "contributed": 56000.0
+      },
+      {
+        "date": "2024-08-31",
+        "balance": 100580.08336835192,
+        "contributed": 56500.0
+      },
+      {
+        "date": "2024-09-30",
+        "balance": 102864.97795823906,
+        "contributed": 57000.0
+      },
+      {
+        "date": "2024-10-31",
+        "balance": 101272.50509753212,
+        "contributed": 57500.0
+      },
+      {
+        "date": "2024-11-30",
+        "balance": 106658.30461094475,
+        "contributed": 58000.0
+      },
+      {
+        "date": "2024-12-31",
+        "balance": 104121.80844049352,
+        "contributed": 58500.0
+      },
+      {
+        "date": "2025-01-31",
+        "balance": 108073.5784602935,
+        "contributed": 59000.0
+      },
+      {
+        "date": "2025-02-28",
+        "balance": 108128.32654284291,
+        "contributed": 59500.0
+      },
+      {
+        "date": "2025-03-31",
+        "balance": 104004.77817496221,
+        "contributed": 60000.0
+      },
+      {
+        "date": "2025-04-30",
+        "balance": 105255.66408894976,
+        "contributed": 60500.0
+      },
+      {
+        "date": "2025-05-31",
+        "balance": 111923.57425025964,
+        "contributed": 61000.0
+      },
+      {
+        "date": "2025-06-30",
+        "balance": 117487.42803375842,
+        "contributed": 61500.0
+      },
+      {
+        "date": "2025-07-31",
+        "balance": 119172.84553230942,
+        "contributed": 62000.0
+      },
+      {
+        "date": "2025-08-31",
+        "balance": 123003.26939177343,
+        "contributed": 62500.0
+      },
+      {
+        "date": "2025-09-30",
+        "balance": 127481.82109714606,
+        "contributed": 63000.0
+      },
+      {
+        "date": "2025-10-31",
+        "balance": 130420.27818406599,
+        "contributed": 63500.0
+      },
+      {
+        "date": "2025-11-30",
+        "balance": 131371.00731657192,
+        "contributed": 64000.0
+      },
+      {
+        "date": "2025-12-31",
+        "balance": 133007.24770482423,
+        "contributed": 64500.0
+      },
+      {
+        "date": "2026-01-31",
+        "balance": 136272.95596079127,
+        "contributed": 65000.0
+      },
+      {
+        "date": "2026-02-28",
+        "balance": 137638.51853394552,
+        "contributed": 65500.0
+      },
+      {
+        "date": "2026-03-31",
+        "balance": 130331.63913377926,
+        "contributed": 66000.0
+      },
+      {
+        "date": "2026-04-30",
+        "balance": 142802.37865101447,
+        "contributed": 66500.0
+      },
+      {
+        "date": "2026-05-31",
+        "balance": 149396.70778277857,
+        "contributed": 67000.0
+      },
+      {
+        "date": "2026-06-30",
+        "balance": 149223.58707365172,
+        "contributed": 67500.0
+      },
+      {
+        "date": "2026-07-31",
+        "balance": 150267.3518011911,
+        "contributed": 68000.0
+      },
+      {
+        "date": "2026-08-31",
+        "balance": 154793.07429848565,
+        "contributed": 68500.0
+      },
+      {
+        "date": "2026-09-30",
+        "balance": 153367.17456447397,
+        "contributed": 69000.0
+      },
+      {
+        "date": "2026-10-31",
+        "balance": 152683.4981321363,
+        "contributed": 69500.0
+      },
+      {
+        "date": "2026-11-25",
+        "balance": 145662.73022100414,
+        "contributed": 70000.0
+      }
+    ],
+    "annual_returns": [
+      {
+        "year": 2016,
+        "return_pct": 0.020626073759479224,
+        "ending_balance": 10702.795545502999
+      },
+      {
+        "year": 2017,
+        "return_pct": 0.2294635708962256,
+        "ending_balance": 19739.420384324258
+      },
+      {
+        "year": 2018,
+        "return_pct": -0.08562555149556395,
+        "ending_balance": 23555.414858340166
+      },
+      {
+        "year": 2019,
+        "return_pct": 0.2814591701236515,
+        "ending_balance": 36814.12343919089
+      },
+      {
+        "year": 2020,
+        "return_pct": 0.1578471134219499,
+        "ending_balance": 49814.3207546765
+      },
+      {
+        "year": 2021,
+        "return_pct": 0.22272915145582894,
+        "ending_balance": 67416.74158295036
+      },
+      {
+        "year": 2022,
+        "return_pct": -0.17968323885941717,
+        "ending_balance": 61064.98235817561
+      },
+      {
+        "year": 2023,
+        "return_pct": 0.2394787828920062,
+        "ending_balance": 82390.18622598064
+      },
+      {
+        "year": 2024,
+        "return_pct": 0.18659994977419236,
+        "ending_balance": 104121.80844049352
+      },
+      {
+        "year": 2025,
+        "return_pct": 0.21360384531978527,
+        "ending_balance": 133007.24770482423
+      },
+      {
+        "year": 2026,
+        "return_pct": 0.10894381129820152,
+        "ending_balance": 145662.73022100414
+      }
+    ],
+    "drawdowns": [
+      {
+        "peak_date": "2021-12-31",
+        "trough_date": "2022-09-30",
+        "recovery_date": "2023-12-31",
+        "depth_pct": -0.254993008740497,
+        "length_days": 273,
+        "recovery_days": 457
+      },
+      {
+        "peak_date": "2019-12-31",
+        "trough_date": "2020-03-31",
+        "recovery_date": "2020-08-31",
+        "depth_pct": -0.21107518946423798,
+        "length_days": 91,
+        "recovery_days": 153
+      },
+      {
+        "peak_date": "2018-09-30",
+        "trough_date": "2018-12-31",
+        "recovery_date": "2019-04-30",
+        "depth_pct": -0.13265253537482546,
+        "length_days": 92,
+        "recovery_days": 120
+      },
+      {
+        "peak_date": "2020-08-31",
+        "trough_date": "2020-10-31",
+        "recovery_date": "2020-11-30",
+        "depth_pct": -0.062451421015424335,
+        "length_days": 61,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2018-01-31",
+        "trough_date": "2018-03-31",
+        "recovery_date": "2018-09-30",
+        "depth_pct": -0.05988371354806943,
+        "length_days": 59,
+        "recovery_days": 183
+      },
+      {
+        "peak_date": "2019-04-30",
+        "trough_date": "2019-05-31",
+        "recovery_date": "2019-06-30",
+        "depth_pct": -0.0578781558646142,
+        "length_days": 31,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2026-02-28",
+        "trough_date": "2026-03-31",
+        "recovery_date": "2026-04-30",
+        "depth_pct": -0.05669670683899808,
+        "length_days": 31,
+        "recovery_days": 30
+      },
+      {
+        "peak_date": "2025-01-31",
+        "trough_date": "2025-03-31",
+        "recovery_date": "2025-05-31",
+        "depth_pct": -0.04655797541334705,
+        "length_days": 59,
+        "recovery_days": 61
+      },
+      {
+        "peak_date": "2021-08-31",
+        "trough_date": "2021-09-30",
+        "recovery_date": "2021-10-31",
+        "depth_pct": -0.04211489373702115,
+        "length_days": 30,
+        "recovery_days": 31
+      },
+      {
+        "peak_date": "2024-03-31",
+        "trough_date": "2024-04-30",
+        "recovery_date": "2024-05-31",
+        "depth_pct": -0.03961073079736821,
+        "length_days": 30,
+        "recovery_days": 31
+      }
+    ],
+    "trailing_returns": [
+      {
+        "label": "1Y",
+        "years": 1.0,
+        "annualized_return_pct": 0.12238768622022622
+      },
+      {
+        "label": "3Y",
+        "years": 3.0,
+        "annualized_return_pct": 0.22289883768359764
+      },
+      {
+        "label": "5Y",
+        "years": 5.0,
+        "annualized_return_pct": 0.10592405140741668
+      },
+      {
+        "label": "7Y",
+        "years": 7.0,
+        "annualized_return_pct": 0.13558822077172406
+      },
+      {
+        "label": "10Y",
+        "years": 10.0,
+        "annualized_return_pct": 0.12951087217063795
+      },
+      {
+        "label": "15Y",
+        "years": 15.0,
+        "annualized_return_pct": null
+      },
+      {
+        "label": "20Y",
+        "years": 20.0,
+        "annualized_return_pct": null
+      },
+      {
+        "label": "Full Period",
+        "years": 10.0,
+        "annualized_return_pct": 0.12952970544963271
+      }
+    ],
+    "scenario_id": "msci_world__combo",
+    "scenario_label": "MSCI World (URTH) -- Lump sum + DCA -- $10,000 upfront + $500/month"
+  }
+}

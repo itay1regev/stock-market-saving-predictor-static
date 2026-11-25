@@ -1,0 +1,46 @@
+{
+  "etfs": [
+    {
+      "symbol": "MXWO.L",
+      "name": "Invesco MSCI World UCITS ETF",
+      "issuer": "Invesco Investment Management Limited",
+      "category": "—",
+      "price": 146.02,
+      "change_pct": -0.5787431061482906,
+      "aum": 10665235456.0,
+      "expense_ratio": 0.19,
+      "avg_volume": 71750.0,
+      "ytd_return_pct": 11.00675,
+      "dividend_yield_pct": 0.0,
+      "dividend_treatment": "Accumulating",
+      "display_price": "$146.02",
+      "display_change_pct": "-0.58%",
+      "display_aum": "$10.7B",
+      "display_expense_ratio": "0.19%",
+      "display_avg_volume": "71.8K",
+      "display_ytd_return_pct": "11.01%",
+      "display_dividend_yield_pct": "0.00%"
+    },
+    {
+      "symbol": "URTH",
+      "name": "iShares MSCI World ETF",
+      "issuer": "iShares",
+      "category": "Global Large-Stock Blend",
+      "price": 194.56,
+      "change_pct": -0.3533930857874508,
+      "aum": 9019294720.0,
+      "expense_ratio": 0.24,
+      "avg_volume": 739839.0,
+      "ytd_return_pct": 10.94547,
+      "dividend_yield_pct": 1.39,
+      "dividend_treatment": "Distributing",
+      "display_price": "$194.56",
+      "display_change_pct": "-0.35%",
+      "display_aum": "$9.0B",
+      "display_expense_ratio": "0.24%",
+      "display_avg_volume": "739.8K",
+      "display_ytd_return_pct": "10.95%",
+      "display_dividend_yield_pct": "1.39%"
+    }
+  ]
+}

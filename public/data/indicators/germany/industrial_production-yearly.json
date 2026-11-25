@@ -1,0 +1,343 @@
+{
+  "key": "industrial_production",
+  "label": "Industrial Production Index",
+  "category": "Business",
+  "source": "FRED",
+  "points": [
+    {
+      "year": 1958,
+      "value": 24.54702,
+      "display_value": "24.5 pts"
+    },
+    {
+      "year": 1959,
+      "value": 27.06555,
+      "display_value": "27.1 pts"
+    },
+    {
+      "year": 1960,
+      "value": 29.92662,
+      "display_value": "29.9 pts"
+    },
+    {
+      "year": 1961,
+      "value": 31.25683,
+      "display_value": "31.3 pts"
+    },
+    {
+      "year": 1962,
+      "value": 32.99359,
+      "display_value": "33.0 pts"
+    },
+    {
+      "year": 1963,
+      "value": 34.36314,
+      "display_value": "34.4 pts"
+    },
+    {
+      "year": 1964,
+      "value": 38.22277,
+      "display_value": "38.2 pts"
+    },
+    {
+      "year": 1965,
+      "value": 39.96582,
+      "display_value": "40.0 pts"
+    },
+    {
+      "year": 1966,
+      "value": 38.53403,
+      "display_value": "38.5 pts"
+    },
+    {
+      "year": 1967,
+      "value": 41.95789,
+      "display_value": "42.0 pts"
+    },
+    {
+      "year": 1968,
+      "value": 44.82148,
+      "display_value": "44.8 pts"
+    },
+    {
+      "year": 1969,
+      "value": 49.17913,
+      "display_value": "49.2 pts"
+    },
+    {
+      "year": 1970,
+      "value": 50.92219,
+      "display_value": "50.9 pts"
+    },
+    {
+      "year": 1971,
+      "value": 49.55264,
+      "display_value": "49.6 pts"
+    },
+    {
+      "year": 1972,
+      "value": 54.78181,
+      "display_value": "54.8 pts"
+    },
+    {
+      "year": 1973,
+      "value": 55.9646,
+      "display_value": "56.0 pts"
+    },
+    {
+      "year": 1974,
+      "value": 51.1712,
+      "display_value": "51.2 pts"
+    },
+    {
+      "year": 1975,
+      "value": 53.10101,
+      "display_value": "53.1 pts"
+    },
+    {
+      "year": 1976,
+      "value": 56.40037,
+      "display_value": "56.4 pts"
+    },
+    {
+      "year": 1977,
+      "value": 58.01892,
+      "display_value": "58.0 pts"
+    },
+    {
+      "year": 1978,
+      "value": 60.3845,
+      "display_value": "60.4 pts"
+    },
+    {
+      "year": 1979,
+      "value": 62.62558,
+      "display_value": "62.6 pts"
+    },
+    {
+      "year": 1980,
+      "value": 59.13946,
+      "display_value": "59.1 pts"
+    },
+    {
+      "year": 1981,
+      "value": 58.9527,
+      "display_value": "59.0 pts"
+    },
+    {
+      "year": 1982,
+      "value": 55.7156,
+      "display_value": "55.7 pts"
+    },
+    {
+      "year": 1983,
+      "value": 60.32225,
+      "display_value": "60.3 pts"
+    },
+    {
+      "year": 1984,
+      "value": 61.44279,
+      "display_value": "61.4 pts"
+    },
+    {
+      "year": 1985,
+      "value": 62.12756,
+      "display_value": "62.1 pts"
+    },
+    {
+      "year": 1986,
+      "value": 63.2481,
+      "display_value": "63.2 pts"
+    },
+    {
+      "year": 1987,
+      "value": 64.99115,
+      "display_value": "65.0 pts"
+    },
+    {
+      "year": 1988,
+      "value": 68.85078,
+      "display_value": "68.9 pts"
+    },
+    {
+      "year": 1989,
+      "value": 71.71438,
+      "display_value": "71.7 pts"
+    },
+    {
+      "year": 1990,
+      "value": 74.76472,
+      "display_value": "74.8 pts"
+    },
+    {
+      "year": 1991,
+      "value": 75.44154,
+      "display_value": "75.4 pts"
+    },
+    {
+      "year": 1992,
+      "value": 69.49094,
+      "display_value": "69.5 pts"
+    },
+    {
+      "year": 1993,
+      "value": 67.97807,
+      "display_value": "68.0 pts"
+    },
+    {
+      "year": 1994,
+      "value": 71.81066,
+      "display_value": "71.8 pts"
+    },
+    {
+      "year": 1995,
+      "value": 69.59179,
+      "display_value": "69.6 pts"
+    },
+    {
+      "year": 1996,
+      "value": 71.10465,
+      "display_value": "71.1 pts"
+    },
+    {
+      "year": 1997,
+      "value": 74.73553,
+      "display_value": "74.7 pts"
+    },
+    {
+      "year": 1998,
+      "value": 74.63467,
+      "display_value": "74.6 pts"
+    },
+    {
+      "year": 1999,
+      "value": 77.76126,
+      "display_value": "77.8 pts"
+    },
+    {
+      "year": 2000,
+      "value": 84.5683,
+      "display_value": "84.6 pts"
+    },
+    {
+      "year": 2001,
+      "value": 81.28222,
+      "display_value": "81.3 pts"
+    },
+    {
+      "year": 2002,
+      "value": 81.66882,
+      "display_value": "81.7 pts"
+    },
+    {
+      "year": 2003,
+      "value": 84.08505,
+      "display_value": "84.1 pts"
+    },
+    {
+      "year": 2004,
+      "value": 84.7616,
+      "display_value": "84.8 pts"
+    },
+    {
+      "year": 2005,
+      "value": 89.59407,
+      "display_value": "89.6 pts"
+    },
+    {
+      "year": 2006,
+      "value": 96.16624,
+      "display_value": "96.2 pts"
+    },
+    {
+      "year": 2007,
+      "value": 100.9021,
+      "display_value": "100.9 pts"
+    },
+    {
+      "year": 2008,
+      "value": 89.01418,
+      "display_value": "89.0 pts"
+    },
+    {
+      "year": 2009,
+      "value": 85.24484,
+      "display_value": "85.2 pts"
+    },
+    {
+      "year": 2010,
+      "value": 96.84278,
+      "display_value": "96.8 pts"
+    },
+    {
+      "year": 2011,
+      "value": 97.32603,
+      "display_value": "97.3 pts"
+    },
+    {
+      "year": 2012,
+      "value": 96.16624,
+      "display_value": "96.2 pts"
+    },
+    {
+      "year": 2013,
+      "value": 99.83892,
+      "display_value": "99.8 pts"
+    },
+    {
+      "year": 2014,
+      "value": 100.9987,
+      "display_value": "101.0 pts"
+    },
+    {
+      "year": 2015,
+      "value": 99.74227,
+      "display_value": "99.7 pts"
+    },
+    {
+      "year": 2016,
+      "value": 99.35567,
+      "display_value": "99.4 pts"
+    },
+    {
+      "year": 2017,
+      "value": 106.6044,
+      "display_value": "106.6 pts"
+    },
+    {
+      "year": 2018,
+      "value": 103.7049,
+      "display_value": "103.7 pts"
+    },
+    {
+      "year": 2019,
+      "value": 98.00258,
+      "display_value": "98.0 pts"
+    },
+    {
+      "year": 2020,
+      "value": 97.80928,
+      "display_value": "97.8 pts"
+    },
+    {
+      "year": 2021,
+      "value": 97.22938,
+      "display_value": "97.2 pts"
+    },
+    {
+      "year": 2022,
+      "value": 94.23325,
+      "display_value": "94.2 pts"
+    },
+    {
+      "year": 2023,
+      "value": 90.17397,
+      "display_value": "90.2 pts"
+    },
+    {
+      "year": 2024,
+      "value": 91.43041,
+      "display_value": "91.4 pts"
+    }
+  ]
+}

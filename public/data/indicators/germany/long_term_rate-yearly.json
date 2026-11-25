@@ -1,0 +1,363 @@
+{
+  "key": "long_term_rate",
+  "label": "10-Year Bond Yield",
+  "category": "Money",
+  "source": "FRED",
+  "points": [
+    {
+      "year": 1956,
+      "value": 7.3,
+      "display_value": "7.30%"
+    },
+    {
+      "year": 1957,
+      "value": 7.7,
+      "display_value": "7.70%"
+    },
+    {
+      "year": 1958,
+      "value": 5.9,
+      "display_value": "5.90%"
+    },
+    {
+      "year": 1959,
+      "value": 6.2,
+      "display_value": "6.20%"
+    },
+    {
+      "year": 1960,
+      "value": 6.2,
+      "display_value": "6.20%"
+    },
+    {
+      "year": 1961,
+      "value": 6.0,
+      "display_value": "6.00%"
+    },
+    {
+      "year": 1962,
+      "value": 6.1,
+      "display_value": "6.10%"
+    },
+    {
+      "year": 1963,
+      "value": 6.0,
+      "display_value": "6.00%"
+    },
+    {
+      "year": 1964,
+      "value": 6.4,
+      "display_value": "6.40%"
+    },
+    {
+      "year": 1965,
+      "value": 7.7,
+      "display_value": "7.70%"
+    },
+    {
+      "year": 1966,
+      "value": 7.7,
+      "display_value": "7.70%"
+    },
+    {
+      "year": 1967,
+      "value": 6.8,
+      "display_value": "6.80%"
+    },
+    {
+      "year": 1968,
+      "value": 6.3,
+      "display_value": "6.30%"
+    },
+    {
+      "year": 1969,
+      "value": 7.6,
+      "display_value": "7.60%"
+    },
+    {
+      "year": 1970,
+      "value": 8.2,
+      "display_value": "8.20%"
+    },
+    {
+      "year": 1971,
+      "value": 7.9,
+      "display_value": "7.90%"
+    },
+    {
+      "year": 1972,
+      "value": 8.6,
+      "display_value": "8.60%"
+    },
+    {
+      "year": 1973,
+      "value": 9.6,
+      "display_value": "9.60%"
+    },
+    {
+      "year": 1974,
+      "value": 9.9,
+      "display_value": "9.90%"
+    },
+    {
+      "year": 1975,
+      "value": 8.5,
+      "display_value": "8.50%"
+    },
+    {
+      "year": 1976,
+      "value": 7.4,
+      "display_value": "7.40%"
+    },
+    {
+      "year": 1977,
+      "value": 6.1,
+      "display_value": "6.10%"
+    },
+    {
+      "year": 1978,
+      "value": 6.7,
+      "display_value": "6.70%"
+    },
+    {
+      "year": 1979,
+      "value": 7.9,
+      "display_value": "7.90%"
+    },
+    {
+      "year": 1980,
+      "value": 8.8,
+      "display_value": "8.80%"
+    },
+    {
+      "year": 1981,
+      "value": 9.7,
+      "display_value": "9.70%"
+    },
+    {
+      "year": 1982,
+      "value": 7.9,
+      "display_value": "7.90%"
+    },
+    {
+      "year": 1983,
+      "value": 8.4,
+      "display_value": "8.40%"
+    },
+    {
+      "year": 1984,
+      "value": 7.2,
+      "display_value": "7.20%"
+    },
+    {
+      "year": 1985,
+      "value": 6.6,
+      "display_value": "6.60%"
+    },
+    {
+      "year": 1986,
+      "value": 6.2,
+      "display_value": "6.20%"
+    },
+    {
+      "year": 1987,
+      "value": 6.5,
+      "display_value": "6.50%"
+    },
+    {
+      "year": 1988,
+      "value": 6.5,
+      "display_value": "6.50%"
+    },
+    {
+      "year": 1989,
+      "value": 7.5,
+      "display_value": "7.50%"
+    },
+    {
+      "year": 1990,
+      "value": 8.845,
+      "display_value": "8.85%"
+    },
+    {
+      "year": 1991,
+      "value": 8.2125,
+      "display_value": "8.21%"
+    },
+    {
+      "year": 1992,
+      "value": 7.32,
+      "display_value": "7.32%"
+    },
+    {
+      "year": 1993,
+      "value": 5.83,
+      "display_value": "5.83%"
+    },
+    {
+      "year": 1994,
+      "value": 7.46095238095238,
+      "display_value": "7.46%"
+    },
+    {
+      "year": 1995,
+      "value": 6.07473684210526,
+      "display_value": "6.07%"
+    },
+    {
+      "year": 1996,
+      "value": 5.79,
+      "display_value": "5.79%"
+    },
+    {
+      "year": 1997,
+      "value": 5.32736842105263,
+      "display_value": "5.33%"
+    },
+    {
+      "year": 1998,
+      "value": 3.8635,
+      "display_value": "3.86%"
+    },
+    {
+      "year": 1999,
+      "value": 5.14761904761905,
+      "display_value": "5.15%"
+    },
+    {
+      "year": 2000,
+      "value": 4.89052631578947,
+      "display_value": "4.89%"
+    },
+    {
+      "year": 2001,
+      "value": 4.73588235294118,
+      "display_value": "4.74%"
+    },
+    {
+      "year": 2002,
+      "value": 4.33555555555556,
+      "display_value": "4.34%"
+    },
+    {
+      "year": 2003,
+      "value": 4.29105263157895,
+      "display_value": "4.29%"
+    },
+    {
+      "year": 2004,
+      "value": 3.57952380952381,
+      "display_value": "3.58%"
+    },
+    {
+      "year": 2005,
+      "value": 3.33761904761905,
+      "display_value": "3.34%"
+    },
+    {
+      "year": 2006,
+      "value": 3.77052631578947,
+      "display_value": "3.77%"
+    },
+    {
+      "year": 2007,
+      "value": 4.20588235294118,
+      "display_value": "4.21%"
+    },
+    {
+      "year": 2008,
+      "value": 3.04789473684211,
+      "display_value": "3.05%"
+    },
+    {
+      "year": 2009,
+      "value": 3.1385,
+      "display_value": "3.14%"
+    },
+    {
+      "year": 2010,
+      "value": 2.9147619047619,
+      "display_value": "2.91%"
+    },
+    {
+      "year": 2011,
+      "value": 1.92761904761905,
+      "display_value": "1.93%"
+    },
+    {
+      "year": 2012,
+      "value": 1.29941176470588,
+      "display_value": "1.30%"
+    },
+    {
+      "year": 2013,
+      "value": 1.79777777777778,
+      "display_value": "1.80%"
+    },
+    {
+      "year": 2014,
+      "value": 0.588947368421053,
+      "display_value": "0.59%"
+    },
+    {
+      "year": 2015,
+      "value": 0.5455,
+      "display_value": "0.55%"
+    },
+    {
+      "year": 2016,
+      "value": 0.251904761904762,
+      "display_value": "0.25%"
+    },
+    {
+      "year": 2017,
+      "value": 0.296842105263158,
+      "display_value": "0.30%"
+    },
+    {
+      "year": 2018,
+      "value": 0.187058823529412,
+      "display_value": "0.19%"
+    },
+    {
+      "year": 2019,
+      "value": -0.299444444444444,
+      "display_value": "-0.30%"
+    },
+    {
+      "year": 2020,
+      "value": -0.6185,
+      "display_value": "-0.62%"
+    },
+    {
+      "year": 2021,
+      "value": -0.384285714285714,
+      "display_value": "-0.38%"
+    },
+    {
+      "year": 2022,
+      "value": 2.0852380952381,
+      "display_value": "2.09%"
+    },
+    {
+      "year": 2023,
+      "value": 2.10210526315789,
+      "display_value": "2.10%"
+    },
+    {
+      "year": 2024,
+      "value": 2.17888888888889,
+      "display_value": "2.18%"
+    },
+    {
+      "year": 2025,
+      "value": 2.81421052631579,
+      "display_value": "2.81%"
+    },
+    {
+      "year": 2026,
+      "value": 3.4159090909,
+      "display_value": "3.42%"
+    }
+  ]
+}

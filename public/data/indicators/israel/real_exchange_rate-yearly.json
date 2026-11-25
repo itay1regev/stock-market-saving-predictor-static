@@ -1,0 +1,158 @@
+{
+  "key": "real_exchange_rate",
+  "label": "Real Effective Exchange Rate",
+  "category": "Money",
+  "source": "FRED",
+  "points": [
+    {
+      "year": 1997,
+      "value": 114.3078,
+      "display_value": "114.3 pts"
+    },
+    {
+      "year": 1998,
+      "value": 101.0811,
+      "display_value": "101.1 pts"
+    },
+    {
+      "year": 1999,
+      "value": 107.1346,
+      "display_value": "107.1 pts"
+    },
+    {
+      "year": 2000,
+      "value": 114.7894,
+      "display_value": "114.8 pts"
+    },
+    {
+      "year": 2001,
+      "value": 111.4847,
+      "display_value": "111.5 pts"
+    },
+    {
+      "year": 2002,
+      "value": 98.47787,
+      "display_value": "98.5 pts"
+    },
+    {
+      "year": 2003,
+      "value": 90.70301,
+      "display_value": "90.7 pts"
+    },
+    {
+      "year": 2004,
+      "value": 85.03062,
+      "display_value": "85.0 pts"
+    },
+    {
+      "year": 2005,
+      "value": 84.83006,
+      "display_value": "84.8 pts"
+    },
+    {
+      "year": 2006,
+      "value": 85.20569,
+      "display_value": "85.2 pts"
+    },
+    {
+      "year": 2007,
+      "value": 85.15335,
+      "display_value": "85.2 pts"
+    },
+    {
+      "year": 2008,
+      "value": 93.69058,
+      "display_value": "93.7 pts"
+    },
+    {
+      "year": 2009,
+      "value": 92.42616,
+      "display_value": "92.4 pts"
+    },
+    {
+      "year": 2010,
+      "value": 99.10831,
+      "display_value": "99.1 pts"
+    },
+    {
+      "year": 2011,
+      "value": 94.63868,
+      "display_value": "94.6 pts"
+    },
+    {
+      "year": 2012,
+      "value": 92.96566,
+      "display_value": "93.0 pts"
+    },
+    {
+      "year": 2013,
+      "value": 100.8958,
+      "display_value": "100.9 pts"
+    },
+    {
+      "year": 2014,
+      "value": 95.55099,
+      "display_value": "95.6 pts"
+    },
+    {
+      "year": 2015,
+      "value": 102.3671,
+      "display_value": "102.4 pts"
+    },
+    {
+      "year": 2016,
+      "value": 104.5153,
+      "display_value": "104.5 pts"
+    },
+    {
+      "year": 2017,
+      "value": 105.8453,
+      "display_value": "105.8 pts"
+    },
+    {
+      "year": 2018,
+      "value": 101.9968,
+      "display_value": "102.0 pts"
+    },
+    {
+      "year": 2019,
+      "value": 108.8817,
+      "display_value": "108.9 pts"
+    },
+    {
+      "year": 2020,
+      "value": 111.7616,
+      "display_value": "111.8 pts"
+    },
+    {
+      "year": 2021,
+      "value": 119.9544,
+      "display_value": "120.0 pts"
+    },
+    {
+      "year": 2022,
+      "value": 112.3635,
+      "display_value": "112.4 pts"
+    },
+    {
+      "year": 2023,
+      "value": 104.4971,
+      "display_value": "104.5 pts"
+    },
+    {
+      "year": 2024,
+      "value": 108.8097,
+      "display_value": "108.8 pts"
+    },
+    {
+      "year": 2025,
+      "value": 116.23,
+      "display_value": "116.2 pts"
+    },
+    {
+      "year": 2026,
+      "value": 120.5419,
+      "display_value": "120.5 pts"
+    }
+  ]
+}

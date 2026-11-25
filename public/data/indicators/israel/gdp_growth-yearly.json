@@ -1,0 +1,168 @@
+{
+  "key": "gdp_growth",
+  "label": "GDP Growth Rate (QoQ)",
+  "category": "GDP",
+  "source": "FRED",
+  "points": [
+    {
+      "year": 1995,
+      "value": 0.638425190632175,
+      "display_value": "0.6%"
+    },
+    {
+      "year": 1996,
+      "value": 1.58834506194727,
+      "display_value": "1.6%"
+    },
+    {
+      "year": 1997,
+      "value": 1.77733733087106,
+      "display_value": "1.8%"
+    },
+    {
+      "year": 1998,
+      "value": 0.437860384192712,
+      "display_value": "0.4%"
+    },
+    {
+      "year": 1999,
+      "value": 2.00553166225004,
+      "display_value": "2.0%"
+    },
+    {
+      "year": 2000,
+      "value": 0.233556445344307,
+      "display_value": "0.2%"
+    },
+    {
+      "year": 2001,
+      "value": -0.459930253519225,
+      "display_value": "-0.5%"
+    },
+    {
+      "year": 2002,
+      "value": -0.030807444882042,
+      "display_value": "-0.0%"
+    },
+    {
+      "year": 2003,
+      "value": 0.669029271416433,
+      "display_value": "0.7%"
+    },
+    {
+      "year": 2004,
+      "value": 1.19062847174305,
+      "display_value": "1.2%"
+    },
+    {
+      "year": 2005,
+      "value": 1.87121981571452,
+      "display_value": "1.9%"
+    },
+    {
+      "year": 2006,
+      "value": 1.74735459710598,
+      "display_value": "1.7%"
+    },
+    {
+      "year": 2007,
+      "value": 1.6635235281679,
+      "display_value": "1.7%"
+    },
+    {
+      "year": 2008,
+      "value": -0.726720341031473,
+      "display_value": "-0.7%"
+    },
+    {
+      "year": 2009,
+      "value": 1.09942782315431,
+      "display_value": "1.1%"
+    },
+    {
+      "year": 2010,
+      "value": 1.67180141091912,
+      "display_value": "1.7%"
+    },
+    {
+      "year": 2011,
+      "value": 0.589105668469836,
+      "display_value": "0.6%"
+    },
+    {
+      "year": 2012,
+      "value": 0.047089210491147,
+      "display_value": "0.0%"
+    },
+    {
+      "year": 2013,
+      "value": 0.96593001905263,
+      "display_value": "1.0%"
+    },
+    {
+      "year": 2014,
+      "value": 1.42993466930934,
+      "display_value": "1.4%"
+    },
+    {
+      "year": 2015,
+      "value": 0.675624079682136,
+      "display_value": "0.7%"
+    },
+    {
+      "year": 2016,
+      "value": 1.40737281962802,
+      "display_value": "1.4%"
+    },
+    {
+      "year": 2017,
+      "value": 1.34310320450217,
+      "display_value": "1.3%"
+    },
+    {
+      "year": 2018,
+      "value": 0.932556279834906,
+      "display_value": "0.9%"
+    },
+    {
+      "year": 2019,
+      "value": 0.778745700851258,
+      "display_value": "0.8%"
+    },
+    {
+      "year": 2020,
+      "value": 2.8131039497,
+      "display_value": "2.8%"
+    },
+    {
+      "year": 2021,
+      "value": 4.4603566696,
+      "display_value": "4.5%"
+    },
+    {
+      "year": 2022,
+      "value": 2.476923707,
+      "display_value": "2.5%"
+    },
+    {
+      "year": 2023,
+      "value": -5.4143187258,
+      "display_value": "-5.4%"
+    },
+    {
+      "year": 2024,
+      "value": 0.1861100005,
+      "display_value": "0.2%"
+    },
+    {
+      "year": 2025,
+      "value": 0.7839664645,
+      "display_value": "0.8%"
+    },
+    {
+      "year": 2026,
+      "value": 3.6404918924,
+      "display_value": "3.6%"
+    }
+  ]
+}

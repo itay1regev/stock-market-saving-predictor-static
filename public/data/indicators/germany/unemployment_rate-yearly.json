@@ -1,0 +1,188 @@
+{
+  "key": "unemployment_rate",
+  "label": "Unemployment Rate",
+  "category": "Labour",
+  "source": "FRED",
+  "points": [
+    {
+      "year": 1991,
+      "value": 6.0,
+      "display_value": "6.0%"
+    },
+    {
+      "year": 1992,
+      "value": 7.2,
+      "display_value": "7.2%"
+    },
+    {
+      "year": 1993,
+      "value": 8.3,
+      "display_value": "8.3%"
+    },
+    {
+      "year": 1994,
+      "value": 8.2,
+      "display_value": "8.2%"
+    },
+    {
+      "year": 1995,
+      "value": 8.5,
+      "display_value": "8.5%"
+    },
+    {
+      "year": 1996,
+      "value": 9.4,
+      "display_value": "9.4%"
+    },
+    {
+      "year": 1997,
+      "value": 9.7,
+      "display_value": "9.7%"
+    },
+    {
+      "year": 1998,
+      "value": 9.0,
+      "display_value": "9.0%"
+    },
+    {
+      "year": 1999,
+      "value": 8.2,
+      "display_value": "8.2%"
+    },
+    {
+      "year": 2000,
+      "value": 7.7,
+      "display_value": "7.7%"
+    },
+    {
+      "year": 2001,
+      "value": 8.1,
+      "display_value": "8.1%"
+    },
+    {
+      "year": 2002,
+      "value": 9.2,
+      "display_value": "9.2%"
+    },
+    {
+      "year": 2003,
+      "value": 9.8,
+      "display_value": "9.8%"
+    },
+    {
+      "year": 2004,
+      "value": 10.7,
+      "display_value": "10.7%"
+    },
+    {
+      "year": 2005,
+      "value": 10.7,
+      "display_value": "10.7%"
+    },
+    {
+      "year": 2006,
+      "value": 9.4,
+      "display_value": "9.4%"
+    },
+    {
+      "year": 2007,
+      "value": 8.1,
+      "display_value": "8.1%"
+    },
+    {
+      "year": 2008,
+      "value": 7.1,
+      "display_value": "7.1%"
+    },
+    {
+      "year": 2009,
+      "value": 7.2,
+      "display_value": "7.2%"
+    },
+    {
+      "year": 2010,
+      "value": 6.1,
+      "display_value": "6.1%"
+    },
+    {
+      "year": 2011,
+      "value": 5.2,
+      "display_value": "5.2%"
+    },
+    {
+      "year": 2012,
+      "value": 5.0,
+      "display_value": "5.0%"
+    },
+    {
+      "year": 2013,
+      "value": 4.8,
+      "display_value": "4.8%"
+    },
+    {
+      "year": 2014,
+      "value": 4.6,
+      "display_value": "4.6%"
+    },
+    {
+      "year": 2015,
+      "value": 4.2,
+      "display_value": "4.2%"
+    },
+    {
+      "year": 2016,
+      "value": 3.7,
+      "display_value": "3.7%"
+    },
+    {
+      "year": 2017,
+      "value": 3.4,
+      "display_value": "3.4%"
+    },
+    {
+      "year": 2018,
+      "value": 3.1,
+      "display_value": "3.1%"
+    },
+    {
+      "year": 2019,
+      "value": 3.1,
+      "display_value": "3.1%"
+    },
+    {
+      "year": 2020,
+      "value": 3.8,
+      "display_value": "3.8%"
+    },
+    {
+      "year": 2021,
+      "value": 3.4,
+      "display_value": "3.4%"
+    },
+    {
+      "year": 2022,
+      "value": 3.1,
+      "display_value": "3.1%"
+    },
+    {
+      "year": 2023,
+      "value": 3.2,
+      "display_value": "3.2%"
+    },
+    {
+      "year": 2024,
+      "value": 3.5,
+      "display_value": "3.5%"
+    },
+    {
+      "year": 2025,
+      "value": 3.9,
+      "display_value": "3.9%"
+    },
+    {
+      "year": 2026,
+      "value": 4.1,
+      "display_value": "4.1%"
+    }
+  ]
+}

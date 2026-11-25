@@ -1,0 +1,183 @@
+{
+  "key": "trade_balance",
+  "label": "Balance of Trade",
+  "category": "Trade",
+  "source": "FRED",
+  "points": [
+    {
+      "year": 1992,
+      "value": -5603.0,
+      "display_value": "$-5.60B"
+    },
+    {
+      "year": 1993,
+      "value": -5719.0,
+      "display_value": "$-5.72B"
+    },
+    {
+      "year": 1994,
+      "value": -8456.0,
+      "display_value": "$-8.46B"
+    },
+    {
+      "year": 1995,
+      "value": -6271.0,
+      "display_value": "$-6.27B"
+    },
+    {
+      "year": 1996,
+      "value": -10475.0,
+      "display_value": "$-10.47B"
+    },
+    {
+      "year": 1997,
+      "value": -11289.0,
+      "display_value": "$-11.29B"
+    },
+    {
+      "year": 1998,
+      "value": -14745.0,
+      "display_value": "$-14.74B"
+    },
+    {
+      "year": 1999,
+      "value": -24937.0,
+      "display_value": "$-24.94B"
+    },
+    {
+      "year": 2000,
+      "value": -32165.0,
+      "display_value": "$-32.16B"
+    },
+    {
+      "year": 2001,
+      "value": -26369.0,
+      "display_value": "$-26.37B"
+    },
+    {
+      "year": 2002,
+      "value": -42550.0,
+      "display_value": "$-42.55B"
+    },
+    {
+      "year": 2003,
+      "value": -42968.0,
+      "display_value": "$-42.97B"
+    },
+    {
+      "year": 2004,
+      "value": -53753.0,
+      "display_value": "$-53.75B"
+    },
+    {
+      "year": 2005,
+      "value": -63372.0,
+      "display_value": "$-63.37B"
+    },
+    {
+      "year": 2006,
+      "value": -60638.0,
+      "display_value": "$-60.64B"
+    },
+    {
+      "year": 2007,
+      "value": -56848.0,
+      "display_value": "$-56.85B"
+    },
+    {
+      "year": 2008,
+      "value": -42034.0,
+      "display_value": "$-42.03B"
+    },
+    {
+      "year": 2009,
+      "value": -37770.0,
+      "display_value": "$-37.77B"
+    },
+    {
+      "year": 2010,
+      "value": -39984.0,
+      "display_value": "$-39.98B"
+    },
+    {
+      "year": 2011,
+      "value": -47466.0,
+      "display_value": "$-47.47B"
+    },
+    {
+      "year": 2012,
+      "value": -34743.0,
+      "display_value": "$-34.74B"
+    },
+    {
+      "year": 2013,
+      "value": -31952.0,
+      "display_value": "$-31.95B"
+    },
+    {
+      "year": 2014,
+      "value": -41369.0,
+      "display_value": "$-41.37B"
+    },
+    {
+      "year": 2015,
+      "value": -39323.0,
+      "display_value": "$-39.32B"
+    },
+    {
+      "year": 2016,
+      "value": -39741.0,
+      "display_value": "$-39.74B"
+    },
+    {
+      "year": 2017,
+      "value": -44808.0,
+      "display_value": "$-44.81B"
+    },
+    {
+      "year": 2018,
+      "value": -53134.0,
+      "display_value": "$-53.13B"
+    },
+    {
+      "year": 2019,
+      "value": -41681.0,
+      "display_value": "$-41.68B"
+    },
+    {
+      "year": 2020,
+      "value": -61388.0,
+      "display_value": "$-61.39B"
+    },
+    {
+      "year": 2021,
+      "value": -77887.0,
+      "display_value": "$-77.89B"
+    },
+    {
+      "year": 2022,
+      "value": -68374.0,
+      "display_value": "$-68.37B"
+    },
+    {
+      "year": 2023,
+      "value": -61283.0,
+      "display_value": "$-61.28B"
+    },
+    {
+      "year": 2024,
+      "value": -96849.0,
+      "display_value": "$-96.85B"
+    },
+    {
+      "year": 2025,
+      "value": -76078.0,
+      "display_value": "$-76.08B"
+    },
+    {
+      "year": 2026,
+      "value": -105047.0,
+      "display_value": "$-105.05B"
+    }
+  ]
+}

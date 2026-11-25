@@ -1,0 +1,348 @@
+{
+  "key": "personal_income",
+  "label": "Personal Income",
+  "category": "Consumer",
+  "source": "FRED",
+  "points": [
+    {
+      "year": 1959,
+      "value": 414.6,
+      "display_value": "$415B"
+    },
+    {
+      "year": 1960,
+      "value": 424.4,
+      "display_value": "$424B"
+    },
+    {
+      "year": 1961,
+      "value": 455.6,
+      "display_value": "$456B"
+    },
+    {
+      "year": 1962,
+      "value": 479.8,
+      "display_value": "$480B"
+    },
+    {
+      "year": 1963,
+      "value": 508.4,
+      "display_value": "$508B"
+    },
+    {
+      "year": 1964,
+      "value": 547.5,
+      "display_value": "$548B"
+    },
+    {
+      "year": 1965,
+      "value": 595.5,
+      "display_value": "$596B"
+    },
+    {
+      "year": 1966,
+      "value": 642.0,
+      "display_value": "$642B"
+    },
+    {
+      "year": 1967,
+      "value": 687.4,
+      "display_value": "$687B"
+    },
+    {
+      "year": 1968,
+      "value": 762.6,
+      "display_value": "$763B"
+    },
+    {
+      "year": 1969,
+      "value": 831.9,
+      "display_value": "$832B"
+    },
+    {
+      "year": 1970,
+      "value": 889.2,
+      "display_value": "$889B"
+    },
+    {
+      "year": 1971,
+      "value": 967.4,
+      "display_value": "$967B"
+    },
+    {
+      "year": 1972,
+      "value": 1086.6,
+      "display_value": "$1,087B"
+    },
+    {
+      "year": 1973,
+      "value": 1199.2,
+      "display_value": "$1,199B"
+    },
+    {
+      "year": 1974,
+      "value": 1305.4,
+      "display_value": "$1,305B"
+    },
+    {
+      "year": 1975,
+      "value": 1432.3,
+      "display_value": "$1,432B"
+    },
+    {
+      "year": 1976,
+      "value": 1570.7,
+      "display_value": "$1,571B"
+    },
+    {
+      "year": 1977,
+      "value": 1756.0,
+      "display_value": "$1,756B"
+    },
+    {
+      "year": 1978,
+      "value": 1964.2,
+      "display_value": "$1,964B"
+    },
+    {
+      "year": 1979,
+      "value": 2192.7,
+      "display_value": "$2,193B"
+    },
+    {
+      "year": 1980,
+      "value": 2471.7,
+      "display_value": "$2,472B"
+    },
+    {
+      "year": 1981,
+      "value": 2699.9,
+      "display_value": "$2,700B"
+    },
+    {
+      "year": 1982,
+      "value": 2872.4,
+      "display_value": "$2,872B"
+    },
+    {
+      "year": 1983,
+      "value": 3116.8,
+      "display_value": "$3,117B"
+    },
+    {
+      "year": 1984,
+      "value": 3416.4,
+      "display_value": "$3,416B"
+    },
+    {
+      "year": 1985,
+      "value": 3633.5,
+      "display_value": "$3,634B"
+    },
+    {
+      "year": 1986,
+      "value": 3808.6,
+      "display_value": "$3,809B"
+    },
+    {
+      "year": 1987,
+      "value": 4115.7,
+      "display_value": "$4,116B"
+    },
+    {
+      "year": 1988,
+      "value": 4438.6,
+      "display_value": "$4,439B"
+    },
+    {
+      "year": 1989,
+      "value": 4735.7,
+      "display_value": "$4,736B"
+    },
+    {
+      "year": 1990,
+      "value": 5004.1,
+      "display_value": "$5,004B"
+    },
+    {
+      "year": 1991,
+      "value": 5233.0,
+      "display_value": "$5,233B"
+    },
+    {
+      "year": 1992,
+      "value": 5676.8,
+      "display_value": "$5,677B"
+    },
+    {
+      "year": 1993,
+      "value": 5893.8,
+      "display_value": "$5,894B"
+    },
+    {
+      "year": 1994,
+      "value": 6108.1,
+      "display_value": "$6,108B"
+    },
+    {
+      "year": 1995,
+      "value": 6417.8,
+      "display_value": "$6,418B"
+    },
+    {
+      "year": 1996,
+      "value": 6836.6,
+      "display_value": "$6,837B"
+    },
+    {
+      "year": 1997,
+      "value": 7300.0,
+      "display_value": "$7,300B"
+    },
+    {
+      "year": 1998,
+      "value": 7771.8,
+      "display_value": "$7,772B"
+    },
+    {
+      "year": 1999,
+      "value": 8251.2,
+      "display_value": "$8,251B"
+    },
+    {
+      "year": 2000,
+      "value": 8844.0,
+      "display_value": "$8,844B"
+    },
+    {
+      "year": 2001,
+      "value": 8990.7,
+      "display_value": "$8,991B"
+    },
+    {
+      "year": 2002,
+      "value": 9288.3,
+      "display_value": "$9,288B"
+    },
+    {
+      "year": 2003,
+      "value": 9713.2,
+      "display_value": "$9,713B"
+    },
+    {
+      "year": 2004,
+      "value": 10520.8,
+      "display_value": "$10,521B"
+    },
+    {
+      "year": 2005,
+      "value": 10853.1,
+      "display_value": "$10,853B"
+    },
+    {
+      "year": 2006,
+      "value": 11587.6,
+      "display_value": "$11,588B"
+    },
+    {
+      "year": 2007,
+      "value": 12182.7,
+      "display_value": "$12,183B"
+    },
+    {
+      "year": 2008,
+      "value": 12238.5,
+      "display_value": "$12,238B"
+    },
+    {
+      "year": 2009,
+      "value": 12188.2,
+      "display_value": "$12,188B"
+    },
+    {
+      "year": 2010,
+      "value": 12873.1,
+      "display_value": "$12,873B"
+    },
+    {
+      "year": 2011,
+      "value": 13548.9,
+      "display_value": "$13,549B"
+    },
+    {
+      "year": 2012,
+      "value": 14581.4,
+      "display_value": "$14,581B"
+    },
+    {
+      "year": 2013,
+      "value": 14266.5,
+      "display_value": "$14,266B"
+    },
+    {
+      "year": 2014,
+      "value": 15170.9,
+      "display_value": "$15,171B"
+    },
+    {
+      "year": 2015,
+      "value": 15668.4,
+      "display_value": "$15,668B"
+    },
+    {
+      "year": 2016,
+      "value": 16182.5,
+      "display_value": "$16,182B"
+    },
+    {
+      "year": 2017,
+      "value": 17058.2,
+      "display_value": "$17,058B"
+    },
+    {
+      "year": 2018,
+      "value": 18012.4,
+      "display_value": "$18,012B"
+    },
+    {
+      "year": 2019,
+      "value": 18594.0,
+      "display_value": "$18,594B"
+    },
+    {
+      "year": 2020,
+      "value": 19741.5,
+      "display_value": "$19,742B"
+    },
+    {
+      "year": 2021,
+      "value": 21529.8,
+      "display_value": "$21,530B"
+    },
+    {
+      "year": 2022,
+      "value": 22813.0,
+      "display_value": "$22,813B"
+    },
+    {
+      "year": 2023,
+      "value": 24289.6,
+      "display_value": "$24,290B"
+    },
+    {
+      "year": 2024,
+      "value": 25589.5,
+      "display_value": "$25,590B"
+    },
+    {
+      "year": 2025,
+      "value": 26813.6,
+      "display_value": "$26,814B"
+    },
+    {
+      "year": 2026,
+      "value": 27707.8,
+      "display_value": "$27,708B"
+    }
+  ]
+}

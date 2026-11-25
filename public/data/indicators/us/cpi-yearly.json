@@ -1,0 +1,408 @@
+{
+  "key": "cpi",
+  "label": "Consumer Price Index",
+  "category": "Prices",
+  "source": "FRED",
+  "points": [
+    {
+      "year": 1947,
+      "value": 23.41,
+      "display_value": "23.4 pts"
+    },
+    {
+      "year": 1948,
+      "value": 24.05,
+      "display_value": "24.1 pts"
+    },
+    {
+      "year": 1949,
+      "value": 23.61,
+      "display_value": "23.6 pts"
+    },
+    {
+      "year": 1950,
+      "value": 24.98,
+      "display_value": "25.0 pts"
+    },
+    {
+      "year": 1951,
+      "value": 26.47,
+      "display_value": "26.5 pts"
+    },
+    {
+      "year": 1952,
+      "value": 26.71,
+      "display_value": "26.7 pts"
+    },
+    {
+      "year": 1953,
+      "value": 26.87,
+      "display_value": "26.9 pts"
+    },
+    {
+      "year": 1954,
+      "value": 26.77,
+      "display_value": "26.8 pts"
+    },
+    {
+      "year": 1955,
+      "value": 26.87,
+      "display_value": "26.9 pts"
+    },
+    {
+      "year": 1956,
+      "value": 27.63,
+      "display_value": "27.6 pts"
+    },
+    {
+      "year": 1957,
+      "value": 28.47,
+      "display_value": "28.5 pts"
+    },
+    {
+      "year": 1958,
+      "value": 28.97,
+      "display_value": "29.0 pts"
+    },
+    {
+      "year": 1959,
+      "value": 29.41,
+      "display_value": "29.4 pts"
+    },
+    {
+      "year": 1960,
+      "value": 29.81,
+      "display_value": "29.8 pts"
+    },
+    {
+      "year": 1961,
+      "value": 30.01,
+      "display_value": "30.0 pts"
+    },
+    {
+      "year": 1962,
+      "value": 30.38,
+      "display_value": "30.4 pts"
+    },
+    {
+      "year": 1963,
+      "value": 30.88,
+      "display_value": "30.9 pts"
+    },
+    {
+      "year": 1964,
+      "value": 31.25,
+      "display_value": "31.2 pts"
+    },
+    {
+      "year": 1965,
+      "value": 31.85,
+      "display_value": "31.9 pts"
+    },
+    {
+      "year": 1966,
+      "value": 32.92,
+      "display_value": "32.9 pts"
+    },
+    {
+      "year": 1967,
+      "value": 34.0,
+      "display_value": "34.0 pts"
+    },
+    {
+      "year": 1968,
+      "value": 35.6,
+      "display_value": "35.6 pts"
+    },
+    {
+      "year": 1969,
+      "value": 37.7,
+      "display_value": "37.7 pts"
+    },
+    {
+      "year": 1970,
+      "value": 39.8,
+      "display_value": "39.8 pts"
+    },
+    {
+      "year": 1971,
+      "value": 41.1,
+      "display_value": "41.1 pts"
+    },
+    {
+      "year": 1972,
+      "value": 42.5,
+      "display_value": "42.5 pts"
+    },
+    {
+      "year": 1973,
+      "value": 46.3,
+      "display_value": "46.3 pts"
+    },
+    {
+      "year": 1974,
+      "value": 51.9,
+      "display_value": "51.9 pts"
+    },
+    {
+      "year": 1975,
+      "value": 55.6,
+      "display_value": "55.6 pts"
+    },
+    {
+      "year": 1976,
+      "value": 58.4,
+      "display_value": "58.4 pts"
+    },
+    {
+      "year": 1977,
+      "value": 62.3,
+      "display_value": "62.3 pts"
+    },
+    {
+      "year": 1978,
+      "value": 67.9,
+      "display_value": "67.9 pts"
+    },
+    {
+      "year": 1979,
+      "value": 76.9,
+      "display_value": "76.9 pts"
+    },
+    {
+      "year": 1980,
+      "value": 86.4,
+      "display_value": "86.4 pts"
+    },
+    {
+      "year": 1981,
+      "value": 94.1,
+      "display_value": "94.1 pts"
+    },
+    {
+      "year": 1982,
+      "value": 97.7,
+      "display_value": "97.7 pts"
+    },
+    {
+      "year": 1983,
+      "value": 101.4,
+      "display_value": "101.4 pts"
+    },
+    {
+      "year": 1984,
+      "value": 105.5,
+      "display_value": "105.5 pts"
+    },
+    {
+      "year": 1985,
+      "value": 109.5,
+      "display_value": "109.5 pts"
+    },
+    {
+      "year": 1986,
+      "value": 110.8,
+      "display_value": "110.8 pts"
+    },
+    {
+      "year": 1987,
+      "value": 115.6,
+      "display_value": "115.6 pts"
+    },
+    {
+      "year": 1988,
+      "value": 120.7,
+      "display_value": "120.7 pts"
+    },
+    {
+      "year": 1989,
+      "value": 126.3,
+      "display_value": "126.3 pts"
+    },
+    {
+      "year": 1990,
+      "value": 134.2,
+      "display_value": "134.2 pts"
+    },
+    {
+      "year": 1991,
+      "value": 138.2,
+      "display_value": "138.2 pts"
+    },
+    {
+      "year": 1992,
+      "value": 142.3,
+      "display_value": "142.3 pts"
+    },
+    {
+      "year": 1993,
+      "value": 146.3,
+      "display_value": "146.3 pts"
+    },
+    {
+      "year": 1994,
+      "value": 150.1,
+      "display_value": "150.1 pts"
+    },
+    {
+      "year": 1995,
+      "value": 153.9,
+      "display_value": "153.9 pts"
+    },
+    {
+      "year": 1996,
+      "value": 159.1,
+      "display_value": "159.1 pts"
+    },
+    {
+      "year": 1997,
+      "value": 161.8,
+      "display_value": "161.8 pts"
+    },
+    {
+      "year": 1998,
+      "value": 164.4,
+      "display_value": "164.4 pts"
+    },
+    {
+      "year": 1999,
+      "value": 168.8,
+      "display_value": "168.8 pts"
+    },
+    {
+      "year": 2000,
+      "value": 174.6,
+      "display_value": "174.6 pts"
+    },
+    {
+      "year": 2001,
+      "value": 177.4,
+      "display_value": "177.4 pts"
+    },
+    {
+      "year": 2002,
+      "value": 181.8,
+      "display_value": "181.8 pts"
+    },
+    {
+      "year": 2003,
+      "value": 185.5,
+      "display_value": "185.5 pts"
+    },
+    {
+      "year": 2004,
+      "value": 191.7,
+      "display_value": "191.7 pts"
+    },
+    {
+      "year": 2005,
+      "value": 198.1,
+      "display_value": "198.1 pts"
+    },
+    {
+      "year": 2006,
+      "value": 203.1,
+      "display_value": "203.1 pts"
+    },
+    {
+      "year": 2007,
+      "value": 211.445,
+      "display_value": "211.4 pts"
+    },
+    {
+      "year": 2008,
+      "value": 211.398,
+      "display_value": "211.4 pts"
+    },
+    {
+      "year": 2009,
+      "value": 217.347,
+      "display_value": "217.3 pts"
+    },
+    {
+      "year": 2010,
+      "value": 220.472,
+      "display_value": "220.5 pts"
+    },
+    {
+      "year": 2011,
+      "value": 227.223,
+      "display_value": "227.2 pts"
+    },
+    {
+      "year": 2012,
+      "value": 231.221,
+      "display_value": "231.2 pts"
+    },
+    {
+      "year": 2013,
+      "value": 234.719,
+      "display_value": "234.7 pts"
+    },
+    {
+      "year": 2014,
+      "value": 236.252,
+      "display_value": "236.3 pts"
+    },
+    {
+      "year": 2015,
+      "value": 237.761,
+      "display_value": "237.8 pts"
+    },
+    {
+      "year": 2016,
+      "value": 242.637,
+      "display_value": "242.6 pts"
+    },
+    {
+      "year": 2017,
+      "value": 247.805,
+      "display_value": "247.8 pts"
+    },
+    {
+      "year": 2018,
+      "value": 252.767,
+      "display_value": "252.8 pts"
+    },
+    {
+      "year": 2019,
+      "value": 258.63,
+      "display_value": "258.6 pts"
+    },
+    {
+      "year": 2020,
+      "value": 262.045,
+      "display_value": "262.0 pts"
+    },
+    {
+      "year": 2021,
+      "value": 280.845,
+      "display_value": "280.8 pts"
+    },
+    {
+      "year": 2022,
+      "value": 298.832,
+      "display_value": "298.8 pts"
+    },
+    {
+      "year": 2023,
+      "value": 308.741,
+      "display_value": "308.7 pts"
+    },
+    {
+      "year": 2024,
+      "value": 317.604,
+      "display_value": "317.6 pts"
+    },
+    {
+      "year": 2025,
+      "value": 326.031,
+      "display_value": "326.0 pts"
+    },
+    {
+      "year": 2026,
+      "value": 337.476,
+      "display_value": "337.5 pts"
+    }
+  ]
+}

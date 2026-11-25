@@ -1,0 +1,293 @@
+{
+  "key": "gdp_growth",
+  "label": "GDP Growth Rate (QoQ)",
+  "category": "GDP",
+  "source": "FRED",
+  "points": [
+    {
+      "year": 1970,
+      "value": 0.847606643583054,
+      "display_value": "0.8%"
+    },
+    {
+      "year": 1971,
+      "value": -0.084182123762355,
+      "display_value": "-0.1%"
+    },
+    {
+      "year": 1972,
+      "value": 1.55389629465963,
+      "display_value": "1.6%"
+    },
+    {
+      "year": 1973,
+      "value": 0.248868820040404,
+      "display_value": "0.2%"
+    },
+    {
+      "year": 1974,
+      "value": -1.26270745907557,
+      "display_value": "-1.3%"
+    },
+    {
+      "year": 1975,
+      "value": 1.96505496811141,
+      "display_value": "2.0%"
+    },
+    {
+      "year": 1976,
+      "value": 1.85157958998625,
+      "display_value": "1.9%"
+    },
+    {
+      "year": 1977,
+      "value": 1.7206367008977,
+      "display_value": "1.7%"
+    },
+    {
+      "year": 1978,
+      "value": 1.1691046129791,
+      "display_value": "1.2%"
+    },
+    {
+      "year": 1979,
+      "value": 0.612993339934387,
+      "display_value": "0.6%"
+    },
+    {
+      "year": 1980,
+      "value": -0.132760005568155,
+      "display_value": "-0.1%"
+    },
+    {
+      "year": 1981,
+      "value": -0.078831450675654,
+      "display_value": "-0.1%"
+    },
+    {
+      "year": 1982,
+      "value": 0.23958888337674,
+      "display_value": "0.2%"
+    },
+    {
+      "year": 1983,
+      "value": 1.38327392107178,
+      "display_value": "1.4%"
+    },
+    {
+      "year": 1984,
+      "value": 0.841814285343978,
+      "display_value": "0.8%"
+    },
+    {
+      "year": 1985,
+      "value": 0.599977251260375,
+      "display_value": "0.6%"
+    },
+    {
+      "year": 1986,
+      "value": 0.997108217820331,
+      "display_value": "1.0%"
+    },
+    {
+      "year": 1987,
+      "value": 1.59990016842075,
+      "display_value": "1.6%"
+    },
+    {
+      "year": 1988,
+      "value": 1.17754659441738,
+      "display_value": "1.2%"
+    },
+    {
+      "year": 1989,
+      "value": 1.15880554863417,
+      "display_value": "1.2%"
+    },
+    {
+      "year": 1990,
+      "value": 1.76042113294086,
+      "display_value": "1.8%"
+    },
+    {
+      "year": 1991,
+      "value": 1.47543324560861,
+      "display_value": "1.5%"
+    },
+    {
+      "year": 1992,
+      "value": -0.295020757568931,
+      "display_value": "-0.3%"
+    },
+    {
+      "year": 1993,
+      "value": -0.112949839670173,
+      "display_value": "-0.1%"
+    },
+    {
+      "year": 1994,
+      "value": 1.08815617461335,
+      "display_value": "1.1%"
+    },
+    {
+      "year": 1995,
+      "value": 0.054161198241554,
+      "display_value": "0.1%"
+    },
+    {
+      "year": 1996,
+      "value": 0.937712040800487,
+      "display_value": "0.9%"
+    },
+    {
+      "year": 1997,
+      "value": 0.736072221106299,
+      "display_value": "0.7%"
+    },
+    {
+      "year": 1998,
+      "value": -0.051690982180275,
+      "display_value": "-0.1%"
+    },
+    {
+      "year": 1999,
+      "value": 0.479619715182089,
+      "display_value": "0.5%"
+    },
+    {
+      "year": 2000,
+      "value": -0.416918116571097,
+      "display_value": "-0.4%"
+    },
+    {
+      "year": 2001,
+      "value": -0.290129994506505,
+      "display_value": "-0.3%"
+    },
+    {
+      "year": 2002,
+      "value": -0.241080741154487,
+      "display_value": "-0.2%"
+    },
+    {
+      "year": 2003,
+      "value": 0.133380424857754,
+      "display_value": "0.1%"
+    },
+    {
+      "year": 2004,
+      "value": -0.060479260433322,
+      "display_value": "-0.1%"
+    },
+    {
+      "year": 2005,
+      "value": 0.357473364041794,
+      "display_value": "0.4%"
+    },
+    {
+      "year": 2006,
+      "value": 1.46620798331532,
+      "display_value": "1.5%"
+    },
+    {
+      "year": 2007,
+      "value": 0.768801811020636,
+      "display_value": "0.8%"
+    },
+    {
+      "year": 2008,
+      "value": -1.53180348104904,
+      "display_value": "-1.5%"
+    },
+    {
+      "year": 2009,
+      "value": 0.762106595317924,
+      "display_value": "0.8%"
+    },
+    {
+      "year": 2010,
+      "value": 0.638373267897308,
+      "display_value": "0.6%"
+    },
+    {
+      "year": 2011,
+      "value": -0.03251490017957,
+      "display_value": "-0.0%"
+    },
+    {
+      "year": 2012,
+      "value": -0.280322785894238,
+      "display_value": "-0.3%"
+    },
+    {
+      "year": 2013,
+      "value": 0.171005214242781,
+      "display_value": "0.2%"
+    },
+    {
+      "year": 2014,
+      "value": 0.84007140125002,
+      "display_value": "0.8%"
+    },
+    {
+      "year": 2015,
+      "value": 0.526257375234773,
+      "display_value": "0.5%"
+    },
+    {
+      "year": 2016,
+      "value": 0.454826976009781,
+      "display_value": "0.5%"
+    },
+    {
+      "year": 2017,
+      "value": 1.04614833216043,
+      "display_value": "1.0%"
+    },
+    {
+      "year": 2018,
+      "value": 0.388053713992331,
+      "display_value": "0.4%"
+    },
+    {
+      "year": 2019,
+      "value": -0.467597981446222,
+      "display_value": "-0.5%"
+    },
+    {
+      "year": 2020,
+      "value": 0.838426934763481,
+      "display_value": "0.8%"
+    },
+    {
+      "year": 2021,
+      "value": 0.470108287490767,
+      "display_value": "0.5%"
+    },
+    {
+      "year": 2022,
+      "value": -0.330188754999161,
+      "display_value": "-0.3%"
+    },
+    {
+      "year": 2023,
+      "value": -0.304824783653035,
+      "display_value": "-0.3%"
+    },
+    {
+      "year": 2024,
+      "value": 0.219359018925536,
+      "display_value": "0.2%"
+    },
+    {
+      "year": 2025,
+      "value": 0.266259706303851,
+      "display_value": "0.3%"
+    },
+    {
+      "year": 2026,
+      "value": 0.225930033,
+      "display_value": "0.2%"
+    }
+  ]
+}

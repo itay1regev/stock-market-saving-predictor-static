@@ -1,0 +1,83 @@
+{
+  "key": "unemployment_rate",
+  "label": "Unemployment Rate",
+  "category": "Labour",
+  "source": "FRED",
+  "points": [
+    {
+      "year": 2012,
+      "value": 6.809963,
+      "display_value": "6.8%"
+    },
+    {
+      "year": 2013,
+      "value": 5.824785,
+      "display_value": "5.8%"
+    },
+    {
+      "year": 2014,
+      "value": 5.68805,
+      "display_value": "5.7%"
+    },
+    {
+      "year": 2015,
+      "value": 5.208168,
+      "display_value": "5.2%"
+    },
+    {
+      "year": 2016,
+      "value": 4.253813,
+      "display_value": "4.3%"
+    },
+    {
+      "year": 2017,
+      "value": 4.100708,
+      "display_value": "4.1%"
+    },
+    {
+      "year": 2018,
+      "value": 4.225596,
+      "display_value": "4.2%"
+    },
+    {
+      "year": 2019,
+      "value": 3.573629,
+      "display_value": "3.6%"
+    },
+    {
+      "year": 2020,
+      "value": 4.773141,
+      "display_value": "4.8%"
+    },
+    {
+      "year": 2021,
+      "value": 4.036466,
+      "display_value": "4.0%"
+    },
+    {
+      "year": 2022,
+      "value": 4.161469,
+      "display_value": "4.2%"
+    },
+    {
+      "year": 2023,
+      "value": 3.252437,
+      "display_value": "3.3%"
+    },
+    {
+      "year": 2024,
+      "value": 2.763849,
+      "display_value": "2.8%"
+    },
+    {
+      "year": 2025,
+      "value": 3.146041,
+      "display_value": "3.1%"
+    },
+    {
+      "year": 2026,
+      "value": 3.026179,
+      "display_value": "3.0%"
+    }
+  ]
+}

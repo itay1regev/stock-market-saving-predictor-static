@@ -1,0 +1,607 @@
+{
+  "holdings": [
+    {
+      "security_name": "פועלים",
+      "security_number": "662577",
+      "ticker": "פעלים",
+      "weight_pct": 6.41,
+      "sector": "בנקים",
+      "display_weight_pct": "6.41%",
+      "display_security_ref": "662577 / פעלים"
+    },
+    {
+      "security_name": "לאומי",
+      "security_number": "604611",
+      "ticker": "לאומי",
+      "weight_pct": 6.11,
+      "sector": "בנקים",
+      "display_weight_pct": "6.11%",
+      "display_security_ref": "604611 / לאומי"
+    },
+    {
+      "security_name": "טבע",
+      "security_number": "629014",
+      "ticker": "טבע",
+      "weight_pct": 3.94,
+      "sector": "פארמה",
+      "display_weight_pct": "3.94%",
+      "display_security_ref": "629014 / טבע"
+    },
+    {
+      "security_name": "קנון",
+      "security_number": "1134139",
+      "ticker": "קנון",
+      "weight_pct": 3.61,
+      "sector": "אנרגיה",
+      "display_weight_pct": "3.61%",
+      "display_security_ref": "1134139 / קנון"
+    },
+    {
+      "security_name": "הראל השקעות",
+      "security_number": "585018",
+      "ticker": "הראל",
+      "weight_pct": 3.41,
+      "sector": "ביטוח",
+      "display_weight_pct": "3.41%",
+      "display_security_ref": "585018 / הראל"
+    },
+    {
+      "security_name": "נופר אנרגי",
+      "security_number": "1170877",
+      "ticker": "נופר",
+      "weight_pct": 3.26,
+      "sector": "אנרגיה מתחדשת",
+      "display_weight_pct": "3.26%",
+      "display_security_ref": "1170877 / נופר"
+    },
+    {
+      "security_name": "דיסקונט א",
+      "security_number": "691212",
+      "ticker": "דסקנט",
+      "weight_pct": 2.99,
+      "sector": "בנקים",
+      "display_weight_pct": "2.99%",
+      "display_security_ref": "691212 / דסקנט"
+    },
+    {
+      "security_name": "רמי לוי",
+      "security_number": "1104249",
+      "ticker": "רמלי",
+      "weight_pct": 2.56,
+      "sector": "רשתות שיווק",
+      "display_weight_pct": "2.56%",
+      "display_security_ref": "1104249 / רמלי"
+    },
+    {
+      "security_name": "טאואר",
+      "security_number": "1082379",
+      "ticker": "טאואר",
+      "weight_pct": 2.31,
+      "sector": "מוליכים למחצה",
+      "display_weight_pct": "2.31%",
+      "display_security_ref": "1082379 / טאואר"
+    },
+    {
+      "security_name": "ריט",
+      "security_number": "1098920",
+      "ticker": "ריט1",
+      "weight_pct": 2.25,
+      "sector": "נדל\"ן מניב בישראל",
+      "display_weight_pct": "2.25%",
+      "display_security_ref": "1098920 / ריט1"
+    },
+    {
+      "security_name": "בזק",
+      "security_number": "230011",
+      "ticker": "בזק",
+      "weight_pct": 2.15,
+      "sector": "תקשורת ומדיה",
+      "display_weight_pct": "2.15%",
+      "display_security_ref": "230011 / בזק"
+    },
+    {
+      "security_name": "הפניקס",
+      "security_number": "767012",
+      "ticker": "פנקס",
+      "weight_pct": 2.13,
+      "sector": "ביטוח",
+      "display_weight_pct": "2.13%",
+      "display_security_ref": "767012 / פנקס"
+    },
+    {
+      "security_name": "מגדל ביטוח",
+      "security_number": "1081165",
+      "ticker": "מגדל",
+      "weight_pct": 2.13,
+      "sector": "ביטוח",
+      "display_weight_pct": "2.13%",
+      "display_security_ref": "1081165 / מגדל"
+    },
+    {
+      "security_name": "חילן",
+      "security_number": "1084698",
+      "ticker": "חילן",
+      "weight_pct": 1.98,
+      "sector": "שרותי מידע",
+      "display_weight_pct": "1.98%",
+      "display_security_ref": "1084698 / חילן"
+    },
+    {
+      "security_name": "מטריקס",
+      "security_number": "445015",
+      "ticker": "מטרקס",
+      "weight_pct": 1.96,
+      "sector": "שרותי מידע",
+      "display_weight_pct": "1.96%",
+      "display_security_ref": "445015 / מטרקס"
+    },
+    {
+      "security_name": "אנלייט אנרגיה",
+      "security_number": "720011",
+      "ticker": "אנלט",
+      "weight_pct": 1.93,
+      "sector": "אנרגיה מתחדשת",
+      "display_weight_pct": "1.93%",
+      "display_security_ref": "720011 / אנלט"
+    },
+    {
+      "security_name": "אמות",
+      "security_number": "1097278",
+      "ticker": "אמות",
+      "weight_pct": 1.84,
+      "sector": "נדל\"ן מניב בישראל",
+      "display_weight_pct": "1.84%",
+      "display_security_ref": "1097278 / אמות"
+    },
+    {
+      "security_name": "פתאל החזקות",
+      "security_number": "1143429",
+      "ticker": "פתאל",
+      "weight_pct": 1.8,
+      "sector": "מלונאות ותיירות",
+      "display_weight_pct": "1.80%",
+      "display_security_ref": "1143429 / פתאל"
+    },
+    {
+      "security_name": "סולאיר",
+      "security_number": "1172287",
+      "ticker": "סלאר",
+      "weight_pct": 1.56,
+      "sector": "אנרגיה מתחדשת",
+      "display_weight_pct": "1.56%",
+      "display_security_ref": "1172287 / סלאר"
+    },
+    {
+      "security_name": "שטראוס",
+      "security_number": "746016",
+      "ticker": "שטרס",
+      "weight_pct": 1.56,
+      "sector": "מזון",
+      "display_weight_pct": "1.56%",
+      "display_security_ref": "746016 / שטרס"
+    },
+    {
+      "security_name": "גילת",
+      "security_number": "1082510",
+      "ticker": "גילת",
+      "weight_pct": 1.45,
+      "sector": "ציוד תקשורת",
+      "display_weight_pct": "1.45%",
+      "display_security_ref": "1082510 / גילת"
+    },
+    {
+      "security_name": "כלל עסקי ביטוח",
+      "security_number": "224014",
+      "ticker": "כללבט",
+      "weight_pct": 1.43,
+      "sector": "ביטוח",
+      "display_weight_pct": "1.43%",
+      "display_security_ref": "224014 / כללבט"
+    },
+    {
+      "security_name": "גנריישן קפיטל",
+      "security_number": "1156926",
+      "ticker": "גנרש",
+      "weight_pct": 1.41,
+      "sector": "השקעה ואחזקות",
+      "display_weight_pct": "1.41%",
+      "display_security_ref": "1156926 / גנרש"
+    },
+    {
+      "security_name": "ביג",
+      "security_number": "1097260",
+      "ticker": "ביג",
+      "weight_pct": 1.39,
+      "sector": "נדל\"ן מניב בישראל",
+      "display_weight_pct": "1.39%",
+      "display_security_ref": "1097260 / ביג"
+    },
+    {
+      "security_name": "ישרוטל",
+      "security_number": "1080985",
+      "ticker": "ישרטל",
+      "weight_pct": 1.38,
+      "sector": "מלונאות ותיירות",
+      "display_weight_pct": "1.38%",
+      "display_security_ref": "1080985 / ישרטל"
+    },
+    {
+      "security_name": "פוקס",
+      "security_number": "1087022",
+      "ticker": "פוקס",
+      "weight_pct": 1.36,
+      "sector": "רשתות שיווק",
+      "display_weight_pct": "1.36%",
+      "display_security_ref": "1087022 / פוקס"
+    },
+    {
+      "security_name": "אלוני חץ",
+      "security_number": "390013",
+      "ticker": "אלחץ",
+      "weight_pct": 1.33,
+      "sector": "נדל\"ן מניב בישראל",
+      "display_weight_pct": "1.33%",
+      "display_security_ref": "390013 / אלחץ"
+    },
+    {
+      "security_name": "פרטנר",
+      "security_number": "1083484",
+      "ticker": "פרטנר",
+      "weight_pct": 1.23,
+      "sector": "תקשורת ומדיה",
+      "display_weight_pct": "1.23%",
+      "display_security_ref": "1083484 / פרטנר"
+    },
+    {
+      "security_name": "אורמת טכנו",
+      "security_number": "1134402",
+      "ticker": "ארמת",
+      "weight_pct": 1.2,
+      "sector": "אנרגיה מתחדשת",
+      "display_weight_pct": "1.20%",
+      "display_security_ref": "1134402 / ארמת"
+    },
+    {
+      "security_name": "סלע נדלן",
+      "security_number": "1109644",
+      "ticker": "סלענד",
+      "weight_pct": 1.18,
+      "sector": "נדל\"ן מניב בישראל",
+      "display_weight_pct": "1.18%",
+      "display_security_ref": "1109644 / סלענד"
+    },
+    {
+      "security_name": "מליסרון",
+      "security_number": "323014",
+      "ticker": "מלסרן",
+      "weight_pct": 1.17,
+      "sector": "נדל\"ן מניב בישראל",
+      "display_weight_pct": "1.17%",
+      "display_security_ref": "323014 / מלסרן"
+    },
+    {
+      "security_name": "אלביט מערכות",
+      "security_number": "1081124",
+      "ticker": "אלבמע",
+      "weight_pct": 1.14,
+      "sector": "ביטחוניות",
+      "display_weight_pct": "1.14%",
+      "display_security_ref": "1081124 / אלבמע"
+    },
+    {
+      "security_name": "דלק קבוצה",
+      "security_number": "1084128",
+      "ticker": "דלקקב",
+      "weight_pct": 1.13,
+      "sector": "חיפושי נפט וגז",
+      "display_weight_pct": "1.13%",
+      "display_security_ref": "1084128 / דלקקב"
+    },
+    {
+      "security_name": "וואן טכנולוגיות",
+      "security_number": "161018",
+      "ticker": "וואן",
+      "weight_pct": 1.09,
+      "sector": "שרותי מידע",
+      "display_weight_pct": "1.09%",
+      "display_security_ref": "161018 / וואן"
+    },
+    {
+      "security_name": "קרסו מוטורס",
+      "security_number": "1123850",
+      "ticker": "קרסמ",
+      "weight_pct": 1.08,
+      "sector": "מסחר",
+      "display_weight_pct": "1.08%",
+      "display_security_ref": "1123850 / קרסמ"
+    },
+    {
+      "security_name": "חברה לישראל",
+      "security_number": "576017",
+      "ticker": "חל",
+      "weight_pct": 1.06,
+      "sector": "כימיה, גומי ופלסטיק",
+      "display_weight_pct": "1.06%",
+      "display_security_ref": "576017 / חל"
+    },
+    {
+      "security_name": "שופרסל",
+      "security_number": "777037",
+      "ticker": "שפרסל",
+      "weight_pct": 1.03,
+      "sector": "רשתות שיווק",
+      "display_weight_pct": "1.03%",
+      "display_security_ref": "777037 / שפרסל"
+    },
+    {
+      "security_name": "נייס",
+      "security_number": "273011",
+      "ticker": "נייס",
+      "weight_pct": 1.02,
+      "sector": "תוכנה ואינטרנט",
+      "display_weight_pct": "1.02%",
+      "display_security_ref": "273011 / נייס"
+    },
+    {
+      "security_name": "פז אנרגיה",
+      "security_number": "1100007",
+      "ticker": "פז",
+      "weight_pct": 0.98,
+      "sector": "אנרגיה",
+      "display_weight_pct": "0.98%",
+      "display_security_ref": "1100007 / פז"
+    },
+    {
+      "security_name": "נטו מלינדה",
+      "security_number": "1105097",
+      "ticker": "נטמל",
+      "weight_pct": 0.9,
+      "sector": "מסחר",
+      "display_weight_pct": "0.90%",
+      "display_security_ref": "1105097 / נטמל"
+    },
+    {
+      "security_name": "יוחננוף",
+      "security_number": "1161264",
+      "ticker": "יחנפ",
+      "weight_pct": 0.86,
+      "sector": "רשתות שיווק",
+      "display_weight_pct": "0.86%",
+      "display_security_ref": "1161264 / יחנפ"
+    },
+    {
+      "security_name": "קבוצת תדהר",
+      "security_number": "1242528",
+      "ticker": "תדהר",
+      "weight_pct": 0.84,
+      "sector": "נדל\"ן מניב בישראל",
+      "display_weight_pct": "0.84%",
+      "display_security_ref": "1242528 / תדהר"
+    },
+    {
+      "security_name": "בזן",
+      "security_number": "2590248",
+      "ticker": "בזן",
+      "weight_pct": 0.78,
+      "sector": "אנרגיה",
+      "display_weight_pct": "0.78%",
+      "display_security_ref": "2590248 / בזן"
+    },
+    {
+      "security_name": "רימון",
+      "security_number": "1178722",
+      "ticker": "רמון",
+      "weight_pct": 0.78,
+      "sector": "בנייה",
+      "display_weight_pct": "0.78%",
+      "display_security_ref": "1178722 / רמון"
+    },
+    {
+      "security_name": "או פי סי אנרגיה",
+      "security_number": "1141571",
+      "ticker": "אפסא",
+      "weight_pct": 0.76,
+      "sector": "אנרגיה",
+      "display_weight_pct": "0.76%",
+      "display_security_ref": "1141571 / אפסא"
+    },
+    {
+      "security_name": "דנאל",
+      "security_number": "314013",
+      "ticker": "דנאל",
+      "weight_pct": 0.75,
+      "sector": "שרותים",
+      "display_weight_pct": "0.75%",
+      "display_security_ref": "314013 / דנאל"
+    },
+    {
+      "security_name": "עזריאלי קבוצה",
+      "security_number": "1119478",
+      "ticker": "עזרל",
+      "weight_pct": 0.75,
+      "sector": "נדל\"ן מניב בישראל",
+      "display_weight_pct": "0.75%",
+      "display_security_ref": "1119478 / עזרל"
+    },
+    {
+      "security_name": "איי.סי.אל",
+      "security_number": "281014",
+      "ticker": "איסל",
+      "weight_pct": 0.72,
+      "sector": "כימיה, גומי ופלסטיק",
+      "display_weight_pct": "0.72%",
+      "display_security_ref": "281014 / איסל"
+    },
+    {
+      "security_name": "דמרי",
+      "security_number": "1090315",
+      "ticker": "דמרי",
+      "weight_pct": 0.72,
+      "sector": "בנייה",
+      "display_weight_pct": "0.72%",
+      "display_security_ref": "1090315 / דמרי"
+    },
+    {
+      "security_name": "ישראכרט",
+      "security_number": "1157403",
+      "ticker": "ישכט",
+      "weight_pct": 0.69,
+      "sector": "שרותים פיננסיים",
+      "display_weight_pct": "0.69%",
+      "display_security_ref": "1157403 / ישכט"
+    },
+    {
+      "security_name": "מבטח שמיר",
+      "security_number": "127019",
+      "ticker": "מבשמ",
+      "weight_pct": 0.69,
+      "sector": "השקעה ואחזקות",
+      "display_weight_pct": "0.69%",
+      "display_security_ref": "127019 / מבשמ"
+    },
+    {
+      "security_name": "מגה אור",
+      "security_number": "1104488",
+      "ticker": "מגאר",
+      "weight_pct": 0.66,
+      "sector": "נדל\"ן מניב בישראל",
+      "display_weight_pct": "0.66%",
+      "display_security_ref": "1104488 / מגאר"
+    },
+    {
+      "security_name": "אל על",
+      "security_number": "1087824",
+      "ticker": "אלעל",
+      "weight_pct": 0.56,
+      "sector": "שרותים",
+      "display_weight_pct": "0.56%",
+      "display_security_ref": "1087824 / אלעל"
+    },
+    {
+      "security_name": "ויליפוד אינטרנש",
+      "security_number": "1082858",
+      "ticker": "וילפ",
+      "weight_pct": 0.56,
+      "sector": "מסחר",
+      "display_weight_pct": "0.56%",
+      "display_security_ref": "1082858 / וילפ"
+    },
+    {
+      "security_name": "לפידות קפיטל",
+      "security_number": "642017",
+      "ticker": "לפדת",
+      "weight_pct": 0.46,
+      "sector": "השקעה ואחזקות",
+      "display_weight_pct": "0.46%",
+      "display_security_ref": "642017 / לפדת"
+    },
+    {
+      "security_name": "ישראל קנדה",
+      "security_number": "434019",
+      "ticker": "ישקנ",
+      "weight_pct": 0.38,
+      "sector": "בנייה",
+      "display_weight_pct": "0.38%",
+      "display_security_ref": "434019 / ישקנ"
+    },
+    {
+      "security_name": "דניה סיבוס",
+      "security_number": "1173137",
+      "ticker": "דניה",
+      "weight_pct": 0.35,
+      "sector": "בנייה",
+      "display_weight_pct": "0.35%",
+      "display_security_ref": "1173137 / דניה"
+    },
+    {
+      "security_name": "תמר פטרוליום",
+      "security_number": "1141357",
+      "ticker": "תמרפ",
+      "weight_pct": 0.32,
+      "sector": "חיפושי נפט וגז",
+      "display_weight_pct": "0.32%",
+      "display_security_ref": "1141357 / תמרפ"
+    },
+    {
+      "security_name": "נכסים ובנין",
+      "security_number": "699017",
+      "ticker": "נכסבנ",
+      "weight_pct": 0.31,
+      "sector": "נדל\"ן מניב בישראל",
+      "display_weight_pct": "0.31%",
+      "display_security_ref": "699017 / נכסבנ"
+    },
+    {
+      "security_name": "שוב אנרגיה",
+      "security_number": "1188242",
+      "ticker": "שובא",
+      "weight_pct": 0.23,
+      "sector": "אנרגיה",
+      "display_weight_pct": "0.23%",
+      "display_security_ref": "1188242 / שובא"
+    },
+    {
+      "security_name": "סנו",
+      "security_number": "813014",
+      "ticker": "סנו",
+      "weight_pct": 0.2,
+      "sector": "כימיה, גומי ופלסטיק",
+      "display_weight_pct": "0.20%",
+      "display_security_ref": "813014 / סנו"
+    },
+    {
+      "security_name": "שיכון ובינוי",
+      "security_number": "1081942",
+      "ticker": "שוב",
+      "weight_pct": 0.2,
+      "sector": "בנייה",
+      "display_weight_pct": "0.20%",
+      "display_security_ref": "1081942 / שוב"
+    },
+    {
+      "security_name": "יעקב פיננסים",
+      "security_number": "1185057",
+      "ticker": "יקפנ",
+      "weight_pct": 0.19,
+      "sector": "אשראי חוץ בנקאי",
+      "display_weight_pct": "0.19%",
+      "display_security_ref": "1185057 / יקפנ"
+    },
+    {
+      "security_name": "אלומיי",
+      "security_number": "1082635",
+      "ticker": "אלומ",
+      "weight_pct": 0.1,
+      "sector": "אנרגיה מתחדשת",
+      "display_weight_pct": "0.10%",
+      "display_security_ref": "1082635 / אלומ"
+    },
+    {
+      "security_name": "נובולוג",
+      "security_number": "1140151",
+      "ticker": "נבלג",
+      "weight_pct": 0.1,
+      "sector": "שרותים",
+      "display_weight_pct": "0.10%",
+      "display_security_ref": "1140151 / נבלג"
+    },
+    {
+      "security_name": "ריטיילורס",
+      "security_number": "1175488",
+      "ticker": "רטלס",
+      "weight_pct": 0.1,
+      "sector": "רשתות שיווק",
+      "display_weight_pct": "0.10%",
+      "display_security_ref": "1175488 / רטלס"
+    },
+    {
+      "security_name": "פורמולה מערכות",
+      "security_number": "256016",
+      "ticker": "פרמלה",
+      "weight_pct": 0.06,
+      "sector": "שרותי מידע",
+      "display_weight_pct": "0.06%",
+      "display_security_ref": "256016 / פרמלה"
+    }
+  ]
+}

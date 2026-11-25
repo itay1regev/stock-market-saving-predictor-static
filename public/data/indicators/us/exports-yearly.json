@@ -1,0 +1,183 @@
+{
+  "key": "exports",
+  "label": "Exports",
+  "category": "Trade",
+  "source": "FRED",
+  "points": [
+    {
+      "year": 1992,
+      "value": 51843.0,
+      "display_value": "$51.8B"
+    },
+    {
+      "year": 1993,
+      "value": 55552.0,
+      "display_value": "$55.6B"
+    },
+    {
+      "year": 1994,
+      "value": 62825.0,
+      "display_value": "$62.8B"
+    },
+    {
+      "year": 1995,
+      "value": 69071.0,
+      "display_value": "$69.1B"
+    },
+    {
+      "year": 1996,
+      "value": 72842.0,
+      "display_value": "$72.8B"
+    },
+    {
+      "year": 1997,
+      "value": 79038.0,
+      "display_value": "$79.0B"
+    },
+    {
+      "year": 1998,
+      "value": 78382.0,
+      "display_value": "$78.4B"
+    },
+    {
+      "year": 1999,
+      "value": 86006.0,
+      "display_value": "$86.0B"
+    },
+    {
+      "year": 2000,
+      "value": 90857.0,
+      "display_value": "$90.9B"
+    },
+    {
+      "year": 2001,
+      "value": 77677.0,
+      "display_value": "$77.7B"
+    },
+    {
+      "year": 2002,
+      "value": 81444.0,
+      "display_value": "$81.4B"
+    },
+    {
+      "year": 2003,
+      "value": 90895.0,
+      "display_value": "$90.9B"
+    },
+    {
+      "year": 2004,
+      "value": 102659.0,
+      "display_value": "$102.7B"
+    },
+    {
+      "year": 2005,
+      "value": 113695.0,
+      "display_value": "$113.7B"
+    },
+    {
+      "year": 2006,
+      "value": 128648.0,
+      "display_value": "$128.6B"
+    },
+    {
+      "year": 2007,
+      "value": 147257.0,
+      "display_value": "$147.3B"
+    },
+    {
+      "year": 2008,
+      "value": 132287.0,
+      "display_value": "$132.3B"
+    },
+    {
+      "year": 2009,
+      "value": 145296.0,
+      "display_value": "$145.3B"
+    },
+    {
+      "year": 2010,
+      "value": 168290.0,
+      "display_value": "$168.3B"
+    },
+    {
+      "year": 2011,
+      "value": 182165.0,
+      "display_value": "$182.2B"
+    },
+    {
+      "year": 2012,
+      "value": 192119.0,
+      "display_value": "$192.1B"
+    },
+    {
+      "year": 2013,
+      "value": 196225.0,
+      "display_value": "$196.2B"
+    },
+    {
+      "year": 2014,
+      "value": 198286.0,
+      "display_value": "$198.3B"
+    },
+    {
+      "year": 2015,
+      "value": 184447.0,
+      "display_value": "$184.4B"
+    },
+    {
+      "year": 2016,
+      "value": 192465.0,
+      "display_value": "$192.5B"
+    },
+    {
+      "year": 2017,
+      "value": 209554.0,
+      "display_value": "$209.6B"
+    },
+    {
+      "year": 2018,
+      "value": 209293.0,
+      "display_value": "$209.3B"
+    },
+    {
+      "year": 2019,
+      "value": 213425.0,
+      "display_value": "$213.4B"
+    },
+    {
+      "year": 2020,
+      "value": 196417.0,
+      "display_value": "$196.4B"
+    },
+    {
+      "year": 2021,
+      "value": 236391.0,
+      "display_value": "$236.4B"
+    },
+    {
+      "year": 2022,
+      "value": 253566.0,
+      "display_value": "$253.6B"
+    },
+    {
+      "year": 2023,
+      "value": 262726.0,
+      "display_value": "$262.7B"
+    },
+    {
+      "year": 2024,
+      "value": 270627.0,
+      "display_value": "$270.6B"
+    },
+    {
+      "year": 2025,
+      "value": 285282.0,
+      "display_value": "$285.3B"
+    },
+    {
+      "year": 2026,
+      "value": 321511.0,
+      "display_value": "$321.5B"
+    }
+  ]
+}
