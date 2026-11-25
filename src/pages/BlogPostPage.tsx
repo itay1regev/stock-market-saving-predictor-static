@@ -39,7 +39,11 @@ export default function BlogPostPage() {
       {!loading && !error && post && (
         <article className="mt-4">
           {post.cover_image && (
-            <img src={post.cover_image} alt="" className="mb-6 h-64 w-full rounded-lg object-cover" />
+            <img
+              src={import.meta.env.BASE_URL + post.cover_image.replace(/^\//, '')}
+              alt=""
+              className="mb-6 h-64 w-full rounded-lg object-cover"
+            />
           )}
           <span className="rounded-full bg-slate-100 px-2 py-0.5 text-xs font-medium text-slate-600">
             {post.category}

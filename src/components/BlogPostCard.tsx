@@ -10,7 +10,11 @@ export default function BlogPostCard({ post }: Props) {
     <article className="overflow-hidden rounded-lg border border-slate-200 bg-white shadow-sm">
       <Link to={`/blog/${post.slug}`} className="block">
         {post.cover_image && (
-          <img src={post.cover_image} alt="" className="h-40 w-full object-cover" />
+          <img
+            src={import.meta.env.BASE_URL + post.cover_image.replace(/^\//, '')}
+            alt=""
+            className="h-40 w-full object-cover"
+          />
         )}
         <div className="p-5">
           <div className="flex flex-wrap items-center gap-2 text-xs text-slate-400">

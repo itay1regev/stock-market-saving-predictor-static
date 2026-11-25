@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420">
+  <rect width="800" height="420" fill="#0f172a"/>
+  <text x="48" y="150" font-family="system-ui, sans-serif" font-size="28" font-weight="700" fill="#ff9900">AMZN</text>
+  <text x="48" y="210" font-family="system-ui, sans-serif" font-size="40" font-weight="700" fill="#ffffff">Buying the</text>
+  <text x="48" y="260" font-family="system-ui, sans-serif" font-size="40" font-weight="700" fill="#ffffff">AI Chip Stack</text>
+  <path stroke="#34d399" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M48 350l30-32 24 24 46-52" fill="none"/>
+</svg>

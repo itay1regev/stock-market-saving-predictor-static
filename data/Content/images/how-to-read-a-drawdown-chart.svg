@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420">
+  <rect width="800" height="420" fill="#0f172a"/>
+  <text x="48" y="200" font-family="system-ui, sans-serif" font-size="46" font-weight="700" fill="#ffffff">How to Read a</text>
+  <text x="48" y="256" font-family="system-ui, sans-serif" font-size="46" font-weight="700" fill="#ffffff">Drawdown Chart</text>
+  <path stroke="#ef4444" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M48 320l40 20 30-70 40 30" fill="none"/>
+</svg>
