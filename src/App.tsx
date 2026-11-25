@@ -1,4 +1,4 @@
-import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom'
+import { HashRouter, Navigate, Route, Routes } from 'react-router-dom'
 import Navbar from './components/Navbar'
 import BacktestPage from './pages/BacktestPage'
 import BlogListPage from './pages/BlogListPage'
@@ -12,7 +12,7 @@ import ReitStockPage from './pages/ReitStockPage'
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="min-h-screen bg-slate-50">
         <Navbar />
         <Routes>
@@ -29,7 +29,7 @@ function App() {
           <Route path="*" element={<Navigate to="/backtest" replace />} />
         </Routes>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
 
