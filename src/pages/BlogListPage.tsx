@@ -8,7 +8,7 @@ export default function BlogListPage() {
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
-    fetch('/data/blog-posts.json')
+    fetch(import.meta.env.BASE_URL + 'data/blog-posts.json')
       .then((r) => r.json())
       .then(setPosts)
       .finally(() => setLoading(false))

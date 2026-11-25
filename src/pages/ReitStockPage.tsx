@@ -40,7 +40,7 @@ export default function ReitStockPage() {
     if (!securityId) return
     setLoading(true)
     setError('')
-    fetch(`/data/reit-stocks/${securityId}.json`)
+    fetch(`${import.meta.env.BASE_URL}data/reit-stocks/${securityId}.json`)
       .then((r) => {
         if (!r.ok) throw new Error('not found')
         return r.json()

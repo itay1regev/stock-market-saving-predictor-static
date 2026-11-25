@@ -14,7 +14,7 @@ export default function BlogPostPage() {
     if (!slug) return
     setLoading(true)
     setError('')
-    fetch('/data/blog-posts.json')
+    fetch(import.meta.env.BASE_URL + 'data/blog-posts.json')
       .then((r) => r.json())
       .then((posts: BlogPost[]) => {
         const found = posts.find((p) => p.slug === slug)

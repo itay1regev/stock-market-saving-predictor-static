@@ -30,7 +30,7 @@ export default function BacktestPage() {
   const [error, setError] = useState('')
 
   useEffect(() => {
-    fetch('/data/backtest-scenarios.json')
+    fetch(import.meta.env.BASE_URL + 'data/backtest-scenarios.json')
       .then((r) => {
         if (!r.ok) throw new Error('Could not load backtest scenarios.')
         return r.json()

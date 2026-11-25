@@ -11,7 +11,7 @@ const INDEX_CONFIG: Record<CompanyIndex, { title: string; description: string; d
     title: 'TA-125 companies by index weight',
     description:
       'Constituents of the Tel Aviv 125 index, ranked by index weight. Click a column header to sort. Snapshot from bizportal.co.il taken when this site was last built -- not a live feed.',
-    dataUrl: '/data/companies/ta125.json',
+    dataUrl: import.meta.env.BASE_URL + 'data/companies/ta125.json',
   },
 }
 

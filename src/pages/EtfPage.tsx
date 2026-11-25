@@ -26,62 +26,62 @@ const INDEX_CONFIG: Record<
     title: 'S&P 500 ETFs',
     description:
       'Compare ETFs that track the S&P 500 index, ranked by assets under management. Click a column header to sort. Data is a snapshot taken from Yahoo Finance when this site was last built.',
-    dataUrl: '/data/etfs/sp500.json',
+    dataUrl: import.meta.env.BASE_URL + 'data/etfs/sp500.json',
   },
   'msci-world': {
     title: 'MSCI World ETFs',
     description:
       'Compare ETFs that track the MSCI World index, ranked by assets under management. Click a column header to sort. Data is a snapshot taken from Yahoo Finance when this site was last built.',
-    dataUrl: '/data/etfs/msci-world.json',
+    dataUrl: import.meta.env.BASE_URL + 'data/etfs/msci-world.json',
   },
   nasdaq100: {
     title: 'Nasdaq 100 ETFs',
     description:
       'Compare ETFs that track the Nasdaq-100 index, ranked by assets under management. Click a column header to sort. Data is a snapshot taken from Yahoo Finance when this site was last built.',
-    dataUrl: '/data/etfs/nasdaq100.json',
+    dataUrl: import.meta.env.BASE_URL + 'data/etfs/nasdaq100.json',
   },
   bond: {
     title: 'Bond ETFs',
     description:
       'Compare short-term U.S. Treasury bond ETFs, ranked by assets under management. Click a column header to sort. Data is a snapshot taken from Yahoo Finance when this site was last built.',
-    dataUrl: '/data/etfs/bond.json',
+    dataUrl: import.meta.env.BASE_URL + 'data/etfs/bond.json',
   },
   'israel-sp500': {
     title: 'S&P 500 ETF - Israel',
     description:
       'Compare Israeli (TASE-listed) index-tracking mutual funds ("קרנות מחקות") that track the S&P 500, both currency-unhedged and currency-hedged, ranked by fund size. Click a column header to sort. Prices/returns are a funder.co.il snapshot -- not a live feed, since these funds aren’t on Yahoo Finance.',
-    dataUrl: '/data/etfs/israel-sp500.json',
+    dataUrl: import.meta.env.BASE_URL + 'data/etfs/israel-sp500.json',
   },
   'israel-nasdaq100': {
     title: 'Nasdaq 100 ETF - Israel',
     description:
       'Compare Israeli (TASE-listed) index-tracking mutual funds ("קרנות מחקות") that track the Nasdaq-100, ranked by fund size. Click a column header to sort. Prices/returns are a funder.co.il snapshot -- not a live feed, since these funds aren’t on Yahoo Finance.',
-    dataUrl: '/data/etfs/israel-nasdaq100.json',
+    dataUrl: import.meta.env.BASE_URL + 'data/etfs/israel-nasdaq100.json',
   },
   'israel-msci-world': {
     title: 'MSCI World - TASE (Israel)',
     description:
       'Compare Israeli (TASE-listed) index-tracking mutual funds ("קרנות מחקות") that track the MSCI World index, both currency-unhedged and currency-hedged, ranked by fund size. Click a column header to sort. Prices/returns are a funder.co.il snapshot -- not a live feed, since these funds aren’t on Yahoo Finance.',
-    dataUrl: '/data/etfs/israel-msci-world.json',
+    dataUrl: import.meta.env.BASE_URL + 'data/etfs/israel-msci-world.json',
   },
   'israel-ta125': {
     title: 'TA 125 - TASE (Israel)',
     description:
       'Compare Israeli (TASE-listed) index-tracking mutual funds ("קרנות מחקות") that track the Tel Aviv 125 index, ranked by fund size. Click a column header to sort. Prices/returns are a funder.co.il snapshot -- not a live feed, since these funds aren’t on Yahoo Finance.',
-    dataUrl: '/data/etfs/israel-ta125.json',
+    dataUrl: import.meta.env.BASE_URL + 'data/etfs/israel-ta125.json',
   },
   'ishares-tase': {
     title: 'Ishares - TASE (Israel)',
     description:
       'Compare iShares (BlackRock Ireland) UCITS ETFs cross-listed for trading on the TASE, ranked in funder.co.il\'s order. Click a column header to sort. Price/change are a funder.co.il snapshot -- not a live feed. funder.co.il does not assign an official ענף (sector) classification to these foreign-listed funds, so the Sector column is inferred from each fund\'s tracked index. Management fee and fund size aren\'t published there either, so those columns show "—".',
-    dataUrl: '/data/etfs/ishares-tase.json',
+    dataUrl: import.meta.env.BASE_URL + 'data/etfs/ishares-tase.json',
     hideColumns: ['ytd_return_pct'],
   },
   'sector-exposure': {
     title: 'Sector Exposure',
     description:
       'Compare Israeli (TASE-listed) sector index-tracking funds ("קרנות מחקות"), ranked by fund size. Click a column header to sort. Price/return/fees are a funder.co.il snapshot -- not a live feed, since these funds aren\'t on Yahoo Finance.',
-    dataUrl: '/data/etfs/sector-exposure.json',
+    dataUrl: import.meta.env.BASE_URL + 'data/etfs/sector-exposure.json',
   },
 }
 

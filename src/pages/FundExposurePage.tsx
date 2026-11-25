@@ -12,13 +12,13 @@ const FUND_CONFIG: Record<FundKey, { title: string; description: string; dataUrl
     title: 'MOR ISRAEL TA-125',
     description:
       'Equity holdings of the MOR Israel TA-125 tracking fund (TASE fund number 5119466), ranked by % of fund. Click a column header to sort. Snapshot from funder.co.il\'s fund composition ("הרכב הקרן") taken when this site was last built -- not a live feed.',
-    dataUrl: '/data/fund-exposure/mor-israel-ta125.json',
+    dataUrl: import.meta.env.BASE_URL + 'data/fund-exposure/mor-israel-ta125.json',
   },
   'yalin-lapidot-ta125-value': {
     title: 'Yalin Lapidot TA 125 Value',
     description:
       'Equity holdings of the Yelin Lapidot TA-125 Value tracking fund (TASE fund number 5128368), ranked by % of fund. Click a column header to sort. Snapshot from funder.co.il\'s fund composition ("הרכב הקרן") taken when this site was last built -- not a live feed.',
-    dataUrl: '/data/fund-exposure/yalin-lapidot-ta125-value.json',
+    dataUrl: import.meta.env.BASE_URL + 'data/fund-exposure/yalin-lapidot-ta125-value.json',
   },
 }
 

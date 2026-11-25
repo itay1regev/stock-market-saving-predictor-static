@@ -92,7 +92,7 @@ export default function CompanyDetailPage() {
     setLoading(true)
     setError('')
     setPeriod('quarterly')
-    fetch(`/data/companies/ta125/${id}.json`)
+    fetch(`${import.meta.env.BASE_URL}data/companies/ta125/${id}.json`)
       .then((r) => {
         if (!r.ok) throw new Error('not found')
         return r.json()

@@ -134,7 +134,7 @@ function YearlyIndicatorModal({
   useEffect(() => {
     setLoading(true)
     setError('')
-    fetch(`/data/indicators/${country}/${indicator.key}-yearly.json`)
+    fetch(`${import.meta.env.BASE_URL}data/indicators/${country}/${indicator.key}-yearly.json`)
       .then((r) => {
         if (!r.ok) throw new Error('not found')
         return r.json()
@@ -228,7 +228,7 @@ export default function IndicatorsPage() {
   useEffect(() => {
     setLoading(true)
     setError('')
-    fetch(`/data/indicators/${resolvedCountry}.json`)
+    fetch(`${import.meta.env.BASE_URL}data/indicators/${resolvedCountry}.json`)
       .then((r) => r.json())
       .then((data: IndicatorsResponse) => setIndicators(data.indicators))
       .catch(() => setError('Could not load indicators right now. Try again in a moment.'))
