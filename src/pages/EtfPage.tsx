@@ -3,6 +3,7 @@ import { useParams } from 'react-router-dom'
 import type { Etf, EtfsResponse } from '../types'
 import { LoadingState, ErrorState } from '../components/StatusMessage'
 import { ChevronIcon } from '../components/icons'
+import DataDisclaimer from '../components/DataDisclaimer'
 
 type EtfIndex =
   | 'sp500'
@@ -233,6 +234,7 @@ export default function EtfPage() {
           </table>
         </div>
       )}
+      <DataDisclaimer source={config.description.includes('funder.co.il') ? 'funder.co.il' : 'Yahoo Finance'} />
     </div>
   )
 }

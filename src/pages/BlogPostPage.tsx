@@ -3,6 +3,7 @@ import { Link, useParams } from 'react-router-dom'
 import { marked } from 'marked'
 import type { BlogPost } from '../types'
 import { LoadingState, ErrorState } from '../components/StatusMessage'
+import DataDisclaimer from '../components/DataDisclaimer'
 
 export default function BlogPostPage() {
   const { slug } = useParams<{ slug: string }>()
@@ -58,6 +59,7 @@ export default function BlogPostPage() {
           />
         </article>
       )}
+      <DataDisclaimer />
     </div>
   )
 }

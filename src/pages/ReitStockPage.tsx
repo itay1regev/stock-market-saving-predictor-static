@@ -15,6 +15,7 @@ import {
 import type { ReitStockDetail, ReitYear } from '../types'
 import { LoadingState, ErrorState } from '../components/StatusMessage'
 import StatCard from '../components/StatCard'
+import DataDisclaimer from '../components/DataDisclaimer'
 
 function midpoint(range: ReitYear['noi']): number | null {
   if (range.value != null) return range.value
@@ -242,6 +243,7 @@ export default function ReitStockPage() {
           <p className="whitespace-pre-line text-sm leading-relaxed text-slate-700">{data.detail.description}</p>
         )}
       </div>
+      <DataDisclaimer source="company reports filed on TASE MAYA, bizportal.co.il" />
     </div>
   )
 }

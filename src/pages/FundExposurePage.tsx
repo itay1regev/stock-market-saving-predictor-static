@@ -4,6 +4,7 @@ import { Cell, Legend, Pie, PieChart, ResponsiveContainer, Tooltip } from 'recha
 import type { FundHolding, FundHoldingsResponse } from '../types'
 import { LoadingState, ErrorState } from '../components/StatusMessage'
 import { ChevronIcon } from '../components/icons'
+import DataDisclaimer from '../components/DataDisclaimer'
 
 type FundKey = 'mor-israel-ta125' | 'yalin-lapidot-ta125-value'
 
@@ -141,6 +142,7 @@ export default function FundExposurePage() {
           </div>
         </>
       )}
+      <DataDisclaimer source="funder.co.il" />
     </div>
   )
 }

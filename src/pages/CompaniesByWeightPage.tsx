@@ -3,6 +3,7 @@ import { useParams } from 'react-router-dom'
 import type { Company, CompaniesResponse } from '../types'
 import { LoadingState, ErrorState } from '../components/StatusMessage'
 import CompanyTable from '../components/CompanyTable'
+import DataDisclaimer from '../components/DataDisclaimer'
 
 type CompanyIndex = 'ta125'
 
@@ -42,6 +43,7 @@ export default function CompaniesByWeightPage() {
       {error && <ErrorState message={error} />}
 
       {!loading && !error && <CompanyTable companies={companies} />}
+      <DataDisclaimer source="bizportal.co.il" />
     </div>
   )
 }

@@ -4,6 +4,7 @@ import { CartesianGrid, Line, LineChart, ResponsiveContainer, Tooltip, XAxis, YA
 import type { Indicator, IndicatorCountry, IndicatorsResponse, IndicatorYearlySeries, YearlyPoint } from '../types'
 import { LoadingState, ErrorState } from '../components/StatusMessage'
 import { CloseIcon, TrendIcon } from '../components/icons'
+import DataDisclaimer from '../components/DataDisclaimer'
 
 const dateFormatter = new Intl.DateTimeFormat('en-US', { year: 'numeric', month: 'short', day: 'numeric' })
 const axisMonthFormatter = new Intl.DateTimeFormat('en-US', { month: 'short' })
@@ -275,6 +276,7 @@ export default function IndicatorsPage() {
       {selected && (
         <YearlyIndicatorModal country={resolvedCountry} indicator={selected} onClose={() => setSelected(null)} />
       )}
+      <DataDisclaimer source="Federal Reserve Bank of St. Louis (FRED)" />
     </div>
   )
 }

@@ -2,6 +2,7 @@ import { Fragment, useEffect, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import type { CompanyDetail, PeriodicReportTable, ReportTable } from '../types'
 import { LoadingState, ErrorState } from '../components/StatusMessage'
+import DataDisclaimer from '../components/DataDisclaimer'
 
 type Period = 'quarterly' | 'yearly'
 
@@ -190,6 +191,7 @@ export default function CompanyDetailPage() {
           </section>
         </>
       )}
+      <DataDisclaimer source="bizportal.co.il, Tel Aviv Stock Exchange (TASE)" />
     </div>
   )
 }

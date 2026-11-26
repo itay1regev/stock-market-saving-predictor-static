@@ -15,6 +15,7 @@ import {
 import type { BacktestResult } from '../types'
 import { ErrorState, LoadingState } from '../components/StatusMessage'
 import StatCard from '../components/StatCard'
+import DataDisclaimer from '../components/DataDisclaimer'
 
 type Scenario = BacktestResult & { scenario_id: string; scenario_label: string }
 type ScenarioMap = Record<string, Scenario>
@@ -231,6 +232,7 @@ export default function BacktestPage() {
           </p>
         </div>
       )}
+      <DataDisclaimer source="Yahoo Finance" />
     </div>
   )
 }
