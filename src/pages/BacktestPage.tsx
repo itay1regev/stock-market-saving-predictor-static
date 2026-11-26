@@ -58,22 +58,17 @@ export default function BacktestPage() {
 
   return (
     <div className="mx-auto max-w-5xl px-4 py-8">
-      <h1 className="mb-2 text-2xl font-semibold text-slate-900">Backtest a Portfolio</h1>
-      <p className="mb-6 text-sm text-slate-500">
-        This static build ships a fixed set of pre-calculated scenarios (computed from real historical prices at
-        build time) instead of running a live backtest -- pick one below to see how it would have actually
-        performed, including recurring contributions, volatility, drawdowns, and year-by-year returns.
-      </p>
+      <h1 className="mb-6 text-2xl font-semibold text-slate-900">Backtest a Portfolio</h1>
 
       <div className="rounded-lg border border-slate-200 bg-white p-6 shadow-sm">
         <label className="flex flex-col gap-1 text-sm font-medium text-slate-700">
-          Scenario
           {loading ? (
             <LoadingState />
           ) : error ? (
             <ErrorState message={error} />
           ) : (
             <select
+              aria-label="Scenario"
               value={scenarioId}
               onChange={(e) => setScenarioId(e.target.value)}
               className="rounded-md border border-slate-300 px-3 py-2 text-sm"

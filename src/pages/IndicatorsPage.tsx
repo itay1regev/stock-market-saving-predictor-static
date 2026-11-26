@@ -248,12 +248,7 @@ export default function IndicatorsPage() {
 
   return (
     <div className="mx-auto max-w-5xl px-4 py-8">
-      <h1 className="mb-2 text-2xl font-semibold text-slate-900">{COUNTRY_LABEL[resolvedCountry]} Economic Indicators</h1>
-      <p className="mb-6 text-sm text-slate-500">
-        Key macroeconomic data for {COUNTRY_LABEL[resolvedCountry]}, a snapshot taken from the Federal Reserve's FRED
-        database when this site was last built. Each card shows the latest value, the prior reading, and the trend
-        over recent periods.
-      </p>
+      <h1 className="mb-6 text-2xl font-semibold text-slate-900">{COUNTRY_LABEL[resolvedCountry]} Economic Indicators</h1>
 
       {loading && <LoadingState message="Loading indicators…" />}
       {error && <ErrorState message={error} />}

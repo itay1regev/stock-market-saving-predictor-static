@@ -8,17 +8,13 @@ import DataDisclaimer from '../components/DataDisclaimer'
 
 type FundKey = 'mor-israel-ta125' | 'yalin-lapidot-ta125-value'
 
-const FUND_CONFIG: Record<FundKey, { title: string; description: string; dataUrl: string }> = {
+const FUND_CONFIG: Record<FundKey, { title: string; dataUrl: string }> = {
   'mor-israel-ta125': {
     title: 'MOR ISRAEL TA-125',
-    description:
-      'Equity holdings of the MOR Israel TA-125 tracking fund (TASE fund number 5119466), ranked by % of fund. Click a column header to sort. Snapshot from funder.co.il\'s fund composition ("הרכב הקרן") taken when this site was last built -- not a live feed.',
     dataUrl: import.meta.env.BASE_URL + 'data/fund-exposure/mor-israel-ta125.json',
   },
   'yalin-lapidot-ta125-value': {
     title: 'Yalin Lapidot TA 125 Value',
-    description:
-      'Equity holdings of the Yelin Lapidot TA-125 Value tracking fund (TASE fund number 5128368), ranked by % of fund. Click a column header to sort. Snapshot from funder.co.il\'s fund composition ("הרכב הקרן") taken when this site was last built -- not a live feed.',
     dataUrl: import.meta.env.BASE_URL + 'data/fund-exposure/yalin-lapidot-ta125-value.json',
   },
 }
@@ -77,8 +73,7 @@ export default function FundExposurePage() {
 
   return (
     <div className="mx-auto max-w-5xl px-4 py-8">
-      <h1 className="mb-2 text-2xl font-semibold text-slate-900">{config.title}</h1>
-      <p className="mb-6 text-sm text-slate-500">{config.description}</p>
+      <h1 className="mb-6 text-2xl font-semibold text-slate-900">{config.title}</h1>
 
       {loading && <LoadingState message="Loading fund holdings…" />}
       {error && <ErrorState message={error} />}
