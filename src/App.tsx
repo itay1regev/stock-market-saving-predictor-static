@@ -11,6 +11,7 @@ import CompanyDetailPage from './pages/CompanyDetailPage'
 import FundExposurePage from './pages/FundExposurePage'
 import ReitStockPage from './pages/ReitStockPage'
 import TermsPage from './pages/TermsPage'
+import GemelFundsPage from './pages/GemelFundsPage'
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
             <Route path="/companies-by-weight/company/:id" element={<CompanyDetailPage />} />
             <Route path="/fund-exposure/:fund" element={<FundExposurePage />} />
             <Route path="/reit-stocks/:securityId" element={<ReitStockPage />} />
+            <Route path="/gemel/:kind" element={<GemelFundsPage />} />
             <Route path="/terms" element={<TermsPage />} />
             <Route path="*" element={<Navigate to="/backtest" replace />} />
           </Routes>

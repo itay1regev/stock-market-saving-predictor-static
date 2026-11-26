@@ -23,6 +23,8 @@ type NavItem = {
   activePrefixes?: string[]
   groups?: NavGroup[]
   mega?: boolean
+  /** Top-level label is Hebrew: wrap it in <bdi lang="he">. */
+  lang?: 'he'
 }
 
 const NAV: readonly NavItem[] = [
@@ -95,6 +97,9 @@ const NAV: readonly NavItem[] = [
       },
     ],
   },
+  { id: 'hishtalmut', label: 'קרנות השתלמות', to: '/gemel/hishtalmut', activePrefixes: ['/gemel/hishtalmut'], lang: 'he' },
+  { id: 'kupot-gemel', label: 'קופות גמל', to: '/gemel/kupot-gemel', activePrefixes: ['/gemel/kupot-gemel'], lang: 'he' },
+  { id: 'pensia', label: 'קרנות פנסיה', to: '/gemel/pensia', activePrefixes: ['/gemel/pensia'], lang: 'he' },
   { id: 'blog', label: 'Blog', to: '/blog', activePrefixes: ['/blog'] },
 ]
 
@@ -392,7 +397,7 @@ export default function Header() {
                   return (
                     <li key={item.id}>
                       <NavLink to={item.to} end className={() => `${TOP_BASE} ${active ? TOP_ACTIVE : TOP_IDLE}`}>
-                        {item.label}
+                        {item.lang === 'he' ? <HebrewText>{item.label}</HebrewText> : item.label}
                       </NavLink>
                     </li>
                   )
@@ -504,7 +509,7 @@ export default function Header() {
                         onClick={() => closeDrawer(false)}
                         className={() => `${MOBILE_TOP} ${active ? TOP_ACTIVE : MOBILE_TOP_IDLE}`}
                       >
-                        {item.label}
+                        {item.lang === 'he' ? <HebrewText>{item.label}</HebrewText> : item.label}
                       </NavLink>
                     </li>
                   )

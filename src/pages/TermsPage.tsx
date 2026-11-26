@@ -66,6 +66,7 @@ export default function TermsPage() {
           <li>funder.co.il — Israeli index-tracking fund data</li>
           <li>Tel Aviv Stock Exchange (TASE) and the MAYA reporting system — company filings and reports</li>
           <li>bizportal.co.il — company financial data</li>
+          <li>mygemel.net — Israeli study fund (קרנות השתלמות), provident fund (קופות גמל) and pension fund (קרנות פנסיה) returns</li>
         </ul>
         <p>
           The operator does not independently audit, verify or guarantee these sources. Third-party data remains the
