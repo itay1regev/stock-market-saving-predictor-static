@@ -17,7 +17,7 @@ function ReportTableView({ id, title, table }: { id: string; title: string; tabl
 
   let lastCategory: string | null | undefined
   return (
-    <div id={id} className="mb-6 scroll-mt-4 overflow-x-auto rounded-lg border border-slate-200" dir="rtl">
+    <div id={id} className="mb-6 scroll-mt-20 overflow-x-auto rounded-lg border border-slate-200" dir="rtl">
       <h3 className="border-b border-slate-200 bg-slate-50 px-4 py-3 text-sm font-semibold text-slate-900">
         {title}
       </h3>
@@ -161,7 +161,7 @@ export default function CompanyDetailPage() {
               </div>
             </div>
 
-            <div id="ratios" className="scroll-mt-4">
+            <div id="ratios" className="scroll-mt-20">
               {period === 'quarterly' ? (
                 <>
                   <p className="mb-2 text-xs text-slate-400" dir="rtl">
