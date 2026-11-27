@@ -8,6 +8,7 @@ import IndicatorsPage from './pages/IndicatorsPage'
 import EtfPage from './pages/EtfPage'
 import CompaniesByWeightPage from './pages/CompaniesByWeightPage'
 import CompanyDetailPage from './pages/CompanyDetailPage'
+import UsCompaniesByWeightPage from './pages/UsCompaniesByWeightPage'
 import FundExposurePage from './pages/FundExposurePage'
 import ReitStockPage from './pages/ReitStockPage'
 import TermsPage from './pages/TermsPage'
@@ -28,6 +29,7 @@ function App() {
             <Route path="/etf/:index" element={<EtfPage />} />
             <Route path="/companies-by-weight/:index" element={<CompaniesByWeightPage />} />
             <Route path="/companies-by-weight/company/:id" element={<CompanyDetailPage />} />
+            <Route path="/us-stocks/:index" element={<UsCompaniesByWeightPage />} />
             <Route path="/fund-exposure/:fund" element={<FundExposurePage />} />
             <Route path="/reit-stocks/:securityId" element={<ReitStockPage />} />
             <Route path="/gemel/:kind" element={<GemelFundsPage />} />

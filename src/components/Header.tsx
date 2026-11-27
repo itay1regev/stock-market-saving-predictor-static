@@ -79,6 +79,20 @@ const NAV: readonly NavItem[] = [
     ],
   },
   {
+    id: 'us-stocks',
+    label: 'US Stocks',
+    activePrefixes: ['/us-stocks'],
+    groups: [
+      {
+        heading: 'Index constituents',
+        items: [
+          { label: 'S&P 500 by index weight', to: '/us-stocks/sp500' },
+          { label: 'Nasdaq 100 by index weight', to: '/us-stocks/nasdaq100' },
+        ],
+      },
+    ],
+  },
+  {
     id: 'israeli-stocks',
     label: 'Israeli Stocks',
     activePrefixes: ['/companies-by-weight', '/reit-stocks'],
@@ -110,7 +124,8 @@ const LG_QUERY = '(min-width: 64rem)'
 /* Class tokens                                                        */
 /* ------------------------------------------------------------------ */
 
-const TOP_BASE = 'inline-flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium'
+// Tighter padding between lg and xl keeps all top-level items on one line at 1024px.
+const TOP_BASE = 'inline-flex items-center gap-1 rounded-md px-2 py-2 text-sm font-medium xl:px-3'
 const TOP_IDLE = 'text-slate-600 hover:bg-slate-100 hover:text-slate-900'
 const TOP_ACTIVE = 'bg-indigo-50 text-indigo-700'
 
@@ -388,7 +403,7 @@ export default function Header() {
 
           {/* Desktop navigation */}
           <nav ref={navRef} aria-label="Main" className="hidden lg:block">
-            <ul className="flex items-center gap-1 whitespace-nowrap">
+            <ul className="flex items-center whitespace-nowrap xl:gap-1">
               {NAV.map((item) => {
                 const active = isSectionActive(item, pathname)
 

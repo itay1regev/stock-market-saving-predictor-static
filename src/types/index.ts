@@ -191,6 +191,39 @@ export interface CompaniesResponse {
   companies: Company[]
 }
 
+export type UsWeightSource = 'slickcharts' | 'stockanalysis' | 'financhle'
+
+export interface UsIndexCompany {
+  rank: number
+  symbol: string
+  name: string
+  /** Main weight, taken from `weight_source`. */
+  weight_pct: number | null
+  weight_source: UsWeightSource | null
+  weights_by_source: Partial<Record<UsWeightSource, number | null>>
+  price: number | null
+  change_pct: number | null
+  market_cap: number | null
+  display_weight_pct: string
+  display_price: string
+  display_change_pct: string
+  display_market_cap: string
+}
+
+export interface UsIndexSource {
+  id: string
+  label: string
+  url: string
+}
+
+export interface UsIndexResponse {
+  index: string
+  index_name: string
+  as_of: string
+  sources: UsIndexSource[]
+  companies: UsIndexCompany[]
+}
+
 export interface FundHolding {
   security_name: string
   security_number: string

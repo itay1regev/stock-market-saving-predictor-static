@@ -13,6 +13,8 @@ const FOOTER_LINKS: readonly FooterColumn[] = [
       { label: 'US indicators', to: '/indicators/us' },
       { label: 'Israel indicators', to: '/indicators/israel' },
       { label: 'Germany indicators', to: '/indicators/germany' },
+      { label: 'S&P 500 by index weight', to: '/us-stocks/sp500' },
+      { label: 'Nasdaq 100 by index weight', to: '/us-stocks/nasdaq100' },
       { label: 'TA-125 by index weight', to: '/companies-by-weight/ta125' },
     ],
   },
