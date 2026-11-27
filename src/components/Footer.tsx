@@ -26,7 +26,8 @@ const FOOTER_LINKS: readonly FooterColumn[] = [
       { label: 'MSCI World ETFs', to: '/etf/msci-world' },
       { label: 'S&P 500 ETFs on TASE', to: '/etf/israel-sp500' },
       { label: 'Sector Exposure', to: '/etf/sector-exposure' },
-      { label: 'MOR Israel TA-125 fund exposure', to: '/fund-exposure/mor-israel-ta125' },
+      { label: 'MOR Israel TA-125 exposure', to: '/fund-exposure/mor-israel-ta125' },
+      { label: 'Yalin Lapidot TA-125 Value exposure', to: '/fund-exposure/yalin-lapidot-ta125-value' },
     ],
   },
   {
