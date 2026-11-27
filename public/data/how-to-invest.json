@@ -1,0 +1,386 @@
+{
+  "topics": [
+    {
+      "id": "basics",
+      "title": "Investing Basics",
+      "blurb": "What investing is, why it works over time, and how to take your first step.",
+      "chip": "bg-indigo-50 text-indigo-700",
+      "band": "from-indigo-500 to-indigo-700"
+    },
+    {
+      "id": "stocks",
+      "title": "Stocks",
+      "blurb": "How shares work, how to buy them and how to judge what a company is worth.",
+      "chip": "bg-emerald-50 text-emerald-700",
+      "band": "from-emerald-500 to-emerald-700"
+    },
+    {
+      "id": "etfs",
+      "title": "ETFs & Index Funds",
+      "blurb": "The low-cost building blocks most long-term portfolios are made from.",
+      "chip": "bg-sky-50 text-sky-700",
+      "band": "from-sky-500 to-sky-700"
+    },
+    {
+      "id": "bonds",
+      "title": "Bonds",
+      "blurb": "Lending money for interest, and why bond prices move when rates change.",
+      "chip": "bg-amber-50 text-amber-800",
+      "band": "from-amber-500 to-amber-700"
+    },
+    {
+      "id": "portfolio",
+      "title": "Portfolio & Risk",
+      "blurb": "Asset allocation, diversification and rebalancing: managing risk on purpose.",
+      "chip": "bg-rose-50 text-rose-700",
+      "band": "from-rose-500 to-rose-700"
+    },
+    {
+      "id": "retirement",
+      "title": "Retirement & Savings",
+      "blurb": "Tax-advantaged accounts in Israel and the US, and how to use them well.",
+      "chip": "bg-violet-50 text-violet-700",
+      "band": "from-violet-500 to-violet-700"
+    }
+  ],
+  "start_here": [
+    "saving-vs-investing",
+    "how-to-start-investing",
+    "what-is-an-etf",
+    "asset-allocation",
+    "israeli-long-term-savings"
+  ],
+  "glossary": [
+    {
+      "term": "Asset allocation",
+      "definition": "How a portfolio is divided between stocks, bonds, cash and other asset classes."
+    },
+    {
+      "term": "Bear market",
+      "definition": "A decline of 20% or more from a recent high in a broad market index."
+    },
+    {
+      "term": "Bull market",
+      "definition": "A sustained period of rising prices, often measured from a low of 20% or more."
+    },
+    {
+      "term": "CAGR",
+      "definition": "Compound annual growth rate: the smoothed yearly return over a multi-year period."
+    },
+    {
+      "term": "Dollar-cost averaging",
+      "definition": "Investing a fixed amount at regular intervals regardless of price."
+    },
+    {
+      "term": "Drawdown",
+      "definition": "The percentage fall from a portfolio’s peak to its subsequent low."
+    },
+    {
+      "term": "Expense ratio",
+      "definition": "The annual fee a fund charges, as a percentage of assets."
+    },
+    {
+      "term": "Market capitalization",
+      "definition": "Share price multiplied by shares outstanding: the market value of a company."
+    },
+    {
+      "term": "Sharpe ratio",
+      "definition": "Return above the risk-free rate per unit of volatility: higher is better."
+    },
+    {
+      "term": "Yield",
+      "definition": "Income from an investment (interest or dividends) as a percentage of its price."
+    }
+  ],
+  "articles": [
+    {
+      "slug": "how-to-start-investing",
+      "title": "How to Start Investing: A Step-by-Step Guide for Beginners",
+      "topic": "basics",
+      "level": "Beginner",
+      "readMinutes": 7,
+      "featured": true,
+      "order": 1,
+      "summary": "From building an emergency fund to placing your first order, here are the steps that turn savings into a long-term portfolio.",
+      "takeaways": [
+        "Build an emergency fund and pay off high-interest debt before you invest.",
+        "Match each goal to a time horizon: money you need within a few years should not be in stocks.",
+        "A low-cost, broadly diversified index fund is a sensible first investment for most people.",
+        "Automating a fixed monthly contribution matters more than picking the perfect day to start."
+      ],
+      "body": "Investing means putting money into assets, such as shares of companies, bonds or funds, that you expect to grow in value or pay you income over time. Unlike a savings account, investments can lose value in the short run. The trade-off is a higher expected return over the long run.\n\n## Step 1: Get your foundation in place\n\nBefore you buy a single share, make sure a market drop can't force you to sell at the worst moment.\n\n- **Emergency fund.** Keep three to six months of essential expenses in cash or a deposit account.\n- **High-interest debt.** Paying off a credit card that charges 18% a year is a guaranteed 18% \"return\". No investment reliably beats that.\n- **Insurance.** Health, disability and life insurance protect the plan you are about to build.\n\n## Step 2: Define your goals and time horizon\n\nWrite down what you are investing for and when you will need the money.\n\n| Goal | Time horizon | Typical approach |\n|---|---|---|\n| Home down payment | 1–4 years | Mostly cash and short-term bonds |\n| Child's education | 5–15 years | Balanced mix of stocks and bonds |\n| Retirement | 15+ years | Mostly stocks, shifting to bonds later |\n\nThe longer your horizon, the more short-term volatility you can afford to ride out.\n\n## Step 3: Choose the right account\n\nWhere you hold an investment can matter as much as what you buy. Tax-advantaged accounts, such as an Israeli *keren hishtalmut* or a US 401(k) or IRA, let your money compound with little or no tax drag. Read our guides to [Israeli long-term savings](#/learn/israeli-long-term-savings) and [US retirement accounts](#/learn/us-retirement-accounts). For everything else, open a regular brokerage account with a low-cost, well-regulated broker.\n\n## Step 4: Pick a simple investment\n\nMost beginners do best with one or two broad, low-cost index funds, for example a global stock fund that tracks the MSCI World or a US fund that tracks the S&P 500. You can compare such funds on our [ETF pages](#/etf/sp500). If you want less volatility, add a bond fund.\n\n## Step 5: Automate and stay the course\n\nSet up a fixed monthly transfer and purchase. This approach, called **dollar-cost averaging**, removes the temptation to time the market. Then check in once or twice a year, rebalance if your mix has drifted, and resist reacting to headlines.\n\n> **Try it:** Use the [Backtest tool](#/backtest) to see how a simple monthly investment in an index fund would have performed over the past decade, including the drawdowns along the way.\n"
+    },
+    {
+      "slug": "saving-vs-investing",
+      "title": "Saving vs. Investing: What’s the Difference?",
+      "topic": "basics",
+      "level": "Beginner",
+      "readMinutes": 4,
+      "featured": false,
+      "order": 2,
+      "summary": "Saving protects money you will need soon. Investing grows money you will not need for years. Most people need both.",
+      "takeaways": [
+        "Savings are safe and easy to access, but usually earn less than inflation over time.",
+        "Investments can fall in value in the short term but have historically grown faster than inflation.",
+        "Use savings for short-term needs and emergencies, and investments for goals five or more years away."
+      ],
+      "body": "People often use \"saving\" and \"investing\" to mean the same thing. They are different tools that do different jobs.\n\n## Saving: safety and access\n\nSaving means setting aside money in a bank deposit, savings account or money-market fund. Your balance does not fall and you can usually withdraw quickly. The cost of that safety is a low return, often at or below the rate of inflation, so the money's purchasing power can slowly erode.\n\n## Investing: growth with volatility\n\nInvesting means buying assets such as stocks, bonds or real estate. Their value goes up and down, sometimes sharply. Over long periods, broad stock markets have delivered returns well above inflation, but there have been years when they fell 30% or more.\n\n## Which should you use?\n\n| | Saving | Investing |\n|---|---|---|\n| Main goal | Preserve capital | Grow capital |\n| Risk of loss | Very low | Moderate to high |\n| Best for | Emergencies, goals under ~3 years | Goals 5+ years away |\n| Inflation protection | Weak | Historically strong |\n\nA simple rule: **if you might need the money within a few years, save it. If you won't, consider investing it.** Most households hold both, an emergency fund in savings and a long-term portfolio in investments.\n"
+    },
+    {
+      "slug": "compound-interest-explained",
+      "title": "Compound Interest: How Your Money Grows on Itself",
+      "topic": "basics",
+      "level": "Beginner",
+      "readMinutes": 5,
+      "featured": false,
+      "order": 3,
+      "summary": "Compounding means earning returns on your past returns. Over decades, time in the market matters more than anything else.",
+      "takeaways": [
+        "Compounding means returns earn their own returns, so growth speeds up over time.",
+        "Starting ten years earlier can matter more than contributing twice as much.",
+        "Fees and taxes compound too, against you. Keep both low."
+      ],
+      "body": "Compound growth happens when the returns on an investment are reinvested and then earn returns of their own. In the first years the effect is barely visible. After a few decades it dominates.\n\n## A simple example\n\nSuppose you invest 10,000 at an average annual return of 7%.\n\n| Year | Balance | Growth that year |\n|---|---|---|\n| 1 | 10,700 | 700 |\n| 10 | 19,672 | 1,287 |\n| 20 | 38,697 | 2,532 |\n| 30 | 76,123 | 4,980 |\n\nIn year 30 the portfolio grows by almost half of the original amount in a single year, without any new money being added.\n\n## The rule of 72\n\nTo estimate how long it takes money to double, divide 72 by the annual return. At 7%, money doubles roughly every 10 years. At 4%, it takes about 18 years.\n\n## Why starting early wins\n\nTwo investors each put away 500 a month at 7% a year:\n\n- **Maya** starts at 25 and stops at 35, contributing for only 10 years.\n- **Daniel** starts at 35 and contributes for 30 years until 65.\n\nBy 65, Maya's ten years of contributions have usually grown to a balance similar to Daniel's 30 years. Her money simply had more time to compound.\n\n## Compounding works against you too\n\nA 1% annual fee looks small. Over 30 years it can consume more than a fifth of your final balance. That is why [expense ratios](#/learn/expense-ratios-and-fees) matter so much.\n"
+    },
+    {
+      "slug": "how-much-money-to-start-investing",
+      "title": "How Much Money Do You Need to Start Investing?",
+      "topic": "basics",
+      "level": "Beginner",
+      "readMinutes": 4,
+      "featured": false,
+      "order": 4,
+      "summary": "Far less than most people think. Fractional shares and low-cost funds mean you can start with a small monthly amount.",
+      "takeaways": [
+        "Many brokers have no account minimum and support fractional shares.",
+        "A consistent small contribution beats waiting until you have a large lump sum.",
+        "Watch per-trade commissions: on small amounts they can be a large percentage cost."
+      ],
+      "body": "There is no minimum amount required to become an investor. What matters most is consistency and keeping costs low.\n\n## Small amounts are fine\n\nMany brokers now offer **fractional shares**, so you can buy a slice of a fund or stock for a small amount instead of paying the full share price. Pension and study funds in Israel accept monthly deposits of any size.\n\n## Mind the costs\n\nOn small amounts, fixed fees hurt. A 5 commission on a 100 purchase is a 5% cost before the investment has moved. To keep costs down:\n\n- Choose a broker with low or zero commissions on the funds you plan to buy.\n- Invest monthly or quarterly rather than many tiny purchases.\n- Prefer funds with low annual expense ratios.\n\n## A practical starting plan\n\n1. Decide on a monthly amount you can sustain, even if it is small.\n2. Pick one broad index fund.\n3. Automate the transfer and purchase.\n4. Increase the amount whenever your income rises.\n\nThe best amount to start with is the one you can keep investing every month.\n"
+    },
+    {
+      "slug": "what-is-a-stock",
+      "title": "What Is a Stock? Owning a Piece of a Company",
+      "topic": "stocks",
+      "level": "Beginner",
+      "readMinutes": 5,
+      "featured": false,
+      "order": 1,
+      "summary": "A share is a small ownership stake in a business. Here is how stocks make money and why their prices move.",
+      "takeaways": [
+        "A stock is a share of ownership in a company and its future profits.",
+        "Shareholders profit from price appreciation and, in some companies, dividends.",
+        "In the long run prices follow earnings. In the short run they follow sentiment."
+      ],
+      "body": "When you buy a share of stock, you become a part-owner of a company. You are entitled to a small piece of its profits and usually a vote on certain decisions.\n\n## How stocks make money for you\n\n1. **Capital gains:** the share price rises above what you paid.\n2. **Dividends:** the company pays part of its profits to shareholders in cash. See [Dividends Explained](#/learn/dividends-explained).\n\n## Why stock prices move\n\nA share price reflects what buyers and sellers think the company's future cash flows are worth today. Prices move when that view changes, for example after earnings reports, changes in interest rates, new products, or a shift in economic outlook. Over months, emotion can push prices far from fundamentals. Over decades, prices tend to follow the growth in profits.\n\n## Common types of stock\n\n- **Common vs. preferred:** common shares carry voting rights. Preferred shares usually pay fixed dividends and rank ahead of common shares if the company is liquidated.\n- **Growth vs. value:** growth companies reinvest profits to expand quickly. Value stocks trade cheaply relative to their earnings or assets.\n- **Large-cap vs. small-cap:** this describes the company's total market value. Large caps tend to be more stable.\n\n## Single stocks vs. funds\n\nOwning a single company is risky. Even great businesses can lose most of their value. Most investors hold stocks through a diversified fund. You can see how much each company weighs in a major index on our [S&P 500 by weight](#/us-stocks/sp500) and [TA-125 by weight](#/companies-by-weight/ta125) pages.\n"
+    },
+    {
+      "slug": "how-to-buy-your-first-stock",
+      "title": "How to Buy Your First Stock",
+      "topic": "stocks",
+      "level": "Beginner",
+      "readMinutes": 6,
+      "featured": false,
+      "order": 2,
+      "summary": "Open an account, fund it, research the company and place the right type of order. A walkthrough.",
+      "takeaways": [
+        "Choose a regulated broker with low fees and access to the markets you want.",
+        "Know the difference between market and limit orders before you trade.",
+        "Limit any single stock to a small share of your portfolio."
+      ],
+      "body": "## 1. Choose a broker\n\nLook for a broker that is regulated in your country, offers access to the exchanges you want (for example TASE, NYSE and Nasdaq), and charges low commissions and custody fees. Check currency-conversion costs if you plan to buy foreign shares.\n\n## 2. Open and fund the account\n\nYou will need identification and tax details. Transfer money from your bank account. If you buy US stocks from Israel, you will usually complete a W-8BEN form so that the reduced treaty rate applies to dividend withholding tax.\n\n## 3. Research the company\n\nBefore buying, understand:\n\n- What the company sells and how it makes money\n- Whether revenue and profits are growing\n- How much debt it carries\n- How its valuation compares with peers. See [P/E Ratio and Valuation](#/learn/pe-ratio-and-valuation).\n\n## 4. Place your order\n\n| Order type | What it does | When to use |\n|---|---|---|\n| **Market** | Buys immediately at the best available price | Large, liquid stocks during market hours |\n| **Limit** | Buys only at your price or better | Less liquid stocks, or when you want price control |\n| **Stop-loss** | Sells if the price falls to a set level | To cap the loss on a position |\n\nBeginners are usually safer with **limit orders**, which prevent paying far more than expected in a fast market.\n\n## 5. Size your position sensibly\n\nA common guideline is to keep any single stock below 5% of your total portfolio. Hold the core of your money in diversified funds.\n"
+    },
+    {
+      "slug": "pe-ratio-and-valuation",
+      "title": "P/E Ratio and Valuation: Is a Stock Cheap or Expensive?",
+      "topic": "stocks",
+      "level": "Intermediate",
+      "readMinutes": 6,
+      "featured": false,
+      "order": 3,
+      "summary": "The price-to-earnings ratio is the most quoted valuation metric. Learn what it tells you and where it misleads.",
+      "takeaways": [
+        "P/E equals share price divided by earnings per share: what investors pay for 1 of profit.",
+        "Compare P/E ratios within the same industry, not across very different businesses.",
+        "Pair P/E with growth, debt and cash-flow measures. No single ratio tells the whole story."
+      ],
+      "body": "## What the P/E ratio measures\n\n**P/E = Share price ÷ Earnings per share (EPS)**\n\nA stock at 100 with EPS of 5 has a P/E of 20. Investors are paying 20 for every 1 of annual profit.\n\n- **Trailing P/E** uses the past 12 months of earnings.\n- **Forward P/E** uses analysts' estimates for the next 12 months.\n\n## Reading the number\n\nA high P/E usually means investors expect fast growth. A low P/E can mean a bargain, or a business in decline. Context matters:\n\n- Software companies often trade at higher P/Es than banks or utilities.\n- When interest rates are low, the whole market's P/E tends to rise.\n\n## Other valuation tools\n\n| Ratio | Formula | Useful for |\n|---|---|---|\n| **PEG** | P/E ÷ expected growth rate | Comparing fast growers |\n| **P/B** | Price ÷ book value per share | Banks, insurers, real estate |\n| **P/S** | Market cap ÷ revenue | Companies not yet profitable |\n| **EV/EBITDA** | Enterprise value ÷ EBITDA | Comparing firms with different debt levels |\n| **Dividend yield** | Annual dividend ÷ price | Income-focused investing |\n\n## Pitfalls\n\nEarnings can be distorted by one-off gains, write-downs or accounting choices. Cyclical companies often look cheapest at the top of the cycle, when profits peak. Check the trend over several years, not a single quarter. Our [company pages](#/companies-by-weight/ta125) show multi-year financials for TA-125 members.\n"
+    },
+    {
+      "slug": "dividends-explained",
+      "title": "Dividends Explained: Getting Paid to Own Stocks",
+      "topic": "stocks",
+      "level": "Beginner",
+      "readMinutes": 5,
+      "featured": false,
+      "order": 4,
+      "summary": "How dividends work, the key dates to know, and why a very high yield can be a warning sign.",
+      "takeaways": [
+        "Dividends are cash payments from company profits to shareholders.",
+        "You must own the stock before the ex-dividend date to receive the next payment.",
+        "Reinvesting dividends is a major driver of long-run total return."
+      ],
+      "body": "A dividend is a portion of a company's profit paid out to shareholders, usually quarterly in the US and once or twice a year in Israel.\n\n## Key dates\n\n1. **Declaration date:** the board announces the dividend.\n2. **Ex-dividend date:** you must own the shares *before* this date to receive the payment. The share price typically drops by about the dividend amount on this day.\n3. **Record date:** the company checks its list of shareholders.\n4. **Payment date:** the cash arrives in your account.\n\n## Dividend yield\n\n**Yield = Annual dividend per share ÷ Share price**\n\nA 100 stock paying 3 a year yields 3%. A very high yield, say 10% or more, often means the price has fallen because investors expect the dividend to be cut. Check the **payout ratio** (dividends ÷ earnings). A ratio consistently above 80–90% may not be sustainable, except for structures such as REITs that must distribute most of their income.\n\n## Reinvesting\n\nHistorically, a large share of the stock market's total return has come from reinvested dividends. Many funds offer *accumulating* share classes that reinvest automatically, which can also be more tax-efficient.\n\n## Taxes\n\nDividends are usually taxed when they are paid. Israeli residents generally pay 25% on dividends. US stocks also withhold tax at source, typically reduced to 25% for Israeli residents with a W-8BEN on file. Rules change, so check with a tax adviser.\n\nSee how Israeli income-producing real estate companies pay their investors on our [REIT pages](#/reit-stocks/1109644).\n"
+    },
+    {
+      "slug": "what-is-an-etf",
+      "title": "What Is an ETF? Exchange-Traded Funds Explained",
+      "topic": "etfs",
+      "level": "Beginner",
+      "readMinutes": 6,
+      "featured": true,
+      "order": 1,
+      "summary": "An ETF bundles hundreds or thousands of securities into one share that trades like a stock. Here is how they work.",
+      "takeaways": [
+        "An ETF holds a basket of assets and trades on an exchange throughout the day.",
+        "Most ETFs track an index, which keeps costs low and holdings transparent.",
+        "Compare ETFs on expense ratio, tracking difference, size, liquidity and domicile."
+      ],
+      "body": "An exchange-traded fund (ETF) is a fund that holds a basket of investments, such as stocks, bonds or commodities, and whose shares trade on a stock exchange like an ordinary share.\n\n## How ETFs work\n\nWhen you buy one share of an S&P 500 ETF, you indirectly own a small slice of all 500 companies in the index, weighted by market value. Specialist firms called *authorized participants* create and redeem ETF shares in large blocks. This keeps the ETF's price close to the value of its holdings.\n\n## Why investors like ETFs\n\n- **Instant diversification** in a single purchase\n- **Low costs:** broad index ETFs can charge under 0.1% a year\n- **Transparency:** most ETFs publish their holdings daily\n- **Flexibility:** buy and sell any time the market is open\n\n## Types of ETFs\n\n| Type | Example exposure |\n|---|---|\n| Broad equity | S&P 500, MSCI World, TA-125 |\n| Sector | Technology, healthcare, banks |\n| Bond | Government, corporate, inflation-linked |\n| Thematic | AI, clean energy, cybersecurity |\n| Leveraged / inverse | 2× or −1× daily index return: trading tools, not long-term holdings |\n\n## How to compare ETFs that track the same index\n\n1. **Expense ratio:** the annual fee.\n2. **Tracking difference:** how closely returns have matched the index after costs.\n3. **Assets under management and trading volume:** larger funds usually trade at tighter bid–ask spreads.\n4. **Domicile and distribution policy:** this affects withholding tax and whether dividends are paid out or reinvested.\n\nCompare real funds side by side on our [S&P 500 ETF](#/etf/sp500), [MSCI World ETF](#/etf/msci-world) and [TASE-listed ETF](#/etf/israel-sp500) pages, and see what you actually own on the [Sector Exposure](#/etf/sector-exposure) page.\n"
+    },
+    {
+      "slug": "index-funds-vs-active-funds",
+      "title": "Index Funds vs. Actively Managed Funds",
+      "topic": "etfs",
+      "level": "Beginner",
+      "readMinutes": 5,
+      "featured": false,
+      "order": 2,
+      "summary": "Should you try to beat the market or simply own it? What the long-term evidence says about passive and active investing.",
+      "takeaways": [
+        "Index funds aim to match a market index at very low cost.",
+        "Most active funds underperform their benchmark after fees over 10+ years.",
+        "A low-cost core index portfolio is a strong default for most investors."
+      ],
+      "body": "## Passive: owning the market\n\nAn **index fund**, either an ETF or a mutual fund, buys every security in an index in the same proportions. It doesn't try to outsmart anyone, so it needs no expensive research team and trades rarely.\n\n## Active: trying to beat the market\n\nAn **actively managed fund** employs managers who pick securities they believe will outperform. Some succeed in a given year. The challenge is doing it consistently, after fees.\n\n## What the evidence shows\n\nLong-running scorecards that compare active funds with their benchmarks have repeatedly found that a large majority of active funds lag their index over 10 and 15-year periods. Few of the winners in one period stay winners in the next. The main reason is cost: every manager has to beat the market *plus* their fee just to break even with an index fund.\n\n## When active can make sense\n\n- Less efficient markets, such as some small-cap or emerging-market segments\n- Strategies an index can't replicate easily\n- When you have strong conviction in a manager's process *and* the fee is reasonable\n\n## A practical approach\n\nMany investors use a **core-and-satellite** structure: 80–90% in broad index funds as the core, with a small satellite of active funds or individual stocks. You can compare how actively managed Israeli funds tilt their holdings on our [Exposure Analysis](#/fund-exposure/mor-israel-ta125) pages.\n"
+    },
+    {
+      "slug": "expense-ratios-and-fees",
+      "title": "Expense Ratios and Fees: The Hidden Cost of Investing",
+      "topic": "etfs",
+      "level": "Beginner",
+      "readMinutes": 4,
+      "featured": false,
+      "order": 3,
+      "summary": "A fraction of a percent seems trivial. Compounded over decades, fees are one of the biggest drivers of your final balance.",
+      "takeaways": [
+        "The expense ratio is the annual fee a fund deducts from its assets.",
+        "Also check brokerage commissions, custody fees, FX spreads and management fees.",
+        "Cutting costs is one of the few returns you can guarantee."
+      ],
+      "body": "## Types of fees\n\n| Fee | What it is | Typical range |\n|---|---|---|\n| **Expense ratio** | Annual fund fee, deducted automatically | 0.03%–1.5% |\n| **Commission** | Charged per trade by your broker | 0 to a few dollars per trade |\n| **Custody / account fee** | For holding securities | 0%–0.2% a year |\n| **FX conversion** | Spread when converting ILS to USD | 0.1%–1% per conversion |\n| **Management fee on savings** | On pension and study-fund balances and deposits | Varies; negotiable |\n\n## Why small numbers matter\n\nTake 100,000 invested for 30 years at a 7% gross return:\n\n| Annual cost | Ending balance |\n|---|---|\n| 0.1% | ~739,000 |\n| 0.5% | ~661,000 |\n| 1.0% | ~574,000 |\n\nThe difference between 0.1% and 1% is more than 160,000, money that went to fees instead of compounding for you.\n\n## How to keep costs low\n\n- Choose broad index funds with low expense ratios.\n- Compare total cost, not just the headline fee.\n- Trade less often.\n- Negotiate management fees on your pension and study funds. They are often negotiable. Compare current fees on our [Keren Hishtalmut](#/gemel/hishtalmut) and [Pension](#/gemel/pensia) pages.\n"
+    },
+    {
+      "slug": "bond-basics",
+      "title": "Bond Basics: How Bonds Work",
+      "topic": "bonds",
+      "level": "Beginner",
+      "readMinutes": 6,
+      "featured": false,
+      "order": 1,
+      "summary": "A bond is a loan you make to a government or company. Learn about coupons, maturity, credit quality and yield.",
+      "takeaways": [
+        "Bonds pay regular interest (coupons) and return your principal at maturity.",
+        "Credit quality and maturity are the two main drivers of a bond’s risk and yield.",
+        "Bonds can cushion a portfolio when stocks fall, though not always."
+      ],
+      "body": "When you buy a bond, you lend money to the issuer. In return you receive regular interest payments, called the **coupon**, and get your **principal** (face value) back on the **maturity date**.\n\n## Key terms\n\n- **Face value:** the amount repaid at maturity, often 1,000 or 100.\n- **Coupon rate:** the annual interest as a percentage of face value.\n- **Maturity:** when the loan ends. This can be months or 30+ years.\n- **Yield to maturity (YTM):** your total annual return if you buy at today's price and hold to maturity.\n\n## Types of bonds\n\n| Type | Issuer | Notes |\n|---|---|---|\n| Government | US Treasury, Israeli *shahar* and *galil* | Lowest credit risk in their home currency |\n| Inflation-linked | US TIPS, Israeli CPI-linked *galil* | Principal adjusts with inflation |\n| Corporate investment grade | Large, financially strong companies | Higher yield than government bonds |\n| High-yield (\"junk\") | Weaker companies | Higher yield, higher default risk |\n\n## Risks\n\n- **Interest-rate risk:** bond prices fall when rates rise. See [Interest Rates and Bond Prices](#/learn/interest-rates-and-bond-prices).\n- **Credit risk:** the issuer might fail to pay.\n- **Inflation risk:** fixed coupons lose purchasing power when inflation is high.\n\n## Bonds in a portfolio\n\nMost investors buy bonds through funds. Bond ETFs hold hundreds of issues and roll them over automatically. Compare options on our [Bond ETFs](#/etf/bond) page.\n"
+    },
+    {
+      "slug": "interest-rates-and-bond-prices",
+      "title": "Why Bond Prices Fall When Interest Rates Rise",
+      "topic": "bonds",
+      "level": "Intermediate",
+      "readMinutes": 5,
+      "featured": false,
+      "order": 2,
+      "summary": "The seesaw relationship between rates and prices, and how duration tells you how sensitive a bond is.",
+      "takeaways": [
+        "Bond prices and interest rates move in opposite directions.",
+        "Duration estimates how much a bond’s price changes for a 1% move in rates.",
+        "Longer maturities mean more price sensitivity. Shorter maturities mean more reinvestment risk."
+      ],
+      "body": "## The seesaw\n\nSay you own a bond paying a 3% coupon. Then interest rates rise and new bonds pay 5%. No one will pay full price for your 3% bond when they can get 5% elsewhere, so its market price falls until its yield matches the new rate. The opposite happens when rates fall.\n\n## Duration: measuring sensitivity\n\n**Duration** (in years) approximates how much a bond's price moves when rates change by one percentage point.\n\n| Duration | Approx. price change if rates rise 1% |\n|---|---|\n| 2 years | −2% |\n| 7 years | −7% |\n| 17 years | −17% |\n\nLong-term government bond funds can therefore fall sharply in a rising-rate environment, as they did in 2022.\n\n## Choosing a duration\n\n- **Short duration (1–3 years):** small price swings, a good place for money you will need soon.\n- **Intermediate (4–7 years):** a common core holding.\n- **Long (10+ years):** the biggest gains when rates fall and the biggest losses when they rise.\n\n## Holding to maturity\n\nIf you hold an individual high-quality bond to maturity, interim price swings don't change what you receive, barring default. Bond funds never mature, but over time they reinvest at the new, higher yields, which gradually offsets the earlier price losses.\n\nTrack the central-bank rates and yields that drive bond prices on our [US](#/indicators/us) and [Israel](#/indicators/israel) economic indicator pages.\n"
+    },
+    {
+      "slug": "asset-allocation",
+      "title": "Asset Allocation: The Decision That Drives Your Returns",
+      "topic": "portfolio",
+      "level": "Beginner",
+      "readMinutes": 6,
+      "featured": true,
+      "order": 1,
+      "summary": "How you split money between stocks, bonds and cash explains most of a diversified portfolio’s ups and downs.",
+      "takeaways": [
+        "Asset allocation is how you divide money between stocks, bonds, cash and other assets.",
+        "Your allocation should reflect time horizon, risk tolerance and the risk you need to take.",
+        "Write down your target mix and rebalance back to it periodically."
+      ],
+      "body": "Choosing which fund to buy gets most of the attention. For a diversified investor, the bigger decision is **how much to put in each asset class**.\n\n## Sample allocations\n\n| Profile | Stocks | Bonds | Cash | Typical worst year (historical) |\n|---|---|---|---|---|\n| Conservative | 30% | 60% | 10% | about −10% |\n| Balanced | 60% | 35% | 5% | about −20% |\n| Growth | 80% | 20% | 0% | about −30% |\n| Aggressive | 100% | 0% | 0% | −40% or worse |\n\nThese figures are rough historical ranges, not forecasts.\n\n## Three questions to set your mix\n\n1. **Time horizon:** When will you need the money? Longer horizons can hold more stocks.\n2. **Risk tolerance:** If your portfolio fell 30%, would you hold, buy more, or sell? Be honest.\n3. **Risk capacity:** Could you financially absorb the loss? A secure income and a large emergency fund increase capacity.\n\n## Age-based rules of thumb\n\nAn old rule says to hold \"100 minus your age\" in stocks. With people living longer, many planners now use 110 or 120 minus age. Israeli pension and study funds offer age-based tracks (*maslul taluy gil*) that shift from stocks to bonds automatically.\n\n## Diversify within each asset class\n\nWithin stocks, spread across countries, sectors and company sizes. See [Diversification](#/learn/diversification).\n\n> **Try it:** Build two portfolios with different stock/bond splits in the [Backtest tool](#/backtest) and compare their returns, volatility and maximum drawdowns.\n"
+    },
+    {
+      "slug": "diversification",
+      "title": "Diversification: Don’t Put All Your Eggs in One Basket",
+      "topic": "portfolio",
+      "level": "Beginner",
+      "readMinutes": 5,
+      "featured": false,
+      "order": 2,
+      "summary": "Spreading money across many investments reduces the damage any single one can do, without giving up much return.",
+      "takeaways": [
+        "Diversification reduces company-specific risk, but it cannot remove market-wide risk.",
+        "Diversify across companies, sectors, countries and asset classes.",
+        "Check for hidden overlap: many funds hold the same large companies."
+      ],
+      "body": "## Two kinds of risk\n\n- **Specific (idiosyncratic) risk:** a single company fails, loses a lawsuit or misses earnings. Diversification can almost eliminate this risk.\n- **Systematic (market) risk:** recessions, interest-rate shocks, crises. This affects nearly everything and can't be diversified away within stocks. Bonds and cash can soften it.\n\n## Layers of diversification\n\n1. **Across companies:** an index fund with hundreds of holdings.\n2. **Across sectors:** technology, healthcare, financials, energy, consumer and more.\n3. **Across countries:** a home-country-only portfolio ties your wealth to one economy, where you already earn your salary.\n4. **Across asset classes:** stocks, bonds, real estate, cash.\n\n## Beware of hidden concentration\n\nMarket-cap-weighted indexes can become concentrated. At times, the largest ten companies have made up more than a third of the S&P 500. Owning an S&P 500 fund, a Nasdaq 100 fund and a \"global\" fund may mean owning the same mega-cap tech names three times.\n\nUse our [Sector Exposure](#/etf/sector-exposure) page to see the sector mix of popular ETFs. Check the [S&P 500](#/us-stocks/sp500) and [Nasdaq 100](#/us-stocks/nasdaq100) weight tables to see how concentrated the top holdings really are.\n\n## Over-diversification\n\nHolding 15 funds that all track similar indexes adds complexity, not safety. Two to four well-chosen broad funds are usually enough.\n"
+    },
+    {
+      "slug": "rebalancing-your-portfolio",
+      "title": "Rebalancing Your Portfolio: When and How",
+      "topic": "portfolio",
+      "level": "Intermediate",
+      "readMinutes": 5,
+      "featured": false,
+      "order": 3,
+      "summary": "Markets push your mix away from target over time. Rebalancing restores your intended level of risk.",
+      "takeaways": [
+        "Rebalancing means trimming what has grown and adding to what has lagged, back to your target mix.",
+        "Common approaches are calendar-based (yearly) or threshold-based (e.g. ±5 percentage points).",
+        "Use new contributions to rebalance where possible, which avoids selling and triggering taxes."
+      ],
+      "body": "## Why portfolios drift\n\nSuppose you start at 60% stocks and 40% bonds. After a strong year for stocks you might be at 70/30, taking more risk than you planned just before a potential downturn.\n\n## Methods\n\n| Method | How it works | Pros / cons |\n|---|---|---|\n| **Calendar** | Rebalance on a fixed date, e.g. every January | Simple and predictable; may trade when unnecessary |\n| **Threshold** | Rebalance when an asset drifts more than ±5 points | Responds to big moves; needs monitoring |\n| **Cash-flow** | Direct new money (or withdrawals) to the underweight asset | Low cost and tax-friendly; slower in large portfolios |\n\n## Taxes and costs\n\nIn a taxable account, selling winners realizes capital gains. Where possible:\n\n- Rebalance inside tax-advantaged accounts first.\n- Use new contributions and dividends to buy the underweight asset.\n- Avoid rebalancing too often. Once or twice a year is plenty for most people.\n\n## The behavioral benefit\n\nRebalancing forces you to sell high and buy low, the opposite of what fear and greed suggest. It is a built-in discipline.\n\n> **Try it:** Run the same portfolio in the [Backtest tool](#/backtest) and compare outcomes and drawdowns.\n"
+    },
+    {
+      "slug": "israeli-long-term-savings",
+      "title": "Keren Hishtalmut, Kupat Gemel and Pension: Israel’s Savings Vehicles",
+      "topic": "retirement",
+      "level": "Beginner",
+      "readMinutes": 7,
+      "featured": false,
+      "order": 1,
+      "summary": "How Israel’s three main long-term savings products work, their tax benefits, and how to choose a track and a provider.",
+      "takeaways": [
+        "A pension fund (keren pensia) is mandatory for employees and includes insurance coverage.",
+        "A keren hishtalmut is one of the most tax-efficient medium-term savings tools available in Israel.",
+        "Management fees and investment track matter a lot. Both can usually be changed."
+      ],
+      "body": "Israel has three main long-term savings vehicles. They are often confused, but each has a distinct role.\n\n## Pension fund (קרן פנסיה)\n\n- **Mandatory** for employees, with contributions from both employee and employer.\n- Provides a monthly annuity in retirement, plus **disability and survivors' insurance** while you are working.\n- Charges two kinds of management fee: on deposits and on accumulated balance. Both are negotiable.\n\n## Provident fund (קופת גמל)\n\n- A long-term savings account, often used for amounts above the pension ceiling, or by the self-employed.\n- **Kupat gemel le'hashka'a** (investment provident fund) allows withdrawals at any time, taxed on real gains. If held until retirement age it can be converted to an annuity with tax benefits.\n- There is no insurance component, so all the money is invested.\n\n## Study fund (קרן השתלמות)\n\n- Employee and employer contribute, typically 2.5% and 7.5% of salary, up to a ceiling.\n- **Liquid after six years** (or three years for certain purposes), with gains **exempt from capital-gains tax** within the ceiling.\n- Often called the best tax-advantaged savings vehicle available to Israeli employees.\n\n## Choosing a track and a provider\n\n1. **Investment track:** general, equity, S&P 500-linked, halachic, or age-based. A younger saver with a long horizon can usually hold a higher equity share.\n2. **Fees:** compare deposit and balance fees, which are negotiable.\n3. **Performance:** look at long-term (five-year) risk-adjusted returns rather than last year's winner.\n\nCompare providers' returns and fees on our [קרנות השתלמות](#/gemel/hishtalmut), [קופות גמל](#/gemel/kupot-gemel) and [קרנות פנסיה](#/gemel/pensia) pages.\n\n*Tax rules and ceilings change. Confirm current details with a licensed pension adviser.*\n"
+    },
+    {
+      "slug": "us-retirement-accounts",
+      "title": "401(k), IRA and Roth IRA: US Retirement Accounts Explained",
+      "topic": "retirement",
+      "level": "Beginner",
+      "readMinutes": 6,
+      "featured": false,
+      "order": 2,
+      "summary": "The main US tax-advantaged retirement accounts, the difference between traditional and Roth, and the order to fund them.",
+      "takeaways": [
+        "A 401(k) is an employer plan; an IRA is an account you open yourself.",
+        "Traditional accounts give a tax break now. Roth accounts give tax-free withdrawals later.",
+        "Always capture the full employer match first. It is an instant return on your contribution."
+      ],
+      "body": "## 401(k) and similar employer plans\n\nOffered through your job, with contributions taken directly from your paycheck. Many employers **match** part of your contribution, for example 50% of what you put in up to 6% of salary. Investment choices are limited to the plan's menu, which usually includes target-date and index funds.\n\n## IRA (Individual Retirement Account)\n\nOpened at any broker and available if you have earned income. Annual contribution limits are lower than for a 401(k), but you can invest in almost any ETF or stock.\n\n## Traditional vs. Roth\n\n| | Traditional | Roth |\n|---|---|---|\n| Contributions | Pre-tax (deductible) | After-tax |\n| Growth | Tax-deferred | Tax-free |\n| Withdrawals in retirement | Taxed as income | Tax-free (if rules met) |\n| Best if… | You expect a lower tax rate in retirement | You expect a higher tax rate later |\n\n## A common funding order\n\n1. Contribute enough to your 401(k) to get the **full employer match**.\n2. Fund a **Roth or traditional IRA** up to the limit.\n3. Go back and raise **401(k) contributions** toward the maximum.\n4. Invest anything extra in a **taxable brokerage account**.\n\n## Early withdrawals\n\nWithdrawing before age 59½ generally triggers income tax plus a 10% penalty, with some exceptions. Treat these accounts as long-term money.\n\n*Contribution limits change each year. Check current IRS figures.*\n"
+    }
+  ]
+}

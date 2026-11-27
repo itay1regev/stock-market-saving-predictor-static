@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "content": "python scripts/build_content.py",
     "build": "tsc -b && vite build",
     "preview": "vite preview"
   },

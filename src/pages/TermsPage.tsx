@@ -25,7 +25,7 @@ export default function TermsPage() {
       <Section title="1. Informational and educational use only — no advice">
         <p>
           Everything on the Site, including data, tables, charts, backtests, indicators, fund comparisons, company
-          figures and blog articles, is provided for general informational and educational purposes only.
+          figures, news articles and investing guides, is provided for general informational and educational purposes only.
         </p>
         <p>
           Nothing on the Site is financial, investment, tax, legal or accounting advice, investment marketing, or a
@@ -68,9 +68,9 @@ export default function TermsPage() {
         </p>
       </Section>
 
-      <Section title="4. Blog articles">
+      <Section title="4. News articles and investing guides">
         <p>
-          Blog articles reflect general commentary and opinion at the time of writing, may be summarised from public
+          News articles and investing guides reflect general commentary and opinion at the time of writing, may be summarised from public
           news reports, and may become outdated. Mentions of companies, funds or investors are for discussion only and
           are not recommendations.
         </p>

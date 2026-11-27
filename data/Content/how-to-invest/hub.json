@@ -1,0 +1,95 @@
+{
+  "topics": [
+    {
+      "id": "basics",
+      "title": "Investing Basics",
+      "blurb": "What investing is, why it works over time, and how to take your first step.",
+      "chip": "bg-indigo-50 text-indigo-700",
+      "band": "from-indigo-500 to-indigo-700"
+    },
+    {
+      "id": "stocks",
+      "title": "Stocks",
+      "blurb": "How shares work, how to buy them and how to judge what a company is worth.",
+      "chip": "bg-emerald-50 text-emerald-700",
+      "band": "from-emerald-500 to-emerald-700"
+    },
+    {
+      "id": "etfs",
+      "title": "ETFs & Index Funds",
+      "blurb": "The low-cost building blocks most long-term portfolios are made from.",
+      "chip": "bg-sky-50 text-sky-700",
+      "band": "from-sky-500 to-sky-700"
+    },
+    {
+      "id": "bonds",
+      "title": "Bonds",
+      "blurb": "Lending money for interest, and why bond prices move when rates change.",
+      "chip": "bg-amber-50 text-amber-800",
+      "band": "from-amber-500 to-amber-700"
+    },
+    {
+      "id": "portfolio",
+      "title": "Portfolio & Risk",
+      "blurb": "Asset allocation, diversification and rebalancing: managing risk on purpose.",
+      "chip": "bg-rose-50 text-rose-700",
+      "band": "from-rose-500 to-rose-700"
+    },
+    {
+      "id": "retirement",
+      "title": "Retirement & Savings",
+      "blurb": "Tax-advantaged accounts in Israel and the US, and how to use them well.",
+      "chip": "bg-violet-50 text-violet-700",
+      "band": "from-violet-500 to-violet-700"
+    }
+  ],
+  "start_here": [
+    "saving-vs-investing",
+    "how-to-start-investing",
+    "what-is-an-etf",
+    "asset-allocation",
+    "israeli-long-term-savings"
+  ],
+  "glossary": [
+    {
+      "term": "Asset allocation",
+      "definition": "How a portfolio is divided between stocks, bonds, cash and other asset classes."
+    },
+    {
+      "term": "Bear market",
+      "definition": "A decline of 20% or more from a recent high in a broad market index."
+    },
+    {
+      "term": "Bull market",
+      "definition": "A sustained period of rising prices, often measured from a low of 20% or more."
+    },
+    {
+      "term": "CAGR",
+      "definition": "Compound annual growth rate: the smoothed yearly return over a multi-year period."
+    },
+    {
+      "term": "Dollar-cost averaging",
+      "definition": "Investing a fixed amount at regular intervals regardless of price."
+    },
+    {
+      "term": "Drawdown",
+      "definition": "The percentage fall from a portfolio’s peak to its subsequent low."
+    },
+    {
+      "term": "Expense ratio",
+      "definition": "The annual fee a fund charges, as a percentage of assets."
+    },
+    {
+      "term": "Market capitalization",
+      "definition": "Share price multiplied by shares outstanding: the market value of a company."
+    },
+    {
+      "term": "Sharpe ratio",
+      "definition": "Return above the risk-free rate per unit of volatility: higher is better."
+    },
+    {
+      "term": "Yield",
+      "definition": "Income from an investment (interest or dividends) as a percentage of its price."
+    }
+  ]
+}

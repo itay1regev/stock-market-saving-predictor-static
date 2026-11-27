@@ -45,8 +45,8 @@ const NAV: readonly NavItem[] = [
   },
   {
     id: 'etfs',
-    label: 'ETFs & Funds',
-    activePrefixes: ['/etf', '/fund-exposure'],
+    label: 'ETFs',
+    activePrefixes: ['/etf'],
     mega: true,
     groups: [
       {
@@ -69,9 +69,19 @@ const NAV: readonly NavItem[] = [
         ],
       },
       {
-        heading: 'Exposure analysis',
+        heading: 'Sector analysis',
+        items: [{ label: 'Sector Exposure', to: '/etf/sector-exposure' }],
+      },
+    ],
+  },
+  {
+    id: 'exposure',
+    label: 'Exposure Analysis',
+    activePrefixes: ['/fund-exposure'],
+    groups: [
+      {
+        heading: 'Fund holdings',
         items: [
-          { label: 'Sector Exposure', to: '/etf/sector-exposure' },
           { label: 'MOR Israel TA-125', to: '/fund-exposure/mor-israel-ta125' },
           { label: 'Yalin Lapidot TA-125 Value', to: '/fund-exposure/yalin-lapidot-ta125-value' },
         ],
@@ -114,7 +124,28 @@ const NAV: readonly NavItem[] = [
   { id: 'hishtalmut', label: 'קרנות השתלמות', to: '/gemel/hishtalmut', activePrefixes: ['/gemel/hishtalmut'], lang: 'he' },
   { id: 'kupot-gemel', label: 'קופות גמל', to: '/gemel/kupot-gemel', activePrefixes: ['/gemel/kupot-gemel'], lang: 'he' },
   { id: 'pensia', label: 'קרנות פנסיה', to: '/gemel/pensia', activePrefixes: ['/gemel/pensia'], lang: 'he' },
-  { id: 'blog', label: 'Blog', to: '/blog', activePrefixes: ['/blog'] },
+  {
+    id: 'learn',
+    label: 'How to Invest',
+    activePrefixes: ['/learn'],
+    groups: [
+      {
+        items: [{ label: 'All investing guides', to: '/learn', description: 'Start here: the full learning hub' }],
+      },
+      {
+        heading: 'Topics',
+        items: [
+          { label: 'Investing Basics', to: '/learn/topic/basics' },
+          { label: 'Stocks', to: '/learn/topic/stocks' },
+          { label: 'ETFs & Index Funds', to: '/learn/topic/etfs' },
+          { label: 'Bonds', to: '/learn/topic/bonds' },
+          { label: 'Portfolio & Risk', to: '/learn/topic/portfolio' },
+          { label: 'Retirement & Savings', to: '/learn/topic/retirement' },
+        ],
+      },
+    ],
+  },
+  { id: 'news', label: 'News', to: '/news', activePrefixes: ['/news'] },
 ]
 
 const DRAWER_ID = 'mobile-nav-drawer'
@@ -413,6 +444,7 @@ export default function Header() {
                     <li key={item.id}>
                       <NavLink to={item.to} end className={() => `${TOP_BASE} ${active ? TOP_ACTIVE : TOP_IDLE}`}>
                         {item.lang === 'he' ? <HebrewText>{item.label}</HebrewText> : item.label}
+                        {active && pathname !== item.to && <span className="sr-only">(current section)</span>}
                       </NavLink>
                     </li>
                   )
@@ -525,6 +557,7 @@ export default function Header() {
                         className={() => `${MOBILE_TOP} ${active ? TOP_ACTIVE : MOBILE_TOP_IDLE}`}
                       >
                         {item.lang === 'he' ? <HebrewText>{item.label}</HebrewText> : item.label}
+                        {active && pathname !== item.to && <span className="sr-only">(current section)</span>}
                       </NavLink>
                     </li>
                   )

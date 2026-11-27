@@ -10,7 +10,6 @@ Run with the backend's existing Linux venv, from the backend/ directory:
 """
 import json
 import os
-import shutil
 import sys
 from dataclasses import replace
 from datetime import date, timedelta
@@ -168,36 +167,6 @@ def gen_reit_stocks():
         write_json(DATA_DIR / "reit-stocks" / f"{c.security_id}.json", json.loads(out.model_dump_json()))
 
 
-def gen_blog_posts():
-    from app.content.markdown_loader import CONTENT_DIR, load_posts
-
-    print("Blog posts...")
-    posts = load_posts()
-    payload = [
-        {
-            "id": i + 1,
-            "title": p.title,
-            "slug": p.slug,
-            "content": p.body,
-            "summary": p.excerpt,
-            "category": p.category,
-            "cover_image": p.cover_image,
-            "author": "Staff Writer",
-            "published_at": p.date.isoformat(),
-            "is_saved": False,
-        }
-        for i, p in enumerate(sorted(posts, key=lambda p: p.date, reverse=True))
-    ]
-    write_json(DATA_DIR / "blog-posts.json", payload)
-
-    src_images = CONTENT_DIR / "images"
-    if src_images.exists():
-        IMAGES_DIR.mkdir(parents=True, exist_ok=True)
-        for svg in src_images.glob("*.svg"):
-            shutil.copy(svg, IMAGES_DIR / svg.name)
-        print(f"  copied {len(list(src_images.glob('*.svg')))} cover images -> {IMAGES_DIR.relative_to(REPO_ROOT)}")
-
-
 if __name__ == "__main__":
     gen_backtest_scenarios()
     gen_etfs()
@@ -205,5 +174,5 @@ if __name__ == "__main__":
     gen_companies()
     gen_fund_exposure()
     gen_reit_stocks()
-    gen_blog_posts()
+    # News and How to Invest content: see scripts/build_content.py
     print("Done.")

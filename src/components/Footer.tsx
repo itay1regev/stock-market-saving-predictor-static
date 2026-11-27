@@ -20,7 +20,7 @@ const FOOTER_LINKS: readonly FooterColumn[] = [
   },
   {
     id: 'etfs',
-    heading: 'ETFs & Funds',
+    heading: 'ETFs & Exposure',
     links: [
       { label: 'S&P 500 ETFs', to: '/etf/sp500' },
       { label: 'MSCI World ETFs', to: '/etf/msci-world' },
@@ -33,7 +33,8 @@ const FOOTER_LINKS: readonly FooterColumn[] = [
     id: 'resources',
     heading: 'Resources',
     links: [
-      { label: 'Blog', to: '/blog' },
+      { label: 'How to Invest', to: '/learn' },
+      { label: 'News', to: '/news' },
       { label: 'Terms of Use & Disclaimer', to: '/terms' },
     ],
   },
