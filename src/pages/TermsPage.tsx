@@ -59,19 +59,11 @@ export default function TermsPage() {
       </Section>
 
       <Section title="3. Third-party data sources">
-        <p>Data on the Site is obtained from third parties, including:</p>
-        <ul className="list-disc space-y-1 pl-5">
-          <li>Yahoo Finance — U.S.-listed ETF and price data</li>
-          <li>Federal Reserve Bank of St. Louis (FRED) — macroeconomic indicators</li>
-          <li>funder.co.il — Israeli index-tracking fund data</li>
-          <li>Tel Aviv Stock Exchange (TASE) and the MAYA reporting system — company filings and reports</li>
-          <li>bizportal.co.il — company financial data</li>
-          <li>mygemel.net — Israeli study fund (קרנות השתלמות), provident fund (קופות גמל) and pension fund (קרנות פנסיה) returns</li>
-        </ul>
+        <p>Data on the Site is obtained from third parties.</p>
         <p>
           The operator does not independently audit, verify or guarantee these sources. Third-party data remains the
-          property of its respective owners and is subject to their own terms. Inclusion of a source does not imply
-          its endorsement of the Site. Links to external sites are provided for convenience only; the operator is not
+          property of its respective owners and is subject to their own terms. The use of a third party's data does
+          not imply that the third party endorses the Site. Links to external sites are provided for convenience only; the operator is not
           responsible for their content.
         </p>
       </Section>
